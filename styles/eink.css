@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* =========================================================================
+   eink.css — Stylesheet tối ưu cho màn hình E-ink (Kindle / Kobo / Boox...)
+   Dùng cho tài liệu "600 Từ Vựng Tiếng Trung Đầu Tiên"
+   Nguyên tắc: đen–trắng, tương phản cao, không tràn lề, hạn chế nền xám
+   để giảm hiện tượng bóng mờ (ghosting) khi lật trang.
+   ========================================================================= */
+
+/* ---------- Nền tảng ---------- */
+html, body { margin: 0; padding: 0; }
+
+body {
+  font-family: "Noto Serif CJK SC", "Songti SC", "SimSun", serif;
+  font-size: 1em;
+  line-height: 1.68;
+  color: #000;
+  background: #fff;
+  text-align: justify;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  widows: 2;
+  orphans: 2;
+}
+
+/* ---------- Tiêu đề ---------- */
+h1 {
+  font-size: 1.55em;
+  line-height: 1.35;
+  text-align: center;
+  margin: 1.4em 0 0.5em;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+h2 {
+  font-size: 1.22em;
+  line-height: 1.4;
+  margin: 1.5em 0 0.6em;
+  padding-bottom: 0.25em;
+  border-bottom: 2px solid #000;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+h3 {
+  font-size: 1.18em;
+  line-height: 1.4;
+  margin: 1.1em 0 0.7em;
+  padding: 0.22em 0.5em;
+  border-left: 5px solid #000;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+/* ---------- Đoạn văn & danh sách ---------- */
+p { margin: 0.38em 0; text-indent: 0; }
+
+ul, ol {
+  margin: 0.35em 0 0.7em;
+  padding-left: 1.15em;
+}
+
+li { margin: 0.28em 0; }
+
+li > ul, li > ol { margin: 0.2em 0 0.25em; }
+
+/* ---------- Khối trích dẫn: khung nổi bật, an toàn cho E-ink ---------- */
+blockquote {
+  margin: 0.9em 0;
+  padding: 0.65em 0.85em;
+  border: 1px solid #000;
+  border-left: 6px solid #000;
+  background: #f2f2f2;
+  font-style: italic;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+blockquote p { margin: 0; }
+
+/* ---------- Ảnh thứ tự nét ---------- */
+img {
+  max-width: 60%;
+  height: auto;
+  display: block;
+  margin: 10px auto;
+  page-break-inside: avoid;
+  break-inside: avoid;
+}
+
+/* ---------- Đường phân cách ---------- */
+hr {
+  border: 0;
+  border-top: 1px solid #000;
+  margin: 1em 0;
+}
+
+/* ---------- Chữ nhấn mạnh ---------- */
+strong { font-weight: bold; }
+em { font-style: italic; }
+
+/* ---------- Mục lục ---------- */
+nav#toc ol { list-style-type: none; padding-left: 0.9em; }
+nav#toc li { margin: 0.32em 0; line-height: 1.4; }
+
+/* ---------- Ngắt trang ---------- */
+.newpage { page-break-before: always; break-before: page; }
