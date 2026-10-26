@@ -17,6 +17,7 @@ $pats = [ordered]@{
   'BocTach'     = '^\*\*Bóc tách thành phần từng chữ\*\*'
   'NguonGocChu' = '^\*\*Nguồn gốc & Bản chất từng chữ\*\*'
   'NguonGocTu'  = '^\*\*Nguồn gốc & Bản chất của từ / cụm từ\*\*'
+  'VanHoa'      = '^\*\*Kiến thức văn hóa & lịch sử\*\*'
   'HinhAnh'     = '^\*\*Hình ảnh liên tưởng'
   'NguCanh'     = '^\*\*Ngữ cảnh sử dụng'
   'Quote'       = '^> \*'

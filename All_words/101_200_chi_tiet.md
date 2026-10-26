@@ -24,15 +24,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 车:**
-  * Nét 1 — Hoành (ngang): thanh ngang trên cùng, tượng trưng cho trục ngang của cỗ xe.
-  * Nét 2 — Phẩy chiết (xiên gấp): nét xiên xuống rồi bẻ ngang, gợi thành xe và tay kéo.
-  * Nét 3 — Hoành: thanh ngang thứ hai, tượng trưng cho sàn xe.
-  * Nét 4 — Thụ (sổ): nét dọc xuyên qua hai thanh ngang, chính là trục bánh xe.
-  * Mối liên hệ nội tại: Hai thanh ngang bị một nét dọc xuyên qua tạo thành khung cỗ xe nhìn từ trên xuống — trục, sàn, thành xe. Chữ 车 giản thể đã lược bớt phần thùng xe của 車 phồn thể nhưng giữ nguyên "bộ xương" ấy.
+  * Khung ngoài: thùng xe nhìn từ trên xuống.
+  * Trục dọc và hai thanh ngang: trục bánh và sàn xe.
+  * Ghép lại: cỗ xe ngựa thời cổ — "xe". Phồn thể 車 còn rõ thùng xe; giản thể 车 giữ lại bộ khung.
 * **Chữ 站:**
-  * Bộ 立 (bên trái): năm nét — **đứng thẳng**, một người dang hai tay đứng trên mặt đất.
-  * Phần 占 (bên phải): năm nét — 卜 (bói) + 口 (miệng) — **chiếm giữ, tuyên bố một chỗ**; đồng thời biểu âm (zhàn).
-  * Mối liên hệ nội tại: "Đứng" (立) + "chiếm chỗ" (占) = **chiếm một vị trí đứng**. Từ ý niệm "đứng lại" sinh ra nghĩa "trạm dừng" — nơi xe và người dừng chân.
+  * Bên trái 立: người đứng thẳng.
+  * Bên phải 占: chiếm chỗ, biểu âm (zhàn).
+  * Ghép lại: đứng lại một chỗ — "trạm dừng, nhà ga".
+  * Chuyện thú vị: 车站 là bến xe/ ga tàu; 站 còn trong 火车站, 网站 — "trạm" trên mạng.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -42,6 +41,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 车站 ghép theo trật tự "vật thể + địa điểm": **xe** đứng trước, **trạm** đứng sau. Người Hán quan niệm địa điểm phải gắn với thứ được đặt ở đó, nên "trạm của xe" trở thành "bến xe". Cùng khuôn mẫu này ta có 火车站 (ga tàu hoả), 汽车站 (bến xe khách), 地铁站 (ga tàu điện ngầm) — chỉ cần thay chữ đứng trước là đổi loại phương tiện.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 车站 là bến xe/ ga; 火车站 là ga tàu, 汽车站 là bến xe khách.
+* Dịp Tết, hàng trăm triệu người di chuyển qua các ga — hiện tượng 春运 (Xuân vận), cuộc di cư lớn nhất thế giới.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -78,13 +82,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 地:**
-  * Bộ 土 (bên trái): ba nét — **đất**, hình gò đất nhô lên khỏi mặt nền.
-  * Phần 也 (bên phải): ba nét — hình con rắn hoặc cái chén có tay cầm, ở đây đóng vai **biểu âm** (dì).
-  * Mối liên hệ nội tại: 土 cho biết phạm trù nghĩa "đất", 也 cho biết âm đọc. Đây là chữ **hình thanh** kinh điển: một nửa gợi nghĩa, một nửa gợi tiếng.
+  * Bộ 土 (bên trái): **đất**, hình gò đất nhô lên khỏi mặt nền.
+  * Phần 也 (bên phải): hình con rắn hoặc cái chén có tay cầm, ở đây đóng vai **biểu âm** (dì).
+  * Ghép lại: 土 cho biết phạm trù nghĩa "đất", 也 cho biết âm đọc. Đây là chữ **hình thanh** kinh điển: một nửa gợi nghĩa, một nửa gợi tiếng.
 * **Chữ 铁:**
-  * Bộ 钅 (bên trái): năm nét — dạng giản thể của 金 (kim loại), gợi một thỏi kim loại trên cái đe.
-  * Phần 失 (bên phải): năm nét — "mất, đánh rơi", đồng thời **biểu âm** (shī, gần với tiě).
-  * Mối liên hệ nội tại: Kim loại (钅) + âm "thất" (失) = **sắt** — kim loại thô cứng, thứ mà người xưa "đánh rơi" xuống đất dưới dạng quặng rồi nung chảy.
+  * Bộ 钅 (bên trái): dạng giản thể của 金 (kim loại), gợi một thỏi kim loại trên cái đe.
+  * Phần 失 (bên phải): "mất, đánh rơi", đồng thời **biểu âm** (shī, gần với tiě).
+  * Ghép lại: Kim loại (钅) + âm "thất" (失) = **sắt** — kim loại thô cứng, thứ mà người xưa "đánh rơi" xuống đất dưới dạng quặng rồi nung chảy.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -94,6 +98,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 地铁 là từ rút gọn của **地下铁路** (đường sắt dưới đất) — một khái niệm du nhập từ phương Tây đầu thế kỷ XX. Người Hán không mượn âm mà **dịch nghĩa**: lấy hai chữ bản địa mạnh nhất — 地 (lòng đất) và 铁 (đường sắt) — ghép lại. Cách dịch này cho thấy tư duy "đặt tên bằng chất liệu và vị trí" rất đặc trưng: đường sắt làm bằng sắt, nằm dưới đất, nên gọi là "sắt dưới đất".
+
+**Kiến thức văn hóa & lịch sử**
+
+* 地铁 là tàu điện ngầm; tuyến đầu tiên của Trung Quốc mở ở Bắc Kinh năm 1969.
+* 地铁 trong tiếng Hán còn gọi là 地下铁; các thành phố lớn như Thượng Hải, Quảng Châu có mạng lưới rất dày.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -130,13 +139,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 宾:**
-  * Bộ 宀 (phía trên): ba nét — **mái nhà**, biểu tượng của không gian được che chở.
-  * Phần 兵 (phía dưới, dạng giản thể): bảy nét — "binh lính", đồng thời góp âm (bīn ~ bīng).
-  * Mối liên hệ nội tại: Dưới mái nhà (宀) có người (兵) = **người được nhà che chở** — tức là khách. Chữ phồn thể 賓 còn giữ 貝 (vỏ sò — của cải) bên dưới, nhắc rằng khách đến nhà bao giờ cũng mang theo lễ vật.
+  * Bộ 宀 (phía trên): **mái nhà**, biểu tượng của không gian được che chở.
+  * Phần 兵 (phía dưới, dạng giản thể): "binh lính", đồng thời góp âm (bīn ~ bīng).
+  * Ghép lại: Dưới mái nhà (宀) có người (兵) = **người được nhà che chở** — tức là khách. Chữ phồn thể 賓 còn giữ 貝 (vỏ sò — của cải) bên dưới, nhắc rằng khách đến nhà bao giờ cũng mang theo lễ vật.
 * **Chữ 馆:**
-  * Bộ 饣 (bên trái): ba nét — dạng giản thể của 食 (ăn), gợi cái bát có nắp và hạt gạo.
-  * Phần 官 (bên phải): tám nét — "quan chức", ở đây **biểu âm** (guān).
-  * Mối liên hệ nội tại: "Ăn" (饣) + âm "quan" (官) = **nhà công dành cho khách ăn ở**. Thời cổ, 馆 là công quán — nơi triều đình bố trí chỗ nghỉ cho sứ thần.
+  * Bộ 饣 (bên trái): dạng giản thể của 食 (ăn), gợi cái bát có nắp và hạt gạo.
+  * Phần 官 (bên phải): "quan chức", ở đây **biểu âm** (guān).
+  * Ghép lại: "Ăn" (饣) + âm "quan" (官) = **nhà công dành cho khách ăn ở**. Thời cổ, 馆 là công quán — nơi triều đình bố trí chỗ nghỉ cho sứ thần.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -146,6 +155,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 宾馆 = **nhà dành cho khách**. Điều đáng chú ý: 宾馆 trang trọng hơn 旅馆 (nhà trọ) và 酒店 (tửu điếm). 宾馆 thường là nơi đón tiếp khách chính thức, có lễ tân, có phục vụ — nó vẫn giữ cái hồn của "tân quán" thời xưa: một mái nhà mở ra cho người ở xa đến.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 宾馆 là khách sạn/ nhà nghỉ; 酒店 thường lớn hơn, 招待所 là nhà khách bình dân.
+* Trong 宾馆, nhân viên gọi khách là 客人; "宾至如归" (khách đến như về nhà) là câu chào quen thuộc.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -182,13 +196,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 银:**
-  * Bộ 钅 (bên trái): năm nét — **kim loại**, dạng giản thể của 金.
-  * Phần 艮 (bên phải): sáu nét — "dừng lại, cứng rắn", đồng thời **biểu âm** (gèn).
-  * Mối liên hệ nội tại: Kim loại (钅) + âm "cấn" (艮) = **bạc**. Chữ 艮 còn mang nghĩa "dừng lại", gợi sự bền vững — đúng bản chất của kim loại quý dùng làm tiền.
+  * Bên trái 钅: kim loại.
+  * Bên phải 艮: biểu âm (gèn ~ yín), cũng gợi "cứng, dừng lại".
+  * Ghép lại: kim loại sáng trắng — "bạc".
 * **Chữ 行:**
-  * Nét 1–3: bộ 彳 (bên trái) — **bước chân**, nửa con đường.
-  * Nét 4–6: phần bên phải — nửa con đường còn lại, có mũi tên chỉ hướng.
-  * Mối liên hệ nội tại: Hai nửa đường ghép lại thành **ngã tư**. Từ hình ảnh ngã tư, 行 mang hai nghĩa song sinh: **đi** (đọc xíng) và **dãy phố, hiệu buôn** (đọc háng) — vì phố chính là nơi người ta đi qua và buôn bán.
+  * Bên trái 彳: nửa bước chân.
+  * Bên phải 亍: nửa bước còn lại.
+  * Ghép lại: hai nửa bước nối nhau thành con đường/ ngã tư. 行 đọc "xíng" là đi, "háng" là hàng.
+  * Chuyện thú vị: 银行 là "hàng bạc" — nơi giao dịch tiền. 行 còn trong 行李 (hành lý), 行业 (ngành nghề).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -198,6 +213,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 银行 là từ **dịch nghĩa** của tiếng châu Âu *bank*. Người Hán thời Thanh nhìn các hiệu buôn của người nước ngoài chuyên đổi và giữ tiền, thấy đó là "hàng bạc" — một dãy phố (行) giao dịch bằng bạc (银) — nên đặt tên như vậy. Cùng một khái niệm, tiếng Ý gọi là *banca* (cái ghế dài của người đổi tiền), còn tiếng Hán gọi là "hiệu bạc". Hai cách nhìn, một sự thật: nơi tiền được cất giữ và luân chuyển.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 银行 là ngân hàng; bốn ngân hàng quốc doanh lớn nhất gọi là "四大行".
+* Ngày nay phần lớn giao dịch nhỏ ở Trung Quốc diễn ra qua 支付宝 và 微信支付, ít dùng tiền mặt.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -234,23 +254,28 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 超:**
-  * Bộ 走 (bao quanh bên trái và dưới): bảy nét — **bước chân đang đi**, có nét móc như bàn chân nhấc lên.
-  * Phần 召 (bên phải): năm nét — 刀 (dao) + 口 (miệng) — "gọi mời", đồng thời **biểu âm** (zhào).
-  * Mối liên hệ nội tại: Bước chân (走) + tiếng gọi (召) = **bước qua, vượt lên**. Muốn vượt qua ai, phải bước nhanh hơn và vượt lên phía trước.
+  * Bộ 走: bước chân đang đi, có phần móc như bàn chân nhấc lên.
+  * Phần 召: 刀 + 口 — tiếng gọi mời, đồng thời biểu âm (zhào).
+  * Ghép lại: bước chân vượt lên, đi nhanh hơn tiếng gọi — "vượt, siêu".
 * **Chữ 市:**
-  * Nét 1 — Điểm (chấm): đỉnh của mái che.
-  * Nét 2 — Hoành: thanh ngang của mái.
-  * Phần 巾 (phía dưới): ba nét — **tấm khăn, tấm biển hiệu** treo lên.
-  * Mối liên hệ nội tại: Một tấm khăn hiệu treo dưới mái = chỗ người ta tụ họp buôn bán. Từ "tấm biển" đến "cái chợ" chỉ cách nhau một bước: có biển là có chợ.
+  * Phần trên 亠: mái che/ tấm biển.
+  * Phần dưới 巾: tấm khăn, tấm biển hiệu treo lên.
+  * Ghép lại: tấm biển hiệu dưới mái — nơi tụ họp buôn bán, thành "chợ".
+  * Chuyện thú vị: 超市 là siêu thị; 市 trong 城市 (thành phố), 市场 (thị trường).
 
 **Nguồn gốc & Bản chất từng chữ**
 
-* **Chữ 超:** Xuất hiện từ thời Chiến Quốc, nghĩa gốc là **vượt qua, nhảy qua**. Trong Phật giáo, 超 mang nghĩa "siêu thoát, vượt lên trên". Đến hiện đại, nó trở thành hình vị chỉ mức độ "siêu cao" trong vô số từ: 超级 (siêu cấp), 超速 (quá tốc độ), 超市场.
+* **Chữ 超:** Xuất hiện từ thời Chiến Quốc, nghĩa gốc là **vượt qua, nhảy qua**. Trong Phật giáo, 超 mang nghĩa "siêu thoát, vượt lên trên". Đến hiện đại, nó trở thành hình vị chỉ mức độ "siêu cao" trong vô số từ: 超级 (siêu cấp), 超速 (quá tốc độ), 超市 (siêu thị).
 * **Chữ 市:** Giáp cốt văn đã có 市 với hình dạng cái biển hiệu hoặc tấm khăn treo nơi chợ. Nghĩa gốc: **nơi trao đổi hàng hoá**. Từ 市 mở rộng thành "thành phố" (城市) — vì thành phố sinh ra từ chợ.
 
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 超市 là từ rút gọn của **超级市场** (siêu cấp thị trường). Đây là từ du nhập: khi mô hình bán hàng tự chọn của phương Tây vào Trung Quốc, người Hán dịch *supermarket* thành "thị trường siêu cấp" rồi rút gọn còn hai chữ. Điều thú vị: 超 vốn là động từ "vượt", khi đứng trước 市 lại thành tính từ chỉ quy mô — ngôn ngữ luôn tái sử dụng chất liệu cũ cho khái niệm mới.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 超市 là siêu thị; mô hình này du nhập Trung Quốc từ thập niên 1980 và phát triển rất nhanh.
+* 便利店 (cửa hàng tiện lợi) mọc khắp các thành phố, mở 24 giờ.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -289,19 +314,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 图:**
-  * Bộ 囗 (bao quanh): khung vuông — **ranh giới, tấm bản đồ được đóng khung**.
-  * Phần 冬 (bên trong, giản thể): năm nét — mùa đông, đóng vai **biểu âm** (dōng ~ tú).
-  * Mối liên hệ nội tại: Một khung kín có hình vẽ bên trong = **bức tranh, tấm bản đồ**. Chữ phồn thể 圖 có bên trong là 啚 (kho thóc, bản vẽ địa hình) — vẫn giữ ý niệm "vẽ lại thế giới vào trong khung".
-* **Chữ 书:**
-  * Nét 1 — Nét móc (hình cái móc).
-  * Nét 2 — Hoành.
-  * Nét 3 — Móc dọc.
-  * Nét 4 — Điểm.
-  * Mối liên hệ nội tại: Chữ giản thể là hình khối của **cây bút lông đặt cạnh trang giấy**. Chữ phồn thể 書 gồm 聿 (cây bút) + 者 (người) — rõ ràng hơn: **người cầm bút**.
+  * Khung 囗: bản đồ được đóng khung, ranh giới.
+  * Bên trong 冬: biểu âm (dōng ~ tú), cũng gợi "mùa đông/ cuối".
+  * Ghép lại: hình vẽ trong khung — "bản đồ, hình ảnh".
 * **Chữ 馆:**
-  * Bộ 饣 (bên trái): **ăn uống**, gợi không gian sinh hoạt.
-  * Phần 官 (bên phải): "quan", **biểu âm** (guān).
-  * Mối liên hệ nội tại: Nhà công (官) có chức năng ăn ở / sinh hoạt (饣) = **công quán**, về sau thành "nhà dành cho một hoạt động".
+  * Bên trái 饣: thức ăn, nơi ăn uống.
+  * Bên phải 官: quan chức, biểu âm (guān).
+  * Ghép lại: nhà dành cho khách/ quan — "quán, nhà".
+  * Chuyện thú vị: 图书馆 là thư viện; 饭馆 là quán ăn; 宾馆 là khách sạn. 馆 gốc chỉ nhà tiếp khách của quan.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -312,6 +332,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 图书馆 = **nhà chứa bản đồ và sách**. Cấu trúc "图 + 书 + 馆" phản ánh thứ tự tích luỹ tri thức của người xưa: trước hết là **bản đồ** (hiểu đất đai, thế giới), sau là **sách** (ghi lại lời dạy), cuối cùng là **nhà** để giữ gìn. Ba lớp ấy xếp chồng lên nhau chính là một thư viện: nơi thế giới được thu nhỏ và cất giữ.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 图书馆 là thư viện; 国家图书馆 ở Bắc Kinh là một trong những thư viện lớn nhất thế giới.
+* Tiếng Hán gọi sách là 图书 — "đồ và sách", phản ánh cách xếp loại tài liệu cổ.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -348,13 +373,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 公:**
-  * Phần 八 (phía trên): hai nét — **chia ra hai phía**, tượng trưng cho sự phân chia.
-  * Phần 厶 (phía dưới): hai nét — **cái riêng, của riêng** (chữ 私 cổ).
-  * Mối liên hệ nội tại: Chia (八) cái riêng (厶) ra cho mọi người = **công bằng, cái chung**. Đây là định nghĩa bằng hình ảnh: công là khi cái riêng bị mở ra cho tất cả.
+  * Phần 八 (phía trên): **chia ra hai phía**, tượng trưng cho sự phân chia.
+  * Phần 厶 (phía dưới): **cái riêng, của riêng** (chữ 私 cổ).
+  * Ghép lại: Chia (八) cái riêng (厶) ra cho mọi người = **công bằng, cái chung**. Đây là định nghĩa bằng hình ảnh: công là khi cái riêng bị mở ra cho tất cả.
 * **Chữ 园:**
   * Bộ 囗 (khung ngoài): **hàng rào, ranh giới** bao quanh một khu đất.
   * Phần 元 (bên trong): "nguyên, đầu tiên", đồng thời **biểu âm** (yuán).
-  * Mối liên hệ nội tại: Khu đất có rào (囗) trồng cây (元 gợi sự khởi đầu, mầm sống) = **vườn**. Vườn là thiên nhiên được "đóng khung" và chăm sóc.
+  * Ghép lại: Khu đất có rào (囗) trồng cây (元 gợi sự khởi đầu, mầm sống) = **vườn**. Vườn là thiên nhiên được "đóng khung" và chăm sóc.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -364,6 +389,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 公园 = **khu vườn của công chúng**. Đây là khái niệm du nhập từ phương Tây (thế kỷ XIX), khi đô thị công nghiệp cần "lá phổi xanh" cho dân thành thị. Người Hán giữ nguyên tinh thần chữ 公: khu vườn này không thuộc về một gia đình nào, nó là cái riêng (厶) đã được chia (八) cho tất cả mọi người.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 公园 là công viên; buổi sáng, người già tập 太极, 广场舞 — hình ảnh quen thuộc ở các công viên Trung Quốc.
+* 公园 cũng là nơi sinh hoạt cộng đồng: đánh cờ, hát, tập thể dục.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -402,18 +432,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 洗:**
-  * Bộ 氵 (bên trái): ba nét — **nước**, ba giọt nước nhỏ xuống.
-  * Phần 先 (bên phải): sáu nét — "trước", đồng thời **biểu âm** (xiān).
-  * Mối liên hệ nội tại: Nước (氵) + "trước" (先) = **rửa cho sạch trước khi làm việc gì**. Trong văn hoá Hán, rửa tay là nghi thức bắt buộc trước khi tế lễ, trước khi ăn.
-* **Chữ 手:**
-  * Nét 1 — Phiệt (phẩy): ngón cái.
-  * Nét 2–3 — Hoành, hoành: lòng bàn tay.
-  * Nét 4 — Móc dọc: cổ tay và cánh tay.
-  * Mối liên hệ nội tại: Hình **bàn tay năm ngón** nhìn nghiêng, các ngón được tối giản thành ba nét ngang. Chữ này gần như không thay đổi suốt 3000 năm.
+  * Bên trái 氵: nước.
+  * Bên phải 先: biểu âm (xiān), cũng nghĩa là "trước".
+  * Ghép lại: dùng nước rửa sạch trước khi làm gì — "rửa".
 * **Chữ 间:**
-  * Bộ 门 (khung ngoài): **cánh cửa** — hai tấm cửa của người Hán cổ.
-  * Phần 日 (bên trong): **mặt trời** — ánh sáng lọt qua khe cửa.
-  * Mối liên hệ nội tại: Ánh nắng (日) xuyên qua khe cửa (门) = **khe hở, khoảng giữa**. Từ "khe" mở rộng thành "gian phòng" — vì phòng chính là khoảng không gian được ngăn bởi các bức vách.
+  * Khung 门: cánh cửa.
+  * Bên trong 日: ánh sáng lọt qua khe cửa.
+  * Ghép lại: khoảng trống giữa hai cánh cửa — "khoảng, gian".
+  * Chuyện thú vị: 洗手间 là nhà vệ sinh; 间 trong 房间 (căn phòng), 时间 (thời gian). 间 đọc "jiān" là khoảng, "jiàn" là xen vào.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -424,6 +450,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 洗手间 = **gian phòng để rửa tay**. Đây là cách nói **uý ngữ** (euphemism) giống tiếng Anh *washroom* hay *restroom*: người Hán tránh gọi thẳng tên chức năng thật của căn phòng, mà gọi bằng hành động sạch sẽ diễn ra trong đó. Cùng nhóm này còn có 卫生间 (phòng vệ sinh), 厕所 (nhà xí — thô hơn).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 洗手间 là nhà vệ sinh — cách nói lịch sự; 厕所 thông tục hơn, 卫生间 trung tính.
+* Người Hán thường nói 去洗手间 (đi rửa tay) để tránh nói thẳng.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -460,13 +491,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 中:**
-  * Khung 口: một hình vuông — **khu vực, doanh trại, lãnh thổ**.
-  * Nét 丨: nét dọc xuyên qua chính giữa khung — **cột cờ hoặc trục giữa**.
-  * Mối liên hệ nội tại: Một cây cột dựng đúng giữa khu đất = **trung tâm**. Người xưa cắm cờ giữa doanh trại để mọi người nhìn thấy; cái cột ấy trở thành biểu tượng của "chính giữa".
+  * Khung 口: không gian.
+  * Đường dọc 丨: trục giữa.
+  * Ghép lại: trung tâm — "giữa".
 * **Chữ 间:**
-  * Bộ 门: cánh cửa.
-  * Phần 日: ánh sáng lọt qua khe.
-  * Mối liên hệ nội tại: Như đã phân tích — **khoảng hở, khoảng không**.
+  * Khung 门: cửa.
+  * Bên trong 日: ánh sáng lọt qua khe cửa.
+  * Ghép lại: khoảng giữa hai cánh cửa — "khoảng".
+  * Chuyện thú vị: 中间 là ở giữa; 间 trong 房间 (phòng), 时间 (thời gian).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -476,6 +508,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 中间 = **khoảng ở giữa**. Điều đáng chú ý: 中 chỉ **điểm trung tâm**, còn 间 chỉ **khoảng không gian**. Ghép lại, từ không chỉ nói "ở giữa" mà nói **vùng ở giữa** — một khoảng có bề rộng, không phải một điểm. Vì thế 中间 dùng được cho cả không gian (桌子中间) lẫn vị trí trong một nhóm người (他们中间).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 中间 là ở giữa; 中 là trung tâm, 间 là khoảng.
+* Trong văn hóa Hán, vị trí giữa là vị trí danh dự: người chủ trì ngồi giữa bàn tiệc.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -512,15 +549,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 地:**
-  * Bộ 土 (bên trái): đất, gò đất.
-  * Phần 也 (bên phải): biểu âm (dì).
-  * Mối liên hệ nội tại: **Đất** + âm "dã" = mặt đất, nền đất.
+  * Bên trái 土: đất.
+  * Bên phải 也: biểu âm (yě ~ dì), cũng là hình con rắn/ cái chén.
+  * Ghép lại: mặt đất — "địa".
 * **Chữ 方:**
-  * Nét 1 — Điểm: đỉnh.
-  * Nét 2 — Hoành: thanh ngang.
-  * Nét 3 — Phiệt cong: cánh tay/vai.
-  * Nét 4 — Móc: phần thân.
-  * Mối liên hệ nội tại: Có hai thuyết giải thích: (1) hình **hai chiếc thuyền buộc song song** — tượng trưng cho sự song song, vuông vắn; (2) hình **cái cày** — công cụ chia đất thành thửa. Cả hai đều dẫn đến nghĩa "phương hướng, phía, vuông vức".
+  * Phần trên 亠: hướng/ đỉnh.
+  * Phần dưới: hình cái cày hoặc vật vuông có cạnh.
+  * Ghép lại: bốn phương, hướng vuông — "phương hướng, nơi".
+  * Chuyện thú vị: 地方 là nơi chốn, địa phương; 方 trong 方法 (cách làm), 方向 (phương hướng). 方 còn là "vuông" — đối lập với 圆 (tròn).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -530,6 +566,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 地方 = **phương của đất** — tức là "phía nào đó trên mặt đất". Người Hán định vị không gian bằng cách lấy mặt đất làm nền (地) rồi chia nó thành các phía (方). Điều thú vị: khi đọc nhẹ **dìfang**, từ mang nghĩa rất khẩu ngữ "chỗ, nơi"; khi đọc đủ **dìfāng**, từ mang nghĩa trang trọng "địa phương" (so với trung ương). Cùng một chữ, hai tầng nghĩa — chỉ khác ở thanh điệu và ngữ cảnh.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 地方 là nơi chốn/ địa phương; 地方菜 là món ăn địa phương.
+* Trong chính trị, 地方 (địa phương) đối lập với 中央 (trung ương) — cặp khái niệm quan trọng.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -566,13 +607,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 见:**
-  * Phần 目 (phía trên): **con mắt**, vẽ theo chiều dọc.
-  * Phần 儿 (phía dưới): **đôi chân người** đang bước đi.
-  * Mối liên hệ nội tại: Con mắt (目) đặt trên đôi chân (儿) = **người đang nhìn thấy**. Chữ phồn thể 見 giữ nguyên kết cấu này; giản thể 见 rút gọn phần chân thành hai nét.
+  * Phần 目 (phía trên): con mắt, vẽ theo chiều dọc.
+  * Phần 儿 (phía dưới): đôi chân người đang bước đi.
+  * Ghép lại: con mắt đặt trên đôi chân = người đang nhìn thấy. Phồn thể 見 giữ nguyên kết cấu; giản thể 见 rút gọn phần chân.
 * **Chữ 面:**
   * Khung 一 + 囗: đường viền khuôn mặt.
-  * Phần bên trong: mũi và mắt — **đường nét của gương mặt**.
-  * Mối liên hệ nội tại: Một khuôn mặt được đóng khung trong đường viền, bên trong là chi tiết mắt mũi. Đây là chữ tượng hình "chân dung" hiếm hoi của chữ Hán.
+  * Phần bên trong: mũi và mắt — các đường cong của gương mặt.
+  * Ghép lại: một khuôn mặt được đóng khung, bên trong là chi tiết mắt mũi — chữ tượng hình "chân dung" hiếm hoi của chữ Hán.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -582,6 +623,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 见面 = **thấy mặt nhau**. Người Hán không nói "gặp người" mà nói "thấy mặt" — bởi trong giao tiếp, **khuôn mặt** mới là thứ được nhìn thấy và ghi nhớ. Từ này thường dùng với 跟/和: 跟他见面 (gặp mặt anh ấy).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 见面 là gặp mặt; 见 là thấy, 面 là mặt — gặp trực tiếp, không dùng qua điện thoại.
+* 见面 thường dùng với 跟/和: 我跟他见过面 (Tôi đã gặp anh ấy).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -620,14 +666,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 聊:**
-  * Bộ 耳 (bên trái): **cái tai** — nơi tiếp nhận lời nói.
-  * Phần 卯 (bên phải): sáu nét — "mão", giờ mão; đồng thời **biểu âm** (mǎo ~ liáo).
-  * Mối liên hệ nội tại: Tai (耳) + âm "mão" = chữ hình thanh. Nghĩa cổ của 聊 là **nghe, lắng nghe** — nói chuyện là phải có người nghe.
+  * Bên trái 耳: tai.
+  * Bên phải 卯: biểu âm (mǎo ~ liáo), cũng gợi "mở ra".
+  * Ghép lại: nói chuyện bên tai — "tán gẫu, trò chuyện".
 * **Chữ 天:**
-  * Nét 1 — Hoành: đường ngang phía trên.
-  * Phần 大 (bên dưới): **người lớn** dang tay dang chân.
-  * Mối liên hệ nội tại: Một người (大) đội trên đầu một đường ngang (一) = **phần cao nhất trên đầu người**, tức là **bầu trời**.
-* **Chữ 儿:** Hình một đứa trẻ sơ sinh bé xíu (xem mục 儿子). Trong 聊天儿, 儿 chỉ là **hậu tố uốn lưỡi** ("r") của phương ngữ Bắc Kinh, không mang nghĩa.
+  * Đường ngang trên: bầu trời.
+  * Bên dưới 大: người dang tay chân.
+  * Ghép lại: người đội trời — "trời, ngày".
+  * Chuyện thú vị: 聊天儿 là tán gẫu (cách nói Bắc Kinh, có âm "儿" hóa). 聊 trong 无聊 là buồn chán; 天 trong 天气 là thời tiết.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -637,6 +683,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 聊天 = **nói chuyện trên trời** — tức là nói những chuyện "trời ơi đất hỡi", không liên quan đến công việc, không có mục đích thực dụng. Cách đặt tên này rất hình tượng: chuyện trên trời thì không cần phải chịu trách nhiệm, nên nói thoải mái. Hậu tố 儿 khiến từ mang sắc thái **thân mật, khẩu ngữ**, dùng trong đời sống hằng ngày.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 聊天儿 là tán gẫu; 儿 hóa là đặc trưng khẩu ngữ Bắc Kinh.
+* Người Hán hiện đại "chat" qua 微信 (WeChat) — 聊天 gắn với văn hóa nhắn tin thay vì gặp trực tiếp.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -675,11 +726,11 @@
 * **Chữ 帮:**
   * Phần 邦 (phía trên): "nước, bang" — đồng thời **biểu âm** (bāng).
   * Bộ 巾 (phía dưới): **tấm vải** — mảnh vải hai bên mép giày.
-  * Mối liên hệ nội tại: Nghĩa gốc là **mép giày** (鞋帮) — hai mảnh vải ôm lấy chân, nâng đỡ bàn chân. Từ hình ảnh "nâng đỡ hai bên" ấy, 帮 sinh ra nghĩa **bè phái** (một nhóm người đứng cạnh nhau) rồi thành **giúp đỡ**.
+  * Ghép lại: Nghĩa gốc là **mép giày** (鞋帮) — hai mảnh vải ôm lấy chân, nâng đỡ bàn chân. Từ hình ảnh "nâng đỡ hai bên" ấy, 帮 sinh ra nghĩa **bè phái** (một nhóm người đứng cạnh nhau) rồi thành **giúp đỡ**.
 * **Chữ 忙:**
-  * Bộ 忄 (bên trái): **trái tim**, ba nét như nhịp đập.
+  * Bộ 忄 (bên trái): **trái tim**, như nhịp đập.
   * Phần 亡 (bên phải): "mất, chết", đồng thời **biểu âm** (wáng).
-  * Mối liên hệ nội tại: Tim (忄) + "mất" (亡) = **tâm trí bị cuốn đi, không còn thuộc về mình** — đó chính là trạng thái bận rộn.
+  * Ghép lại: Tim (忄) + "mất" (亡) = **tâm trí bị cuốn đi, không còn thuộc về mình** — đó chính là trạng thái bận rộn.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -689,6 +740,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 帮忙 = **giúp khi người khác đang bận**. Người Hán không nói "giúp người" chung chung mà nói rõ: giúp vào lúc **mang** (bận rộn). Điều này phản ánh một chuẩn mực văn hoá: sự giúp đỡ có giá trị nhất khi được trao đúng lúc người ta cần. Lưu ý ngữ pháp: 帮忙 là **động từ bất cập vật** — nói 帮我的忙 hoặc 帮我一个忙, không nói 帮忙我.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 帮忙 là giúp đỡ; 帮 là giúp, 忙 là bận — giúp người đang bận.
+* 帮忙 và 帮助 đều là giúp, nhưng 帮忙 thường dùng trong khẩu ngữ, 帮助 trang trọng hơn.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -723,9 +779,9 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 借:**
-  * Bộ 亻 (bên trái): **người** — hai nét như một người đang đứng.
-  * Phần 昔 (bên phải): tám nét — "xưa, ngày trước", đồng thời **biểu âm** (xī ~ jiè).
-  * Mối liên hệ nội tại: Người (亻) + âm "tích" (昔) = hành vi **mượn/cho mượn giữa người với người**. Không có người thứ hai thì không thể có "mượn".
+  * Bộ 亻 (bên trái): **người** — như một người đang đứng.
+  * Phần 昔 (bên phải): "xưa, ngày trước", đồng thời **biểu âm** (xī ~ jiè).
+  * Ghép lại: Người (亻) + âm "tích" (昔) = hành vi **mượn/cho mượn giữa người với người**. Không có người thứ hai thì không thể có "mượn".
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -734,6 +790,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Cái hay của 借 là **tính đối xứng**: cùng một hành động, đứng ở hai phía khác nhau thì thành hai nghĩa. Người Hán chấp nhận sự mơ hồ ấy và giải quyết bằng **giới từ chỉ hướng** — một đặc điểm ngữ pháp rất tiêu biểu: ý nghĩa do **cấu trúc** quyết định, không do từ.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 借 vừa là "mượn" vừa là "cho mượn" — nghĩa được xác định theo ngữ cảnh.
+* 借书 là mượn sách; 借钱 có thể là vay tiền hoặc cho vay tiền, cần nói rõ.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -771,12 +832,12 @@
 
 * **Chữ 汉:**
   * Bộ 氵 (bên trái): **nước** — ba giọt.
-  * Phần 又 (bên phải): hai nét — "lại, thêm", ở đây là dạng giản thể của phần phồn thể 堇.
-  * Mối liên hệ nội tại: Nước (氵) + 又 = chữ giản thể của 漢. Chữ phồn thể 漢 vốn là **tên một con sông** — sông Hán (Hán Thuỷ), nơi khởi nghiệp của nhà Hán.
+  * Phần 又 (bên phải): "lại, thêm", ở đây là dạng giản thể của phần phồn thể 堇.
+  * Ghép lại: Nước (氵) + 又 = chữ giản thể của 漢. Chữ phồn thể 漢 vốn là **tên một con sông** — sông Hán (Hán Thuỷ), nơi khởi nghiệp của nhà Hán.
 * **Chữ 语:**
-  * Bộ 讠 (bên trái): hai nét — dạng giản thể của 言 (**lời nói**).
-  * Phần 吾 (bên phải): bảy nét — "ta, tôi", đồng thời **biểu âm** (wú ~ yǔ).
-  * Mối liên hệ nội tại: Lời nói (讠) + "ta" (吾) = **cách nói của ta**, tức ngôn ngữ.
+  * Bộ 讠 (bên trái): dạng giản thể của 言 (**lời nói**).
+  * Phần 吾 (bên phải): "ta, tôi", đồng thời **biểu âm** (wú ~ yǔ).
+  * Ghép lại: Lời nói (讠) + "ta" (吾) = **cách nói của ta**, tức ngôn ngữ.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -786,6 +847,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 汉语 = **ngôn ngữ của người Hán**. Đây là cách đặt tên theo **dân tộc**, không theo quốc gia — khác với 中文 (tiếng Trung, theo quốc gia/ngôn ngữ viết) và 普通话 (tiếng Phổ thông, theo chuẩn phát âm). Với người nước ngoài học tiếng Trung, 汉语 mang sắc thái trang trọng, học thuật; 中文 thiên về ngôn ngữ nói chung; 普通话 là chuẩn chính thức.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 汉语 là tiếng Hán; tên gọi gắn với nhà Hán (206 TCN – 220 SCN).
+* 普通话 là tiếng phổ thông; 中文 là "tiếng Trung" nói chung, thường dùng trong văn viết.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -821,8 +887,8 @@
 
 * **Chữ 换:**
   * Bộ 扌 (bên trái): **bàn tay** — hành động được thực hiện bằng tay.
-  * Phần 奂 (bên phải): bảy nét — "đổi thay, rực rỡ", đồng thời **biểu âm** (huàn).
-  * Mối liên hệ nội tại: Tay (扌) + âm "hoán" (奂) = **dùng tay trao vật này lấy vật kia**. Chữ 奂 vốn có nghĩa "thay đổi", nên phần nghĩa và phần âm hoà làm một.
+  * Phần 奂 (bên phải): "đổi thay, rực rỡ", đồng thời **biểu âm** (huàn).
+  * Ghép lại: Tay (扌) + âm "hoán" (奂) = **dùng tay trao vật này lấy vật kia**. Chữ 奂 vốn có nghĩa "thay đổi", nên phần nghĩa và phần âm hoà làm một.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -831,6 +897,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. 换 là một trong những chữ "hành động" thiết thực nhất của đời sống: đổi tiền ở ngân hàng, thay quần áo trước khi ra ngoài, đổi tuyến tàu. Một chữ mà ai học tiếng Trung cũng dùng mỗi ngày.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 换 là đổi; 换钱 là đổi tiền, 换车 là đổi xe/ chuyển tuyến.
+* 换 còn trong 交换 (trao đổi), 换衣服 (thay quần áo).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -868,12 +939,12 @@
 
 * **Chữ 遇:**
   * Bộ 辶 (bao quanh dưới–trái): **bước chân đang di chuyển**.
-  * Phần 禺 (bên trong): chín nét — hình con khỉ hoặc con vật, đồng thời **biểu âm** (yú ~ yù).
-  * Mối liên hệ nội tại: Bước đi (辶) + phần biểu âm = **đang đi thì gặp**. Chữ 遇 luôn mang sắc thái **bất ngờ, không hẹn trước**.
+  * Phần 禺 (bên trong): hình con khỉ hoặc con vật, đồng thời **biểu âm** (yú ~ yù).
+  * Ghép lại: Bước đi (辶) + phần biểu âm = **đang đi thì gặp**. Chữ 遇 luôn mang sắc thái **bất ngờ, không hẹn trước**.
 * **Chữ 到:**
-  * Phần 至 (bên trái): sáu nét — **mũi tên cắm xuống đất**, nghĩa là "đến nơi".
-  * Bộ 刂 (bên phải): hai nét — **con dao**, đồng thời **biểu âm** (dào ~ dào).
-  * Mối liên hệ nội tại: Mũi tên (至) cộng dao (刂) = **cắm tới đích**. 到 là chữ của sự **hoàn tất di chuyển**.
+  * Phần 至 (bên trái): **mũi tên cắm xuống đất**, nghĩa là "đến nơi".
+  * Bộ 刂 (bên phải): **con dao**, đồng thời **biểu âm** (dào ~ dào).
+  * Ghép lại: Mũi tên (至) cộng dao (刂) = **cắm tới đích**. 到 là chữ của sự **hoàn tất di chuyển**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -883,6 +954,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 遇到 = **đi trên đường thì gặp tới**. 遇 mang ý "đang di chuyển", 到 mang ý "chạm đích". Ghép lại, từ không chỉ nói "gặp" mà nói **hai đường đi cắt nhau tại một điểm** — cái duyên của sự tình cờ. Người Hán dùng 遇到 cho cả người (遇到朋友) và sự việc (遇到困难 — gặp khó khăn), vì với họ, **khó khăn cũng là một cuộc gặp**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 遇到 là gặp/ gặp phải; 遇 gồm 辶 (bước đi) + 禺 (biểu âm).
+* 遇到 thường dùng cho tình huống bất ngờ: 遇到问题, 遇到朋友.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -920,9 +996,9 @@
 
 * **Chữ 迟:**
   * Bộ 辶 (bao quanh dưới–trái): **bước chân chậm rãi**.
-  * Phần 尺 (bên trong, giản thể): bốn nét — "thước", ở đây thay cho 犀 của chữ phồn thể 遲, đóng vai **biểu âm**.
-  * Mối liên hệ nội tại: Bước đi (辶) mà lê từng bước = **chậm**. Chữ phồn thể 遲 có 犀 (tê giác — loài vật nặng nề, chậm chạp) bên trong, càng rõ ý "nặng nề, ì ạch".
-* **Chữ 到:** Như mục 117 — mũi tên cắm đích, nghĩa "đến".
+  * Phần 尺 (bên trong, giản thể): "thước", ở đây thay cho 犀 của chữ phồn thể 遲, đóng vai **biểu âm**.
+  * Ghép lại: Bước đi (辶) mà lê từng bước = **chậm**. Chữ phồn thể 遲 có 犀 (tê giác — loài vật nặng nề, chậm chạp) bên trong, càng rõ ý "nặng nề, ì ạch".
+* **Chữ 到:** mũi tên cắm đích, nghĩa "đến".
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -932,6 +1008,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 迟到 = **chậm mà vẫn đến**. Điều tinh tế: 迟到 không có nghĩa "không đến" mà là **đến, nhưng muộn hơn giờ hẹn**. Người Hán phân biệt rất rõ: 没来 (không đến) khác 迟到 (đến muộn). Từ này là một trong những từ bị dùng nhiều nhất trong môi trường học đường và công sở, nơi giờ giấc là chuẩn mực tập thể.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 迟到 là đến muộn; 迟 là chậm, 到 là đến.
+* Người Hán coi trọng 守时 (đúng giờ), nhưng trong quan hệ thân mật, đến muộn vài phút đôi khi được bỏ qua.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -969,12 +1050,12 @@
 
 * **Chữ 请:**
   * Bộ 讠 (bên trái): **lời nói**.
-  * Phần 青 (bên phải): tám nét — "xanh", đồng thời **biểu âm** (qīng).
-  * Mối liên hệ nội tại: Lời nói (讠) + âm "thanh" (青) = **nói lời đề nghị**. 请 là chữ của phép lịch sự: mời, xin, mong.
+  * Phần 青 (bên phải): "xanh", đồng thời **biểu âm** (qīng).
+  * Ghép lại: Lời nói (讠) + âm "thanh" (青) = **nói lời đề nghị**. 请 là chữ của phép lịch sự: mời, xin, mong.
 * **Chữ 假:**
   * Bộ 亻 (bên trái): **người**.
-  * Phần 叚 (bên phải): chín nét — "mượn tạm", đồng thời **biểu âm** (jiǎ / jià).
-  * Mối liên hệ nội tại: Người (亻) + "mượn tạm" (叚) = **khoảng thời gian được mượn từ công việc** → kỳ nghỉ. Cùng chữ này đọc jiǎ lại có nghĩa "giả, không thật" (假的) — vì cái giả là cái "mượn tạm" hình dáng của cái thật.
+  * Phần 叚 (bên phải): "mượn tạm", đồng thời **biểu âm** (jiǎ / jià).
+  * Ghép lại: Người (亻) + "mượn tạm" (叚) = **khoảng thời gian được mượn từ công việc** → kỳ nghỉ. Cùng chữ này đọc jiǎ lại có nghĩa "giả, không thật" (假的) — vì cái giả là cái "mượn tạm" hình dáng của cái thật.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -984,6 +1065,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 请假 = **nói lời xin một kỳ nghỉ**. Cấu trúc "động từ + danh từ" thuần Hán: 请 (xin) đứng trước, 假 (phép) đứng sau. Điều này phản ánh văn hoá **xin phép**: muốn vắng mặt phải lên tiếng, phải được chấp thuận — không tự cho mình nghỉ. So sánh: 放假 là "được nghỉ" (do tổ chức cho), 请假 là "xin nghỉ" (do cá nhân đề nghị).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 请假 là xin nghỉ; 假 đọc "jià" là kỳ nghỉ, "jiǎ" là giả/ không thật.
+* 请假 phải có lý do: 请病假 (nghỉ ốm), 请事假 (nghỉ việc riêng).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1020,13 +1106,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 决:**
-  * Bộ 冫 (bên trái): hai nét — **băng**, nước đông cứng.
-  * Phần 夬 (bên phải): bốn nét — "quyết, dứt", đồng thời **biểu âm** (guài ~ jué).
-  * Mối liên hệ nội tại: Băng (冫) + "dứt" (夬) = **nước đông cứng rồi vỡ ra**. Nghĩa gốc của 决 là **nước vỡ bờ** — một sự dứt khoát không thể cưỡng lại. Từ hình ảnh ấy mới sinh ra nghĩa "quyết đoán".
+  * Bộ 冫 (bên trái): **băng**, nước đông cứng.
+  * Phần 夬 (bên phải): "quyết, dứt", đồng thời **biểu âm** (guài ~ jué).
+  * Ghép lại: Băng (冫) + "dứt" (夬) = **nước đông cứng rồi vỡ ra**. Nghĩa gốc của 决 là **nước vỡ bờ** — một sự dứt khoát không thể cưỡng lại. Từ hình ảnh ấy mới sinh ra nghĩa "quyết đoán".
 * **Chữ 定:**
   * Bộ 宀 (phía trên): **mái nhà**.
-  * Phần 疋 (phía dưới): năm nét — "chân, bàn chân đặt xuống".
-  * Mối liên hệ nội tại: Dưới mái nhà (宀) có bàn chân đặt vững (疋) = **yên ổn, cố định**. Đối lập với 定 là 动 (động) — cái gì đã 定 thì không lay chuyển.
+  * Phần 疋 (phía dưới): "chân, bàn chân đặt xuống".
+  * Ghép lại: Dưới mái nhà (宀) có bàn chân đặt vững (疋) = **yên ổn, cố định**. Đối lập với 定 là 动 (động) — cái gì đã 定 thì không lay chuyển.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1036,6 +1122,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 决定 = **quyết cho dứt rồi định cho vững**. Hai chữ ghép lại thành một tiến trình hoàn chỉnh: 决 là khoảnh khắc **bứt phá** (nước vỡ bờ), 定 là khoảnh khắc **an vị** (chân đặt xuống). Một quyết định thật sự phải có cả hai: dám dứt và dám giữ. Đó là lý do 决定 vừa là động từ ("quyết định") vừa là danh từ ("quyết định ấy").
+
+**Kiến thức văn hóa & lịch sử**
+
+* 决定 là quyết định; 决 gợi sự dứt khoát, 定 là ổn định.
+* 决定 cũng là danh từ: 这是一个重要的决定 (Đây là một quyết định quan trọng).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1074,11 +1165,11 @@
 * **Chữ 同:**
   * Khung 冂: **cái khung, mái che** bao quanh phía trên và hai bên.
   * Phần 一 + 口 (bên trong): một gạch ngang và **cái miệng**.
-  * Mối liên hệ nội tại: Nhiều cái miệng (口) cùng nằm dưới một khung (冂) = **cùng chung một mái, cùng chung một tiếng nói** → giống nhau, cùng nhau.
+  * Ghép lại: Nhiều cái miệng (口) cùng nằm dưới một khung (冂) = **cùng chung một mái, cùng chung một tiếng nói** → giống nhau, cùng nhau.
 * **Chữ 意:**
-  * Phần 音 (phía trên): chín nét — **âm thanh, lời nói**.
+  * Phần 音 (phía trên): **âm thanh, lời nói**.
   * Bộ 心 (phía dưới): **trái tim**.
-  * Mối liên hệ nội tại: Lời nói (音) phát ra từ trái tim (心) = **ý**. Ý là cái nằm sau lời; nó là "âm thanh của lòng mình".
+  * Ghép lại: Lời nói (音) phát ra từ trái tim (心) = **ý**. Ý là cái nằm sau lời; nó là "âm thanh của lòng mình".
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1088,6 +1179,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 同意 = **cùng một ý**. Cách cấu tạo này rất thẳng: không phải "tán thành" trừu tượng, mà là **hai ý trùng nhau**. Người Hán quan niệm sự đồng thuận không phải hành vi phục tùng, mà là **hai cái đầu nghĩ ra cùng một điều**. Đó cũng là lý do 同意 trang trọng hơn 好的 (được, ừ).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 同意 là đồng ý; 同 là cùng, 意 là ý — cùng một ý.
+* Trong hợp đồng, 同意 thường đi với 签字 (ký tên) để xác nhận.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1124,13 +1220,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 照:**
-  * Phần 昭 (phía trên): chín nét — 日 (mặt trời) + 召 (gọi) — **ánh sáng gọi mọi vật hiện ra**.
-  * Bộ 灬 (phía dưới): bốn nét — **lửa**, bốn đốm lửa nhỏ.
-  * Mối liên hệ nội tại: Ánh sáng (昭) + lửa (灬) = **soi rọi, chiếu sáng**. Muốn chăm sóc ai, trước hết phải **nhìn thấy** họ — 照 là cái nhìn có ánh sáng.
+  * Phần 昭 (phía trên): 日 (mặt trời) + 召 (gọi) — **ánh sáng gọi mọi vật hiện ra**.
+  * Bộ 灬 (phía dưới): **lửa**, bốn đốm lửa nhỏ.
+  * Ghép lại: Ánh sáng (昭) + lửa (灬) = **soi rọi, chiếu sáng**. Muốn chăm sóc ai, trước hết phải **nhìn thấy** họ — 照 là cái nhìn có ánh sáng.
 * **Chữ 顾:**
   * Phần bên trái (giản thể của 雇): **biểu âm** (gù).
   * Bộ 页 (bên phải): **cái đầu**, gợi hành động quay đầu lại.
-  * Mối liên hệ nội tại: Quay **đầu** (页) lại nhìn = **ngoảnh lại, đoái hoài**. 顾 là hành động của người không quên kẻ phía sau.
+  * Ghép lại: Quay **đầu** (页) lại nhìn = **ngoảnh lại, đoái hoài**. 顾 là hành động của người không quên kẻ phía sau.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1140,6 +1236,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 照顾 = **soi tới và ngoảnh lại**. Hai động tác bổ sung nhau: 照 là hướng ánh nhìn **về phía** người khác, 顾 là **không bỏ họ lại phía sau**. Ghép lại thành nghĩa chăm sóc. Điều tinh tế: người Hán không dùng 照顾 cho việc chăm sóc chuyên môn (như bác sĩ điều trị), mà dùng cho **sự quan tâm trong đời sống** — bữa ăn, giấc ngủ, sức khoẻ hằng ngày.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 照顾 là chăm sóc; 照 là chiếu cố, 顾 là trông nom.
+* 照顾 còn có nghĩa "nể mặt": 照顾面子 là giữ thể diện cho ai.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1177,12 +1278,12 @@
 
 * **Chữ 搬:**
   * Bộ 扌 (bên trái): **bàn tay**.
-  * Phần 般 (bên phải): mười nét — "dời, xoay", đồng thời **biểu âm** (bān).
-  * Mối liên hệ nội tại: Tay (扌) + âm "ban" (般) = **dùng tay nâng và dời vật nặng**. Chữ 般 vốn có hình cái thuyền và tay chèo — gợi sự di chuyển.
+  * Phần 般 (bên phải): "dời, xoay", đồng thời **biểu âm** (bān).
+  * Ghép lại: Tay (扌) + âm "ban" (般) = **dùng tay nâng và dời vật nặng**. Chữ 般 vốn có hình cái thuyền và tay chèo — gợi sự di chuyển.
 * **Chữ 家:**
   * Bộ 宀 (phía trên): **mái nhà**.
   * Phần 豕 (phía dưới): **con lợn**.
-  * Mối liên hệ nội tại: Mái nhà (宀) có con lợn (豕) = **nhà có của ăn, có sự sống**. Với người nông nghiệp cổ, lợn là tài sản và là bảo hiểm cho mùa đông — có lợn trong nhà mới gọi là nhà.
+  * Ghép lại: Mái nhà (宀) có con lợn (豕) = **nhà có của ăn, có sự sống**. Với người nông nghiệp cổ, lợn là tài sản và là bảo hiểm cho mùa đông — có lợn trong nhà mới gọi là nhà.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1192,6 +1293,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 搬家 = **khuân nhà**. Người Hán không nói "đổi nhà" mà nói "khuân nhà" — như thể cả căn nhà là một vật có thể nhấc lên. Cách nói này phản ánh một sự thật văn hoá: khi chuyển đi, người ta mang theo **toàn bộ đời sống** — đồ đạc, kỷ niệm, cả con lợn trong sân. Chữ 家 ở đây không chỉ là căn nhà mà là **cả gia đình**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 搬家 là chuyển nhà; 搬 là khiêng/ dời, 家 là nhà.
+* 乔迁 là từ trang trọng chỉ việc chuyển đến nhà mới; 乔迁之喜 là lời chúc mừng.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1229,12 +1335,12 @@
 
 * **Chữ 打:**
   * Bộ 扌 (bên trái): **bàn tay**.
-  * Phần 丁 (bên phải): hai nét — "đinh", đồng thời **biểu âm** (dīng ~ dǎ).
-  * Mối liên hệ nội tại: Tay (扌) + âm "đinh" (丁) = **đánh, đập**. Trong tiếng Hán hiện đại, 打 là **động từ vạn năng**: 打电话 (gọi điện), 打车 (bắt xe), 打水 (lấy nước), 打扫 (dọn dẹp) — cái gì cũng có thể "đánh".
+  * Phần 丁 (bên phải): "đinh", đồng thời **biểu âm** (dīng ~ dǎ).
+  * Ghép lại: Tay (扌) + âm "đinh" (丁) = **đánh, đập**. Trong tiếng Hán hiện đại, 打 là **động từ vạn năng**: 打电话 (gọi điện), 打车 (bắt xe), 打水 (lấy nước), 打扫 (dọn dẹp) — cái gì cũng có thể "đánh".
 * **Chữ 扫:**
   * Bộ 扌 (bên trái): **bàn tay**.
-  * Phần 彐 (bên phải): ba nét — hình **cái chổi**.
-  * Mối liên hệ nội tại: Tay (扌) cầm chổi (彐) = **quét**. Chữ phồn thể 掃 có 帚 (cây chổi) rõ hơn nữa.
+  * Phần 彐 (bên phải): hình **cái chổi**.
+  * Ghép lại: Tay (扌) cầm chổi (彐) = **quét**. Chữ phồn thể 掃 có 帚 (cây chổi) rõ hơn nữa.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1244,6 +1350,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 打扫 = **đánh + quét**. Hai chữ đều có bộ tay (扌) — nhấn mạnh rằng dọn dẹp là **lao động chân tay**, không phải việc trừu tượng. 打 ở đây không mang nghĩa "đánh đập" mà mang nghĩa "làm, tác động"; 扫 là hành động cụ thể nhất của việc dọn nhà. Ghép lại thành nghĩa tổng quát: quét tước, lau chùi, sắp xếp lại không gian sống.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 打扫 là dọn dẹp; 打 là làm, 扫 là quét.
+* Trước Tết, người Hán có tục 扫尘 (quét bụi) để dọn sạch năm cũ, đón năm mới.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1281,12 +1392,12 @@
 
 * **Chữ 散:**
   * Phần trên — 廿/艹 + 月: **cây cỏ và ánh sáng**, gợi sự toả ra.
-  * Bộ 攵 (bên phải): bốn nét — **bàn tay cầm roi đánh nhẹ**, tạo chuyển động.
-  * Mối liên hệ nội tại: Tác động làm các thứ **bung ra, tản mát**. 散 là chữ của sự phân tán: 分散 (phân tán), 散会 (tan họp), 散步 (bước chân tản ra).
+  * Bộ 攵 (bên phải): **bàn tay cầm roi đánh nhẹ**, tạo chuyển động.
+  * Ghép lại: Tác động làm các thứ **bung ra, tản mát**. 散 là chữ của sự phân tán: 分散 (phân tán), 散会 (tan họp), 散步 (bước chân tản ra).
 * **Chữ 步:**
   * Phần trên — 止: **bàn chân dừng lại**.
   * Phần dưới: hình bàn chân thứ hai, ngược chiều.
-  * Mối liên hệ nội tại: Hai bàn chân nối tiếp nhau, một trước một sau = **bước đi**. Chữ 步 trong giáp cốt văn vẽ đúng hai bàn chân in dấu trên đường.
+  * Ghép lại: Hai bàn chân nối tiếp nhau, một trước một sau = **bước đi**. Chữ 步 trong giáp cốt văn vẽ đúng hai bàn chân in dấu trên đường.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1296,6 +1407,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 散步 = **bước chân tản ra**. Không phải đi để đến, mà đi để **cho các bước chân rải đều ra không gian**. Hai chữ ghép lại tạo nên một khái niệm rất riêng: **sự thư thái của đôi chân**. Người Hán phân biệt rõ: 走 (đi để đến), 跑 (chạy), 散步 (đi dạo thư giãn).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 散步 là đi dạo; 散 là tản ra, 步 là bước.
+* Người Hán có câu "饭后百步走，活到九十九" — sau bữa ăn đi trăm bước, sống đến chín mươi chín.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1334,11 +1450,11 @@
 * **Chữ 面:**
   * Khung ngoài: đường viền **khuôn mặt**.
   * Bên trong: mắt, mũi — chi tiết của gương mặt.
-  * Mối liên hệ nội tại: Trong 面包, 面 mang nghĩa **bột mì** (面粉) — vì bột mì mịn như "mặt" của hạt lúa, lớp bột trắng mịn nhất sau khi xay.
+  * Ghép lại: Trong 面包, 面 mang nghĩa **bột mì** (面粉) — vì bột mì mịn như "mặt" của hạt lúa, lớp bột trắng mịn nhất sau khi xay.
 * **Chữ 包:**
   * Bộ 勹 (bao quanh): **cánh tay vòng lại, ôm lấy**.
   * Phần 巳 (bên trong): hình **bào thai** hoặc đứa trẻ còn trong bụng mẹ.
-  * Mối liên hệ nội tại: Vòng tay (勹) ôm lấy cái thai (巳) = **bọc lại, gói lại**. 包 là chữ của sự che chở.
+  * Ghép lại: Vòng tay (勹) ôm lấy cái thai (巳) = **bọc lại, gói lại**. 包 là chữ của sự che chở.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1348,6 +1464,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 面包 = **bánh gói bằng bột mì** — tên gọi ra đời khi người châu Âu mang bánh mì đến Trung Quốc. Người Hán phải tìm một cách gọi: họ chọn **chất liệu** (bột mì — 面) + **hình thức** (khối bột được nướng phồng lên, như được "gói" tròn lại — 包). Đây là cách đặt tên bằng **cảm nhận vật lý**, rất khác với 面包 trong tiếng Nhật (パン, mượn âm Bồ Đào Nha).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 面包 là bánh mì; 面 là bột mì, 包 là gói/ bánh.
+* 面包 và 馒头 đều làm từ bột mì, nhưng 馒头 hấp, 面包 nướng — khác biệt trong ẩm thực Bắc – Nam.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1384,15 +1505,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 米:**
-  * Nét 1–2 — Chấm và phiệt: hai hạt gạo hai bên.
-  * Nét 3 — Hoành: mặt sàng.
-  * Nét 4 — Thụ: trục giữa.
-  * Nét 5–6 — Phiệt và nét móc: hai hạt gạo phía dưới.
-  * Mối liên hệ nội tại: Sáu nét toả ra từ một tâm như **những hạt gạo rơi trên mặt sàng**. Chữ 米 là hình ảnh trực tiếp của hạt gạo đã xay, đã sàng.
+  * Thân cây ở giữa.
+  * Bốn đường xiên hai bên: hạt gạo toả ra bốn phía.
+  * Ghép lại: hạt gạo đã tách khỏi cây — "gạo".
 * **Chữ 粉:**
-  * Bộ 米 (bên trái): **gạo**.
-  * Phần 分 (bên phải): bốn nét — **chia ra, phân nhỏ**, đồng thời **biểu âm** (fēn ~ fěn).
-  * Mối liên hệ nội tại: Gạo (米) bị **chia nhỏ** (分) = **bột**. Từ "bột" mở rộng thành "sợi mảnh" (粉丝) và "phấn" (màu phấn).
+  * Bên trái 米: gạo.
+  * Bên phải 分: chia nhỏ.
+  * Ghép lại: hạt gạo bị chia thành bột/ sợi nhỏ — "bột, phấn".
+  * Chuyện thú vị: 米粉 là bún/ phở; 粉 trong 粉色 (màu hồng), 粉丝 (miến/ người hâm mộ).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1402,6 +1522,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 米粉 = **gạo đã thành bột/sợi**. Ở miền nam Trung Quốc, 米粉 là món ăn hằng ngày: sợi gạo trắng, chan nước dùng. Với người Việt, 米粉 chính là **bún, phở** — cùng một nguyên liệu, cùng một logic: **gạo (米) được kéo thành sợi mảnh (粉)**. Điều này cho thấy ẩm thực châu Á dùng chung một "ngữ pháp": biến hạt gạo thành sợi.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 米粉 là bún/ phở; 米 là gạo, 粉 là sợi.
+* 桂林米粉 và 过桥米线 là hai món nổi tiếng; mỗi vùng có cách nấu nước dùng riêng.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1440,11 +1565,11 @@
 * **Chữ 果:**
   * Phần 田 (phía trên): **cái ruộng**, ở đây tượng trưng cho **quả tròn có hạt** nhìn từ trên xuống.
   * Phần 木 (phía dưới): **cái cây**.
-  * Mối liên hệ nội tại: Quả tròn (田) treo trên cây (木) = **trái cây**. Hình ảnh rất cụ thể: cái cây đội trên đầu một quả đầy hạt.
+  * Ghép lại: Quả tròn (田) treo trên cây (木) = **trái cây**. Hình ảnh rất cụ thể: cái cây đội trên đầu một quả đầy hạt.
 * **Chữ 汁:**
   * Bộ 氵 (bên trái): **nước**.
-  * Phần 十 (bên phải): hai nét — "mười", đồng thời **biểu âm** (shí ~ zhī).
-  * Mối liên hệ nội tại: Nước (氵) + âm "thập" (十) = **dịch, nước cốt**. Nước là phần tinh chất chảy ra từ vật.
+  * Phần 十 (bên phải): "mười", đồng thời **biểu âm** (shí ~ zhī).
+  * Ghép lại: Nước (氵) + âm "thập" (十) = **dịch, nước cốt**. Nước là phần tinh chất chảy ra từ vật.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1454,6 +1579,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 果汁 = **nước của quả**. Trật tự "vật chứa + chất lỏng" phản ánh cách người Hán phân loại: muốn nói một loại nước, hãy nói **nguồn gốc** của nó trước. Cùng khuôn mẫu: 橙汁 (nước cam), 苹果汁 (nước táo), 椰汁 (nước dừa). Đây là một trong những cấu trúc ghép từ dễ đoán nhất — học một chữ 汁 là mở ra cả một "quầy nước ép".
+
+**Kiến thức văn hóa & lịch sử**
+
+* 果汁 là nước ép trái cây; 果 là quả, 汁 là nước.
+* 鲜榨果汁 là nước ép tươi; 果汁 trong tiếng Hán cũng chỉ đồ uống đóng hộp.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1490,14 +1620,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 筷:**
-  * Bộ 竹 (phía trên): sáu nét — **tre**, hai nhánh tre rủ xuống.
-  * Phần 快 (phía dưới): bảy nét — "nhanh", đồng thời **biểu âm** (kuài).
-  * Mối liên hệ nội tại: Tre (竹) + "nhanh" (快) = **đũa tre, ăn nhanh**. Chữ này ra đời khá muộn, thay cho 箸 (trứ) thời cổ — vì 箸 phát âm gần với 住 (dừng lại), người đi thuyền kiêng nói "dừng", nên đổi thành 筷 ("nhanh") cho may mắn.
+  * Phần trên 竹: tre.
+  * Phần dưới 快: biểu âm (kuài), cũng nghĩa là "nhanh".
+  * Ghép lại: đôi đũa tre giúp ăn nhanh — "đũa".
 * **Chữ 子:**
-  * Nét 1 — Móc: cái đầu tròn.
-  * Nét 2 — Hoành: hai cánh tay dang ra.
-  * Nét 3 — Dọc cong: thân và chân.
-  * Mối liên hệ nội tại: Hình **đứa trẻ sơ sinh** quấn tã, hai tay dang. Trong 筷子, 子 chỉ là **hậu tố danh từ hoá** (như "cái" trong tiếng Việt), không mang nghĩa "con".
+  * Phần trên: hai tay em bé.
+  * Phần dưới: thân quấn tã.
+  * Ghép lại: đứa trẻ — hậu tố danh từ.
+  * Chuyện thú vị: 筷子 là đũa; 子 trong 桌子, 椅子, 鞋子 chỉ đồ vật. Người Hán kiêng cắm đũa thẳng vào bát cơm vì giống hương thắp cho người đã khuất.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1507,6 +1637,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 筷子 = **cái đũa**. Điều đáng nhớ: đũa là biểu tượng văn hoá sâu sắc — hai thanh gỗ tách rời nhưng phải **phối hợp** mới gắp được thức ăn. Người Hán dạy trẻ con dùng đũa như dạy một bài học về **sự phối hợp và tiết chế**: không được cắm đũa vào bát cơm (giống hương thắp cho người chết), không được gõ đũa vào bát (như ăn mày).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 筷子 là đũa; 筷 gồm 竹 (tre) + 快 (biểu âm).
+* Kiêng cắm đũa thẳng vào bát cơm vì giống hương thắp cho người đã khuất; cũng không gõ đũa vào bát.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1543,9 +1678,9 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 盘:**
-  * Phần 舟 (phía trên): sáu nét — **con thuyền**, gợi hình dáng khoang rỗng, có vành.
-  * Bộ 皿 (phía dưới): năm nét — **đồ đựng**, hình cái bát/mâm có chân.
-  * Mối liên hệ nội tại: Vật có lòng sâu như khoang thuyền (舟) đặt trên đế (皿) = **cái mâm, cái đĩa**. Chữ phồn thể 盤 có 般 (xoay, bàn) bên trên — gợi thêm ý "vật tròn xoay".
+  * Phần 舟 (phía trên): **con thuyền**, gợi hình dáng khoang rỗng, có vành.
+  * Bộ 皿 (phía dưới): **đồ đựng**, hình cái bát/mâm có chân.
+  * Ghép lại: Vật có lòng sâu như khoang thuyền (舟) đặt trên đế (皿) = **cái mâm, cái đĩa**. Chữ phồn thể 盤 có 般 (xoay, bàn) bên trên — gợi thêm ý "vật tròn xoay".
 * **Chữ 子:** Hậu tố danh từ hoá, không mang nghĩa "con" ở đây.
 
 **Nguồn gốc & Bản chất từng chữ**
@@ -1556,6 +1691,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 盘子 = **cái đĩa**. Trong văn hoá ẩm thực Hán, mâm (盘) mang ý nghĩa tập thể: thức ăn được đặt giữa bàn để **mọi người cùng gắp**, không chia phần riêng. Vì thế 盘 không chỉ là đồ vật — nó là **đơn vị của sự chia sẻ**. Người Hán nói 一盘菜 (một đĩa thức ăn) chứ không nói "một phần ăn".
+
+**Kiến thức văn hóa & lịch sử**
+
+* 盘子 là cái đĩa; 盘 gợi vật tròn, dẹt.
+* Trong bữa ăn Trung Quốc, các món được đặt giữa bàn để mọi người chia sẻ — 盘子 là đơn vị trình bày chung.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1590,9 +1730,9 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 碗:**
-  * Bộ 石 (bên trái): năm nét — **đá**, hình vách đá có phiến đá rơi xuống.
-  * Phần 宛 (bên phải): tám nét — "uốn cong, mềm mại", đồng thời **biểu âm** (wǎn).
-  * Mối liên hệ nội tại: Đá (石) + âm "uyển" (宛) = **bát làm bằng gốm/đá**. Chữ này phản ánh thời kỳ đồ gốm sứ đã thay thế đồ gỗ trong bữa ăn; trước đó người Hán dùng 椀 (bát gỗ) với bộ 木.
+  * Bộ 石 (bên trái): **đá**, hình vách đá có phiến đá rơi xuống.
+  * Phần 宛 (bên phải): "uốn cong, mềm mại", đồng thời **biểu âm** (wǎn).
+  * Ghép lại: Đá (石) + âm "uyển" (宛) = **bát làm bằng gốm/đá**. Chữ này phản ánh thời kỳ đồ gốm sứ đã thay thế đồ gỗ trong bữa ăn; trước đó người Hán dùng 椀 (bát gỗ) với bộ 木.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1601,6 +1741,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. 碗 vừa là danh từ (cái bát) vừa là **lượng từ**: 一碗米饭 (một bát cơm), 两碗汤 (hai bát canh). Điều này cho thấy người Hán đo lường thức ăn bằng **vật chứa** — cái bát trở thành đơn vị của bữa ăn.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 碗 là cái bát; 饭碗 nghĩa đen là bát cơm, nghĩa bóng là "công việc/ kế sinh nhai".
+* 铁饭碗 (bát sắt) chỉ công việc ổn định, biên chế nhà nước — khái niệm quen thuộc thời bao cấp.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1637,13 +1782,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 菜:**
-  * Bộ 艹 (phía trên): ba nét — **cỏ, cây**, hai nhánh cỏ mọc.
-  * Phần 采 (phía dưới): tám nét — **bàn tay hái** trên cây.
-  * Mối liên hệ nội tại: Cỏ (艹) + hái (采) = **rau hái được**. Từ "rau" mở rộng thành **món ăn** nói chung — vì bữa ăn Hán lấy rau làm nền, thịt chỉ là phần thêm.
+  * Bộ 艹 (phía trên): **cỏ, cây**, hai nhánh cỏ mọc.
+  * Phần 采 (phía dưới): **bàn tay hái** trên cây.
+  * Ghép lại: Cỏ (艹) + hái (采) = **rau hái được**. Từ "rau" mở rộng thành **món ăn** nói chung — vì bữa ăn Hán lấy rau làm nền, thịt chỉ là phần thêm.
 * **Chữ 单:**
-  * Phần 丷 (phía trên): hai nét — hai cái sừng hoặc hai nhánh.
+  * Phần 丷 (phía trên): hai cái sừng hoặc hai nhánh.
   * Phần 日 + 十 (phía dưới): **mặt trời** và **cây cột**.
-  * Mối liên hệ nội tại: Chữ giản thể của 單 — vốn vẽ một **khí cụ săn bắn/cái khiên** có cán. Vì khí cụ ấy đứng một mình, 单 mang nghĩa **đơn lẻ, một tờ**. Trong 菜单, 单 nghĩa là **tờ danh sách**.
+  * Ghép lại: Chữ giản thể của 單 — vốn vẽ một **khí cụ săn bắn/cái khiên** có cán. Vì khí cụ ấy đứng một mình, 单 mang nghĩa **đơn lẻ, một tờ**. Trong 菜单, 单 nghĩa là **tờ danh sách**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1653,6 +1798,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 菜单 = **tờ giấy liệt kê các món**. Đây là từ du nhập (dịch *menu*), nhưng vật liệu hoàn toàn bản địa: 菜 (món ăn) + 单 (tờ đơn). Người Hán hình dung thực đơn như một **tờ khai** — đúng với cách họ gọi các loại giấy tờ: 名单 (danh sách tên), 清单 (bản kê), 账单 (hoá đơn).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 菜单 là thực đơn; 菜 là món ăn, 单 là tờ giấy/ danh sách.
+* 点菜 là gọi món; ở nhà hàng Trung Quốc, người gọi món thường gọi chung cho cả bàn.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1689,13 +1839,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 香:**
-  * Phần 禾 (phía trên): năm nét — **cây lúa**, bông lúa chín rủ xuống.
+  * Phần 禾 (phía trên): **cây lúa**, bông lúa chín rủ xuống.
   * Phần 日 (phía dưới): **mặt trời**.
-  * Mối liên hệ nội tại: Lúa (禾) phơi dưới nắng (日) = **mùi thơm của lúa chín**. Đây là định nghĩa của "thơm" trong tư duy nông nghiệp: thơm là mùi của hạt lúa vừa phơi khô.
+  * Ghép lại: Lúa (禾) phơi dưới nắng (日) = **mùi thơm của lúa chín**. Đây là định nghĩa của "thơm" trong tư duy nông nghiệp: thơm là mùi của hạt lúa vừa phơi khô.
 * **Chữ 蕉:**
   * Bộ 艹 (phía trên): **cây cỏ**.
-  * Phần 焦 (phía dưới): mười hai nét — "cháy sém", đồng thời **biểu âm** (jiāo).
-  * Mối liên hệ nội tại: Cây cỏ (艹) + âm "tiêu" (焦) = **cây chuối**. Chữ 蕉 trong tiếng Hán cổ chỉ nhiều loại cây lá to: 芭蕉 (chuối rừng), 香蕉 (chuối ăn được).
+  * Phần 焦 (phía dưới): mười "cháy sém", đồng thời **biểu âm** (jiāo).
+  * Ghép lại: Cây cỏ (艹) + âm "tiêu" (焦) = **cây chuối**. Chữ 蕉 trong tiếng Hán cổ chỉ nhiều loại cây lá to: 芭蕉 (chuối rừng), 香蕉 (chuối ăn được).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1705,6 +1855,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 香蕉 = **chuối thơm**. Người Hán phân biệt 芭蕉 (chuối rừng, quả nhỏ, nhiều hạt) với 香蕉 (chuối trồng, quả thơm, ngọt). Chữ 香 ở đây là **đặc điểm cảm quan** — cách đặt tên bằng mùi vị, rất giống 香菜 (rau mùi), 香油 (dầu vừng). Với người Hán, mùi thơm là tiêu chí đánh giá chất lượng thực phẩm.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 香蕉 là chuối; 香 là thơm, 蕉 là cây chuối.
+* Chuối được bày trong mâm ngũ quả của người Việt và cũng phổ biến trong đời sống Trung Quốc.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1741,13 +1896,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 蛋:**
-  * Phần 疋 (phía trên): năm nét — "chân, bàn chân".
-  * Bộ 虫 (phía dưới): sáu nét — **con sâu, loài côn trùng**.
-  * Mối liên hệ nội tại: Đây là chữ **hình thanh mượn nghĩa**: 蛋 vốn là tên một tộc người miền nam (蜑), sau được mượn để chỉ **trứng**. Bộ 虫 gợi hình dáng tròn nhỏ như trứng côn trùng.
+  * Phần 疋 (phía trên): "chân, bàn chân".
+  * Bộ 虫 (phía dưới): **con sâu, loài côn trùng**.
+  * Ghép lại: Đây là chữ **hình thanh mượn nghĩa**: 蛋 vốn là tên một tộc người miền nam (蜑), sau được mượn để chỉ **trứng**. Bộ 虫 gợi hình dáng tròn nhỏ như trứng côn trùng.
 * **Chữ 糕:**
   * Bộ 米 (bên trái): **gạo, bột**.
-  * Phần 羔 (bên phải): mười nét — "con dê con", đồng thời **biểu âm** (gāo).
-  * Mối liên hệ nội tại: Bột (米) + âm "cao" (羔) = **bánh làm từ bột**. Chữ 羔 (dê non) còn gợi sự non mềm — đúng bản chất của bánh bột.
+  * Phần 羔 (bên phải): "con dê con", đồng thời **biểu âm** (gāo).
+  * Ghép lại: Bột (米) + âm "cao" (羔) = **bánh làm từ bột**. Chữ 羔 (dê non) còn gợi sự non mềm — đúng bản chất của bánh bột.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1757,6 +1912,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 蛋糕 = **bánh trứng**. Đây là từ **dịch nghĩa** của *cake* thời cận đại: người Hán nhận ra thành phần đặc trưng của loại bánh phương Tây là **trứng** (蛋) đánh bông, kết hợp với bột (糕). Cùng logic này có 蛋挞 (bánh tart trứng), 蛋卷 (bánh cuộn trứng). Điều thú vị: với người Hán, "bánh" (糕) mặc định làm từ gạo/bột, nên phải thêm 蛋 mới phân biệt được với bánh truyền thống.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 蛋糕 là bánh kem/ bánh ngọt; 蛋 là trứng, 糕 là bánh.
+* 生日蛋糕 là bánh sinh nhật; thổi nến và ước là phong tục du nhập từ phương Tây.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1794,12 +1954,12 @@
 
 * **Chữ 啤:**
   * Bộ 口 (bên trái): **cái miệng** — nơi uống, nơi phát âm.
-  * Phần 卑 (bên phải): tám nét — "thấp, khiêm nhường", đồng thời **biểu âm** (bēi ~ pí).
-  * Mối liên hệ nội tại: Miệng (口) + âm "ti" = **chữ ghi âm** cho tiếng "beer". Đây là chữ **thuần biểu âm**, không mang nghĩa gốc nào khác. Bộ 口 cho biết nó liên quan đến việc uống/nói.
+  * Phần 卑 (bên phải): "thấp, khiêm nhường", đồng thời **biểu âm** (bēi ~ pí).
+  * Ghép lại: Miệng (口) + âm "ti" = **chữ ghi âm** cho tiếng "beer". Đây là chữ **thuần biểu âm**, không mang nghĩa gốc nào khác. Bộ 口 cho biết nó liên quan đến việc uống/nói.
 * **Chữ 酒:**
   * Bộ 氵 (bên trái): **nước**.
-  * Phần 酉 (bên phải): bảy nét — hình **cái bình rượu bằng gốm** thời cổ.
-  * Mối liên hệ nội tại: Nước (氵) trong bình (酉) = **rượu**. 酉 vốn là tên một địa chi (giờ Dậu), cũng là giờ người ta uống rượu sau khi làm xong việc.
+  * Phần 酉 (bên phải): hình **cái bình rượu bằng gốm** thời cổ.
+  * Ghép lại: Nước (氵) trong bình (酉) = **rượu**. 酉 vốn là tên một địa chi (giờ Dậu), cũng là giờ người ta uống rượu sau khi làm xong việc.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1809,6 +1969,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 啤酒 = **rượu bia**. Điều này cho thấy cách tư duy phân loại: với người Hán, bia không phải một loại thức uống mới hoàn toàn, mà là một **thành viên mới của gia đình "rượu"** (酒). Cùng họ này còn có 葡萄酒 (rượu vang), 白酒 (rượu trắng), 黄酒 (rượu vàng). Tên gọi vừa giữ được âm nước ngoài, vừa không phá vỡ hệ thống bản địa.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 啤酒 là bia; 啤 là biểu âm của "beer", 酒 là rượu.
+* 青岛啤酒 là thương hiệu bia nổi tiếng của Trung Quốc, gắn với thành phố Thanh Đảo.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1843,9 +2008,9 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 饱:**
-  * Bộ 饣 (bên trái): ba nét — **ăn uống**, dạng giản thể của 食.
-  * Phần 包 (bên phải): năm nét — **bao bọc, gói tròn**, đồng thời **biểu âm** (bāo ~ bǎo).
-  * Mối liên hệ nội tại: Ăn (饣) + "bao tròn" (包) = **bụng được bao đầy**. Hình ảnh rất cụ thể: cái dạ dày căng tròn như một cái bao. 包 vừa gợi âm vừa gợi hình — một chữ hình thanh kiêm hội ý hiếm hoi.
+  * Bộ 饣 (bên trái): **ăn uống**, dạng giản thể của 食.
+  * Phần 包 (bên phải): **bao bọc, gói tròn**, đồng thời **biểu âm** (bāo ~ bǎo).
+  * Ghép lại: Ăn (饣) + "bao tròn" (包) = **bụng được bao đầy**. Hình ảnh rất cụ thể: cái dạ dày căng tròn như một cái bao. 包 vừa gợi âm vừa gợi hình — một chữ hình thanh kiêm hội ý hiếm hoi.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1854,6 +2019,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. 饱 là một trong **cặp đối lập sinh tồn** của tiếng Hán: 饱 (no) — 饿 (đói). Người xưa xem hai trạng thái này là chuẩn mực để đo mức sống: 温饱 (đủ ăn đủ mặc) là ngưỡng đầu tiên của một xã hội ổn định.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 饱 là no; 吃饱 là ăn no.
+* Người Hán thường hỏi "吃饱了吗？" như một lời quan tâm, không nhất thiết là câu hỏi thật.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1889,8 +2059,8 @@
 
 * **Chữ 饿:**
   * Bộ 饣 (bên trái): **ăn uống**.
-  * Phần 我 (bên phải): bảy nét — **"tôi, ta"**, đồng thời **biểu âm** (wǒ ~ è).
-  * Mối liên hệ nội tại: Ăn (饣) + "tôi" (我) = **cái tôi đang cần được ăn**. Cấu trúc này rất thú vị: cái đói luôn là chuyện của **chính mình**, không ai đói thay ai được.
+  * Phần 我 (bên phải): **"tôi, ta"**, đồng thời **biểu âm** (wǒ ~ è).
+  * Ghép lại: Ăn (饣) + "tôi" (我) = **cái tôi đang cần được ăn**. Cấu trúc này rất thú vị: cái đói luôn là chuyện của **chính mình**, không ai đói thay ai được.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1899,6 +2069,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Cặp 饱 — 饿 là **cặp đối lập nền tảng** của đời sống: no và đói. Điều đáng chú ý là cả hai chữ đều dùng bộ 饣 (ăn) — người Hán không mô tả cái đói bằng bụng, mà bằng **hành vi ăn**: đói là khi việc ăn trở thành trung tâm.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 饿 là đói; 饿了 là đói rồi.
+* 饿 còn dùng trong 饥饿 (nạn đói), 饿肚子 (đói bụng).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1934,8 +2109,8 @@
 
 * **Chữ 渴:**
   * Bộ 氵 (bên trái): **nước** — ba giọt.
-  * Phần 曷 (bên phải): mười hai nét — "sao, thế nào", đồng thời **biểu âm** (hé ~ kě).
-  * Mối liên hệ nội tại: Nước (氵) + âm "hạt" (曷) = **khát nước**. Điều đáng chú ý: chữ khát lại có **nước** ở bộ thủ — vì cái khát chỉ tồn tại khi ta ý thức được sự thiếu nước.
+  * Phần 曷 (bên phải): mười "sao, thế nào", đồng thời **biểu âm** (hé ~ kě).
+  * Ghép lại: Nước (氵) + âm "hạt" (曷) = **khát nước**. Điều đáng chú ý: chữ khát lại có **nước** ở bộ thủ — vì cái khát chỉ tồn tại khi ta ý thức được sự thiếu nước.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1944,6 +2119,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Trong tiếng Hán hiện đại, người ta thường nói 口渴 (khát nước) hoặc 渴了. Điều thú vị: bộ 氵 khiến 渴 trông như một chữ "ướt", nhưng nghĩa lại là **thiếu nước** — chữ Hán thường ghi cái **phạm trù** (nước) chứ không ghi cái **trạng thái** (thiếu).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 渴 là khát; 口渴 là khát nước, 渴望 là khao khát.
+* Trong tiếng Hán, 渴 gắn với nước 氵 — cơ thể thiếu nước.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -1980,10 +2160,10 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 点:**
-  * Phần 占 (phía trên): năm nét — **chiếm, đánh dấu**.
-  * Bộ 灬 (phía dưới): bốn nét — **lửa**.
-  * Mối liên hệ nội tại: Chữ phồn thể 點 gồm 黑 (đen) + 占 — **vết đen nhỏ**. Nghĩa gốc: **chấm nhỏ, điểm**. Từ "chấm" mở rộng thành "đánh dấu, chọn" (点名 — điểm danh, 点菜 — chọn món).
-* **Chữ 菜:** Như mục 132 — rau, món ăn.
+  * Phần 占 (phía trên): **chiếm, đánh dấu**.
+  * Bộ 灬 (phía dưới): **lửa**.
+  * Ghép lại: Chữ phồn thể 點 gồm 黑 (đen) + 占 — **vết đen nhỏ**. Nghĩa gốc: **chấm nhỏ, điểm**. Từ "chấm" mở rộng thành "đánh dấu, chọn" (点名 — điểm danh, 点菜 — chọn món).
+* **Chữ 菜:** rau, món ăn.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -1993,6 +2173,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 点菜 = **chấm vào món**. Người Hán không nói "gọi món" (gọi = 叫) mà nói **điểm món** — hình ảnh ngón tay chỉ vào thực đơn. Đây là một cụm động từ rất tiêu biểu của tiếng Hán hiện đại: hành động trừu tượng được mô tả bằng **động tác cụ thể**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 点菜 là gọi món; 点 là chọn/ chỉ, 菜 là món.
+* 服务员 là nhân viên phục vụ; người Hán thường gọi "服务员，点菜！" để gọi món.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2028,8 +2213,8 @@
 
 * **Chữ 尝:**
   * Phần trên — ⺌ + 冖: **cỏ non** dưới **mái che**.
-  * Phần 云 (phía dưới): bốn nét — "mây", ở đây thay cho 旨 (vị ngon) của chữ phồn thể 嘗.
-  * Mối liên hệ nội tại: Chữ phồn thể 嘗 có **旨 (ngon)** ở dưới — tức là **vị ngon được đưa lên lưỡi**. Giản thể 尝 đã làm mất phần "vị", nhưng nghĩa gốc vẫn nằm ở đó: **nếm để biết ngon hay không**.
+  * Phần 云 (phía dưới): "mây", ở đây thay cho 旨 (vị ngon) của chữ phồn thể 嘗.
+  * Ghép lại: Chữ phồn thể 嘗 có **旨 (ngon)** ở dưới — tức là **vị ngon được đưa lên lưỡi**. Giản thể 尝 đã làm mất phần "vị", nhưng nghĩa gốc vẫn nằm ở đó: **nếm để biết ngon hay không**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2038,6 +2223,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Điều đáng nhớ: 尝 có **hai tầng nghĩa song song** — nếm thức ăn (尝一口) và nếm trải cuộc đời (尝尝生活的滋味 — nếm mùi vị cuộc sống). Người Hán xem việc ăn và việc sống là **cùng một hành vi cảm nhận**: cả hai đều cần lưỡi, đều cần thời gian, đều để lại dư vị.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 尝 là nếm; 尝试 là thử làm.
+* 尝 thường dùng khi nếm thử món ăn: 你尝尝这个菜 (Bạn nếm thử món này đi).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2074,14 +2264,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 刚:**
-  * Phần 冈 (bên trái, giản thể của 岡): "gò núi", đồng thời **biểu âm** (gāng).
-  * Bộ 刂 (bên phải): **con dao**.
-  * Mối liên hệ nội tại: Dao (刂) cắt vào vật cứng = **cứng rắn, vừa khít**. Nghĩa gốc của 刚 là **cứng, mạnh**; nghĩa "vừa mới" là nghĩa mở rộng: việc gì "vừa cứng lại" tức là vừa xảy ra, chưa kịp nguội.
+  * Bên trái 冈: biểu âm (gāng), cũng là sườn núi.
+  * Bên phải 刂: con dao — sự dứt khoát, cứng rắn.
+  * Ghép lại: vừa mới, dứt khoát như một nhát dao — "vừa, cứng".
 * **Chữ 才:**
-  * Nét 1 — Hoành: mặt đất.
-  * Nét 2 — Móc dọc: **mầm cây** nhú lên.
-  * Nét 3 — Phiệt: rễ hoặc lá non.
-  * Mối liên hệ nội tại: Mầm cây vừa nhú khỏi mặt đất = **vừa mới, mới chớm**. Từ hình ảnh mầm non, 才 mang nghĩa "vừa mới" và "tài năng" (cái năng lực đang nhú lên).
+  * Phần trên 一: mặt đất.
+  * Phần dưới: mầm cây nhú lên, rễ cắm xuống.
+  * Ghép lại: mầm vừa mọc — "vừa mới", đồng thời là "tài năng".
+  * Chuyện thú vị: 刚才 là vừa nãy; 才 trong 人才 (nhân tài), 天才 (thiên tài). 才 còn dùng như "mới" trong câu: 我才知道.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2091,6 +2281,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 刚才 = **vừa mới đây**. Hai chữ đều mang ý "vừa": 刚 (vừa xảy ra, còn nóng) + 才 (mới nhú). Ghép lại, từ nhấn mạnh một khoảng thời gian **rất ngắn** vừa trôi qua. Khác với 以前 (trước đây — xa), 刚才 chỉ có thể dùng cho vài phút đến vài giờ trước. Nó là từ của **thì hiện tại hoàn thành** trong tiếng Hán.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 刚才 là vừa nãy; 刚 là vừa mới, 才 là mới/ tài.
+* 刚才 chỉ thời điểm gần trong quá khứ; 刚 mới có thể đứng trước động từ.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2127,15 +2322,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 马:**
-  * Nét 1 — Móc ngang: đầu và cổ ngựa.
-  * Nét 2 — Móc dọc: thân ngựa.
-  * Nét 3 — Hoành: lưng ngựa.
-  * Mối liên hệ nội tại: Chữ giản thể 马 là hình con ngựa nhìn nghiêng, đã lược thành ba nét. Chữ phồn thể 馬 vẫn giữ rõ bờm, chân và đuôi.
+  * Phần trên: bờm và đầu ngựa.
+  * Phần dưới: bốn chân và đuôi.
+  * Ghép lại: hình con ngựa đang phi — "mã". Phồn thể 馬 rõ hơn.
 * **Chữ 上:**
-  * Nét 1 — Thụ (sổ): đường dọc.
-  * Nét 2 — Hoành ngắn: vạch chỉ vị trí phía trên.
-  * Nét 3 — Hoành dài: mặt nền.
-  * Mối liên hệ nội tại: Một vật được đánh dấu **ở phía trên** mặt nền = "trên". Ba nét vẽ ra chính khái niệm không gian.
+  * Đường ngang: mặt đất.
+  * Đường dọc và chấm: vật nhô lên trên.
+  * Ghép lại: ở trên — "thượng".
+  * Chuyện thú vị: 马上 nghĩa đen là "trên lưng ngựa", nghĩa bóng là "ngay lập tức". 马 còn trong 马路 (đường), 马虎 (cẩu thả).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2145,6 +2339,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 马上 = **trên lưng ngựa**. Vì sao lại thành "ngay lập tức"? Thời cổ, mệnh lệnh khẩn cấp được truyền bằng **người cưỡi ngựa phi đi ngay**. "Lên ngựa" (马上) tức là **không chậm trễ một giây**. Dần dần, cụm từ chỉ hành động ấy trở thành trạng từ chỉ thời gian: **tức thì**. Đây là một trong những ví dụ đẹp nhất về việc **ẩn dụ chuyển từ không gian sang thời gian** trong tiếng Hán.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 马上 là ngay lập tức; nghĩa đen "trên lưng ngựa" — xuất phát từ việc kỵ binh nhận lệnh và lên đường ngay.
+* 马上 trong khẩu ngữ rất phổ biến: 我马上来 (Tôi đến ngay).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2180,11 +2379,15 @@
 
 **Bóc tách thành phần từng chữ**
 
-* **Chữ 一:** Một nét ngang duy nhất — số một, cũng là đường thẳng cơ bản.
+* **Chữ 一:**
+  * Một đường ngang: khởi đầu, một khối.
+  * Ghép lại: số một — "nhất".
 * **Chữ 直:**
-  * Phần 十 + 目 (phía trên): **con mắt** nhìn **thẳng** theo một trục.
-  * Nét 乚 (phía dưới): đường kẻ thẳng xuống.
-  * Mối liên hệ nội tại: Con mắt (目) nhìn theo một đường không lệch = **thẳng, ngay**. Nghĩa gốc của 直 là **nhìn thẳng**, rồi mở rộng thành "ngay thẳng" về đạo đức (正直).
+  * Phần trên 十: cây cột/ vật thẳng.
+  * Phần giữa 目: con mắt.
+  * Phần dưới 乚: đường nhìn kéo dài.
+  * Ghép lại: mắt nhìn thẳng một đường — "thẳng".
+  * Chuyện thú vị: 一直 là "một mạch thẳng" → luôn luôn, liên tục. 直 trong 直接 (trực tiếp), 一直.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2194,6 +2397,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 一直 = **một đường thẳng**. Từ hình ảnh hình học, cụm từ chuyển thành trạng từ thời gian: **suốt, liên tục không ngắt**. Người Hán hình dung thời gian như một đường thẳng — nếu không rẽ ngang, không dừng lại, thì là 一直. Vì thế 一直 vừa dùng cho không gian (一直走 — đi thẳng) vừa dùng cho thời gian (一直在等你 — vẫn luôn đợi bạn).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 一直 là luôn luôn/ thẳng một mạch; 直 là thẳng.
+* 一直 còn dùng để chỉ hướng: 一直走 (cứ đi thẳng).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2232,11 +2440,11 @@
 * **Chữ 总:**
   * Phần 丷 + 口 (phía trên): **những cái miệng nhỏ tụ lại**, gợi sự gom vào.
   * Bộ 心 (phía dưới): **trái tim**.
-  * Mối liên hệ nội tại: Chữ phồn thể 總 = 糸 (sợi tơ) + 悤 (tim + cửa sổ) — **buộc mọi sợi lại thành một mối**. Nghĩa gốc: **tổng, gom lại**. Từ "gom tất cả lại" mới sinh nghĩa "luôn luôn" (vì cái gì đã gom hết thì lần nào cũng vậy).
+  * Ghép lại: Chữ phồn thể 總 = 糸 (sợi tơ) + 悤 (tim + cửa sổ) — **buộc mọi sợi lại thành một mối**. Nghĩa gốc: **tổng, gom lại**. Từ "gom tất cả lại" mới sinh nghĩa "luôn luôn" (vì cái gì đã gom hết thì lần nào cũng vậy).
 * **Chữ 是:**
   * Phần 日 + 正 (phía trên): mặt trời và sự ngay thẳng.
   * Phần 疋 (phía dưới): bàn chân đặt xuống.
-  * Mối liên hệ nội tại: **Đúng, phải, là** — chữ khẳng định mạnh nhất trong tiếng Hán.
+  * Ghép lại: **Đúng, phải, là** — chữ khẳng định mạnh nhất trong tiếng Hán.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2246,6 +2454,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 总是 = **gom lại thì lần nào cũng đúng như thế**. Cấu trúc này cho thấy một tư duy rất hay: "luôn luôn" không phải một khái niệm tuyệt đối, mà là **kết quả của việc quan sát nhiều lần và thấy lần nào cũng vậy**. Ngữ khí: 总是 thường mang sắc thái **phàn nàn nhẹ** (他总是不来 — anh ta chẳng bao giờ đến), khác với 一直 (trung tính, nhấn vào tính liên tục).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 总是 là luôn luôn; 总 là tổng/ luôn, 是 là là.
+* 总是 thường mang sắc thái phàn nàn nhẹ: 他总是迟到 (Anh ấy luôn đến muộn).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2282,14 +2495,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 以:**
-  * Phần 人 (bên trái): **người**.
-  * Phần 丶 + 人? (bên phải): nét điểm và hình người thứ hai.
-  * Mối liên hệ nội tại: Giáp cốt văn vẽ **người cầm vật gì đó** — nghĩa gốc là **lấy, dùng**. Từ "lấy" mở rộng thành "lấy làm mốc, căn cứ vào" (以后 — lấy sau làm mốc).
+  * Phần 人 (bên trái): người.
+  * Phần bên phải: dấu chấm và hình người thứ hai.
+  * Ghép lại: giáp cốt văn vẽ người cầm vật gì đó — nghĩa gốc "lấy, dùng". Từ "lấy" mở rộng thành "lấy làm mốc, căn cứ vào".
 * **Chữ 前:**
-  * Phần 丷 + 一 (phía trên): **cái đầu, mái**.
-  * Phần 月 (giữa): **thân, thịt**.
-  * Bộ 刂 (bên phải): **con dao**.
-  * Mối liên hệ nội tại: Chữ phồn thể 前 gắn với hình **con thuyền đi về phía trước**, hoặc **cái kéo cắt đi phần trước**. Nghĩa cốt lõi: **phía trước, tiến lên**.
+  * Phần 丷 + 一 (phía trên): cái đầu, mái.
+  * Phần 月 (giữa): thân, thịt.
+  * Bộ 刂 (bên phải): con dao.
+  * Ghép lại: chữ phồn thể 前 gắn với hình con thuyền đi về phía trước, hoặc cái kéo cắt đi phần trước. Nghĩa cốt lõi: phía trước, tiến lên.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2299,6 +2512,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 以前 = **lấy phía trước làm mốc** → "trước đây". Người Hán hình dung thời gian như **một dòng chảy mà mình đang đứng trong đó**: cái đã qua nằm ở phía trước mặt (vì ta đã đi qua nó), cái chưa tới nằm ở phía sau lưng. Điều này giải thích nghịch lý nổi tiếng: trong tiếng Hán, **quá khứ là 前 (trước), tương lai là 后 (sau)** — ngược với cảm giác thông thường của người Việt. Đó là vì người Hán hình dung mình **quay mặt về quá khứ**, hoặc đứng nhìn dòng thời gian chảy tới.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 以前 là trước đây; 以 là lấy, 前 là trước.
+* 以前 có thể đứng sau danh từ chỉ thời gian: 三天以前 (ba ngày trước).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2334,11 +2552,11 @@
 
 **Bóc tách thành phần từng chữ**
 
-* **Chữ 以:** Như mục 145 — "lấy, dùng làm mốc".
+* **Chữ 以:** "lấy, dùng làm mốc".
 * **Chữ 后:**
   * Phần 厂 (phía trên trái): **vách đá, mái nhà**.
   * Phần 一 + 口 (phía dưới): đường ngang và **cái miệng**.
-  * Mối liên hệ nội tại: Chữ giản thể 后 gộp hai chữ cổ: 后 (hoàng hậu) và 後 (phía sau). 後 trong giáp cốt văn vẽ **bàn chân bị trói hoặc bước đi chậm** — gợi sự **đi sau**.
+  * Ghép lại: Chữ giản thể 后 gộp hai chữ cổ: 后 (hoàng hậu) và 後 (phía sau). 後 trong giáp cốt văn vẽ **bàn chân bị trói hoặc bước đi chậm** — gợi sự **đi sau**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2347,6 +2565,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 以后 = **lấy phía sau làm mốc** → "sau này". Như đã nói ở 以前, người Hán hình dung thời gian theo trục **trước–sau**: cái đã qua ở phía trước, cái chưa tới ở phía sau. Vì thế 以后 là **tương lai** — thứ vẫn còn nằm sau lưng, chưa nhìn thấy. Điều này cũng giải thích 后天 (ngày kia — "sau trời"), 后面 (phía sau).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 以后 là sau này; 以 là lấy, 后 là sau.
+* 以后 thường dùng để nói về tương lai gần hoặc xa; 以来 là "kể từ".
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2383,13 +2606,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 平:**
-  * Nét 1 — Hoành: mặt phẳng trên.
-  * Phần 丷 + 十 (bên dưới): hai nhánh và trục giữa.
-  * Mối liên hệ nội tại: Một mặt phẳng cân bằng trên một trục = **bằng phẳng, cân đối**. Từ "phẳng" mở rộng thành "bình yên" (平安), "công bằng" (公平), "bình thường" (平常).
+  * Phần trên 干: cây cột/ thanh ngang.
+  * Phần dưới 八: hai chân/ hai vật đỡ hai bên.
+  * Ghép lại: mặt phẳng cân bằng — "bằng phẳng, bình thường".
 * **Chữ 时:**
-  * Bộ 日 (bên trái): **mặt trời** — đơn vị thời gian cổ xưa nhất.
-  * Phần 寸 (bên phải): **tấc** — đơn vị đo, gợi sự **đo đếm**.
-  * Mối liên hệ nội tại: Mặt trời (日) được đo bằng tấc (寸) = **thời gian**. Người xưa đo thời gian bằng bóng nắng trên thước — chữ 时 ghi lại chính dụng cụ đo ấy (đồng hồ mặt trời).
+  * Bên trái 日: mặt trời.
+  * Bên phải 寸: tấc — đơn vị đo nhỏ.
+  * Ghép lại: dùng tấc để đo bóng mặt trời — "thời gian".
+  * Chuyện thú vị: 平时 là bình thường, ngày thường; 平 trong 平安 (bình an), 水平 (trình độ). 时 trong 时间, 时候.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2399,6 +2623,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 平时 = **thời gian phẳng lặng** — tức là những ngày không có gì đặc biệt. Người Hán phân biệt rõ ba tầng thời gian: 平时 (ngày thường), 周末 (cuối tuần), 放假 (ngày nghỉ lễ). 平时 là **nền** của đời sống: nó là phần lớn nhất, phần không được ghi nhớ, nhưng chính nó nuôi dưỡng mọi thứ khác.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 平时 là bình thường/ ngày thường; 平 là bằng phẳng, 时 là thời gian.
+* 平时 đối lập với 周末, 节假日 — ngày làm việc thường nhật.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2435,13 +2664,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 周:**
-  * Khung 冂 (bao quanh): **vòng tròn, chu vi**.
-  * Phần 土 + 口 (bên trong): đất và miệng — **dân cư trong một vùng**.
-  * Mối liên hệ nội tại: Một vòng bao quanh khu đất có người ở = **một vòng, một chu kỳ**. Từ "vòng" mở rộng thành "tuần" (một vòng bảy ngày) và "chu đáo" (bao trọn mọi phía).
+  * Khung 冂: vòng ngoài.
+  * Bên trong 土 + 口: đất và lời nói/ dân cư.
+  * Ghép lại: vòng quanh một vùng đất — "chu vi, tuần".
 * **Chữ 末:**
-  * Phần 木: **cái cây**.
-  * Nét hoành phía trên: **vạch đánh dấu ở ngọn cây**.
-  * Mối liên hệ nội tại: Cây (木) có vạch ở **phía trên** = **ngọn, phần cuối**. Đối lập với 本 (gốc cây — vạch ở dưới) và 未 (chưa — vạch ngắn hơn).
+  * Phần trên 木: cây.
+  * Đường ngang trên ngọn: đánh dấu phần cuối của cây.
+  * Ghép lại: ngọn cây — "cuối, tận cùng".
+  * Chuyện thú vị: 周末 là cuối tuần; 末 trong 期末 (cuối kỳ). Phân biệt 末 (cuối) với 未 (chưa) — độ dài đường ngang khác nhau.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2451,6 +2681,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 周末 = **phần cuối của vòng tuần**. Tiếng Hán hiện đại dùng 周 cho "tuần" (一周 — một tuần), gốc từ khái niệm **vòng tuần hoàn** của thời gian. 周末 ra đời cùng với chế độ làm việc phương Tây du nhập: một tuần là một vòng, và hai ngày cuối vòng là phần **ngọn** — phần để nghỉ.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 周末 là cuối tuần; 周 là tuần, 末 là cuối.
+* Trung Quốc áp dụng tuần làm việc 5 ngày từ năm 1995; trước đó thường làm 6 ngày.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2489,11 +2724,11 @@
 * **Chữ 过:**
   * Bộ 辶 (bao quanh dưới–trái): **bước chân**.
   * Phần 寸 (bên trong): **tấc**, đơn vị đo.
-  * Mối liên hệ nội tại: Bước chân (辶) vượt qua một khoảng đo (寸) = **đi qua, vượt qua**. Chữ phồn thể 過 có 咼 bên trong — gợi xương/khung, tăng ý "vượt chướng ngại".
+  * Ghép lại: Bước chân (辶) vượt qua một khoảng đo (寸) = **đi qua, vượt qua**. Chữ phồn thể 過 có 咼 bên trong — gợi xương/khung, tăng ý "vượt chướng ngại".
 * **Chữ 去:**
   * Phần 土 (phía trên): **đất**.
   * Phần 厶 (phía dưới): **cái riêng, chốn riêng**.
-  * Mối liên hệ nội tại: Rời khỏi mảnh đất của mình = **đi, rời đi**. 去 là chữ của sự **rời bỏ một nơi**.
+  * Ghép lại: Rời khỏi mảnh đất của mình = **đi, rời đi**. 去 là chữ của sự **rời bỏ một nơi**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2503,6 +2738,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 过去 = **đã đi qua rồi**. Cách cấu tạo rất trực quan: thời gian là thứ **trôi qua** (过) và **đi mất** (去). Ghép lại, từ vừa là động từ ("đi qua") vừa là danh từ ("quá khứ"). Sự chuyển hoá này cho thấy tư duy Hán không tách bạch thời gian và chuyển động: **quá khứ chính là cái đã đi ngang qua đời ta rồi rời đi**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 过去 là quá khứ/ đi qua; 过 là qua, 去 là đi.
+* 过去 còn dùng làm bổ ngữ chỉ hướng: 走过去 (đi qua đó).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2539,13 +2779,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 将:**
-  * Phần 丬 (bên trái): dạng giản thể của 爿 — **tấm ván, giường**.
-  * Phần 夕 + 寸 (bên phải): "chiều tối" và "tấc" — **cầm nắm, sắp tới**.
-  * Mối liên hệ nội tại: Chữ phồn thể 將 vẽ **tay nâng vật gì đó lên** (寸 = tay cầm) — nghĩa gốc: **cầm lấy, sắp làm**. Từ đó sinh nghĩa "sắp, sẽ" và "tướng lĩnh" (người cầm quân).
+  * Bên trái 丬: tấm ván/ giường (dạng giản thể của 爿).
+  * Bên phải 夕 + 寸: chiều tối và bàn tay cầm nắm.
+  * Ghép lại: tay nâng vật gì đó lên, sắp làm — "sắp, sẽ". Phồn thể 將 rõ hơn.
 * **Chữ 来:**
-  * Nét 1 — Hoành: mặt đất.
-  * Phần 米-ish (bên dưới): **cây lúa**.
-  * Mối liên hệ nội tại: Chữ phồn thể 來 vẽ **cây lúa mì** — loài cây được con người mang về trồng. Nghĩa gốc: **cây lúa**, sau mượn làm động từ **đến**.
+  * Phần trên 一: đường ngang.
+  * Phần dưới: cây lúa mì với hạt rủ xuống (phồn thể 來).
+  * Ghép lại: cây lúa được mang về — "đến".
+  * Chuyện thú vị: 将来 là tương lai; 将 trong 将军 (tướng quân). 来 trong 未来, 原来.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2555,6 +2796,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 将来 = **sắp đến**. Điều tinh tế: tiếng Hán có nhiều cách nói "tương lai": 将来 (sắp tới — gần, cụ thể), 未来 (vị lai — chưa tới, trừu tượng hơn), 以后 (sau này — sau một mốc). 将来 nhấn vào **cái đang tiến về phía ta** — như bông lúa đang được mang đến. Nó là tương lai **đang đến gần**, không phải tương lai xa vời.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 将来 là tương lai; 将 là sắp, 来 là đến.
+* 将来 và 未来 đều là tương lai, nhưng 将来 gần gũi hơn trong khẩu ngữ.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2591,13 +2837,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 太:**
-  * Phần 大: **người dang tay dang chân** — to lớn.
-  * Nét 丶 (điểm): một dấu nhỏ thêm vào dưới.
-  * Mối liên hệ nội tại: "To" (大) thêm một điểm = **to hơn nữa, quá, rất**. Đây là cách tạo chữ rất Hán: chỉ cần thêm một chấm, nghĩa tăng thêm một bậc.
+  * Phần dưới 大: người dang tay chân.
+  * Chấm nhỏ 丶: thêm một chút — "hơn, quá".
+  * Ghép lại: lớn hơn mức bình thường — "thái, quá".
 * **Chữ 阳:**
-  * Bộ 阝 (bên trái): dạng của 阜 — **gò đất, đồi**.
-  * Phần 日 (bên phải): **mặt trời**.
-  * Mối liên hệ nội tại: Mặt trời (日) chiếu lên sườn đồi (阝) = **phía có nắng**. Chữ phồn thể 陽 còn có 昜 (ánh sáng lan toả) — nghĩa gốc: **sườn núi hướng về mặt trời**.
+  * Bên trái 阝: gò đất/ thành.
+  * Bên phải 日: mặt trời.
+  * Ghép lại: phía có mặt trời — "dương, mặt trời".
+  * Chuyện thú vị: 太阳 là mặt trời; 阳 trong 阳光 (ánh nắng), 阴阳 (âm dương). 阳 còn chỉ phía nam của núi, phía bắc của sông.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2607,6 +2854,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 太阳 = **dương lớn** — mặt trời. Người Hán gọi mặt trời là 日 (nhật) trong văn viết cổ, nhưng trong khẩu ngữ dùng 太阳: **khối dương khí vĩ đại nhất**. Cách gọi này cho thấy mặt trời không chỉ là một thiên thể, mà là **nguồn gốc của mọi sự sống và ánh sáng** trong tư duy Hán. Cùng họ này có 月亮 (mặt trăng) — cặp âm dương trên bầu trời.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 太阳 là mặt trời; 太 là quá/ lớn, 阳 là dương.
+* Người Hán cổ thờ mặt trời; 太阳 còn là tên gọi thân mật của "ông mặt trời" trong truyện thiếu nhi.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2643,14 +2895,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 月:**
-  * Nét 1 — Phiệt: đường cong ngoài.
-  * Nét 2 — Móc: đường cong trong.
-  * Nét 3–4 — Hoành: hai vạch ngang.
-  * Mối liên hệ nội tại: Hình **vầng trăng khuyết** với hai vạch chia — thực ra 月 ban đầu vẽ **mặt trăng**, sau bị mượn để chỉ "tháng" và "thịt" (bộ nhục). Ba nghĩa chồng lên một hình.
+  * Vành trăng khuyết: đường cong ngoài và trong.
+  * Ghép lại: mặt trăng — "nguyệt", cũng là "tháng".
 * **Chữ 亮:**
-  * Phần 亠 + 口 (phía trên): **nắp và miệng** — gợi sự mở ra.
-  * Phần 冖 + 几 (phía dưới): **mái che và cái bàn**.
-  * Mối liên hệ nội tại: Chữ phồn thể 亮 gắn với hình **người ở trên cao nhìn xuống, thấy rõ mọi thứ** — nghĩa gốc: **sáng, rõ ràng**.
+  * Phần trên 亠: đỉnh/ mái.
+  * Phần giữa 口: vật sáng.
+  * Phần dưới 冖 + 几: không gian và chân đế toả sáng.
+  * Ghép lại: ánh sáng chiếu lên cao — "sáng".
+  * Chuyện thú vị: 月亮 là mặt trăng; 亮 trong 明亮 (sáng), 漂亮 (xinh đẹp).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2660,6 +2912,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 月亮 = **trăng sáng**. Người Hán không nói "mặt trăng" như tiếng Việt mà nói **月 + 亮**: gọi tên thiên thể bằng **đặc tính cảm quan** của nó. Điều này tạo nên một cặp đối lập rất đẹp trên bầu trời: **太阳 (dương vĩ đại) — 月亮 (trăng sáng)**. Trong thơ ca Hán, trăng là biểu tượng của **nỗi nhớ quê hương** (Tĩnh dạ tứ của Lý Bạch: 举头望明月，低头思故乡).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 月亮 là mặt trăng; 月 là trăng, 亮 là sáng.
+* Truyền thuyết Hằng Nga 嫦娥 bay lên cung trăng gắn với Tết Trung Thu và bánh 月饼.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2695,8 +2952,8 @@
 
 * **Chữ 风:**
   * Khung 几 (bao quanh): **cánh cửa hoặc vỏ bọc**, gợi luồng khí đi qua.
-  * Phần 乂 (bên trong): hai nét chéo — **chuyển động, giao thoa**.
-  * Mối liên hệ nội tại: Chữ phồn thể 風 có 虫 (sâu) bên trong — theo truyền thuyết, gió sinh ra khi loài vật trong hang động cựa mình. Giản thể 风 thay bằng 乂, gợi **luồng khí chéo qua khung cửa**.
+  * Phần 乂 (bên trong): chéo — **chuyển động, giao thoa**.
+  * Ghép lại: Chữ phồn thể 風 có 虫 (sâu) bên trong — theo truyền thuyết, gió sinh ra khi loài vật trong hang động cựa mình. Giản thể 风 thay bằng 乂, gợi **luồng khí chéo qua khung cửa**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2705,6 +2962,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. 风 là hình vị cực kỳ năng suất trong tiếng Hán: 风景 (phong cảnh), 风格 (phong cách), 风俗 (phong tục), 台风 (bão), 风筝 (diều). Tất cả đều xoay quanh một ý niệm: **cái gì lan ra, thổi qua, tạo nên bầu không khí**. Người Hán xem gió như **tinh thần của không gian**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 风 là gió; 风水 (phong thủy) là thuật xem hướng đất, nhà cửa.
+* 风 còn mang nghĩa "phong cách": 风格, 风景 (phong cảnh).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2741,15 +3003,15 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 下:**
-  * Nét 1 — Hoành dài: **mặt nền**.
-  * Nét 2 — Thụ: đường dọc.
-  * Nét 3 — Điểm: vạch đánh dấu **ở phía dưới** mặt nền.
-  * Mối liên hệ nội tại: Ngược với 上 — một vật được đánh dấu **bên dưới** đường ngang. 下 là chữ của **phía dưới và sự đi xuống**.
+  * Đường ngang: đường chuẩn.
+  * Đường dọc và chấm: vật chúc xuống dưới.
+  * Ghép lại: ở dưới — "hạ".
 * **Chữ 雨:**
-  * Nét 1 — Hoành: **bầu trời**.
-  * Khung 冂: **vùng không gian**.
-  * Bốn điểm bên trong: **những giọt mưa**.
-  * Mối liên hệ nội tại: Bầu trời (一) với những giọt nước rơi xuống bên trong khung = **mưa**. Đây là chữ tượng hình trực tiếp đến mức gần như là một bức vẽ.
+  * Đường ngang trên: bầu trời.
+  * Khung 冂: đám mây.
+  * Bốn chấm bên trong: những hạt mưa rơi xuống.
+  * Ghép lại: mây và mưa — "mưa".
+  * Chuyện thú vị: 下雨 là mưa; 雨 trong 雨伞 (ô), 雨水 (tiết khí "Vũ thủy"). 雨 còn là bộ thủ trong 雪, 雷, 霜.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2759,6 +3021,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 下雨 = **mưa rơi xuống**. Trong tiếng Hán, các hiện tượng thời tiết thường được diễn đạt bằng **động từ chuyển động + danh từ**: 下雨 (mưa xuống), 下雪 (tuyết rơi), 刮风 (gió thổi). 下 ở đây không chỉ vị trí mà là **hướng vận động** — mưa là thứ **rơi từ trên xuống**. Điều này phản ánh một cách nhìn rất động: thời tiết không phải trạng thái, mà là **hành động của bầu trời**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 下雨 là mưa; 下 là rơi xuống, 雨 là mưa.
+* 雨水 (Vũ thủy) là tiết khí thứ hai trong 24 tiết khí, đánh dấu mùa mưa xuân.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2794,12 +3061,13 @@
 
 **Bóc tách thành phần từng chữ**
 
-* **Chữ 雨:** Bầu trời với những giọt mưa — như mục 154.
+* **Chữ 雨:**
+  * Bầu trời, mây và bốn hạt mưa — "mưa".
 * **Chữ 伞:**
-  * Nét 1 — Phiệt: **cánh ô** nghiêng.
-  * Nét 2 — Phiệt thứ hai: cánh ô phía bên kia.
-  * Phần 十 (phía dưới): **cán** và **trục dọc**.
-  * Mối liên hệ nội tại: Hai cánh ô xoè ra trên một cán dọc = **cái ô đang mở**. Chữ này là hình vẽ trực tiếp của vật dụng — chỉ cần nhìn là thấy chiếc ô.
+  * Phần trên 人: mái che hình người.
+  * Phần dưới 十: cán ô và nan ô.
+  * Ghép lại: người cầm cán, mái che xoè ra — "cái ô".
+  * Chuyện thú vị: 雨伞 là ô che mưa; 打伞 là che ô. 伞 còn dùng trong 降落伞 (dù nhảy).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2809,6 +3077,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 雨伞 = **ô che mưa**. Trật tự "hiện tượng + vật dụng" rất logic: 雨 nói rõ **công dụng**, 伞 nói rõ **vật**. Người Hán còn phân biệt 雨伞 (ô mưa) với 太阳伞 (ô nắng) và 阳伞 (dù che nắng). Điều này cho thấy một đặc điểm của tiếng Hán: **vật dụng luôn được gọi kèm mục đích sử dụng**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 雨伞 là ô che mưa; 伞 gồm 人 (mái che) + 十 (cán).
+* 打伞 là che ô; 伞 còn dùng trong 降落伞 (dù nhảy).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2844,8 +3117,8 @@
 
 * **Chữ 树:**
   * Bộ 木 (bên trái): **cái cây**, gốc rễ cắm xuống.
-  * Phần 对 (bên phải): năm nét — "đối, cặp", đồng thời **biểu âm** (duì ~ shù).
-  * Mối liên hệ nội tại: Cây (木) + âm "đối" (对) = **cái cây**. Chữ phồn thể 樹 = 木 + 尌 (dựng đứng) — nghĩa gốc: **cây được trồng thẳng đứng**.
+  * Phần 对 (bên phải): "đối, cặp", đồng thời **biểu âm** (duì ~ shù).
+  * Ghép lại: Cây (木) + âm "đối" (对) = **cái cây**. Chữ phồn thể 樹 = 木 + 尌 (dựng đứng) — nghĩa gốc: **cây được trồng thẳng đứng**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2854,6 +3127,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Người Hán lấy cây làm **chuẩn mực cho sự trưởng thành**: 十年树木，百年树人 — "mười năm trồng cây, trăm năm trồng người". Chữ 树 vì thế không chỉ là thực vật, mà là **ẩn dụ nền tảng của giáo dục**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 树 là cây; 木 là gỗ/ cây, 树 là cây đứng.
+* Người Hán trồng 柳 (liễu) ven sông và 槐 (hòe) trong sân — mỗi loại cây mang ý nghĩa riêng.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2889,8 +3167,8 @@
 
 * **Chữ 花:**
   * Bộ 艹 (phía trên): **cỏ, cây**.
-  * Phần 化 (phía dưới): bốn nét — **biến hoá**, đồng thời **biểu âm** (huà ~ huā).
-  * Mối liên hệ nội tại: Cây cỏ (艹) + biến hoá (化) = **phần biến hoá rực rỡ nhất của cây** — bông hoa. Ẩn dụ rất sâu: hoa là "cái biến hoá" của cây, là lúc cây bung ra khỏi hình dáng thường ngày.
+  * Phần 化 (phía dưới): **biến hoá**, đồng thời **biểu âm** (huà ~ huā).
+  * Ghép lại: Cây cỏ (艹) + biến hoá (化) = **phần biến hoá rực rỡ nhất của cây** — bông hoa. Ẩn dụ rất sâu: hoa là "cái biến hoá" của cây, là lúc cây bung ra khỏi hình dáng thường ngày.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2899,6 +3177,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Điều thú vị: cùng một chữ 花 mang ba tầng nghĩa hoàn toàn khác nhau — **thực vật** (hoa), **kinh tế** (tiêu tiền), **tri giác** (hoa mắt). Sợi dây nối: cái gì **bung ra, rực rỡ, tan biến nhanh** đều được gọi là 花. Tiền tiêu đi cũng "nở" rồi "tàn".
+
+**Kiến thức văn hóa & lịch sử**
+
+* 花 là hoa; 花 còn nghĩa là "tiêu tiền" (花钱) — như hoa nở rồi tàn.
+* 花 trong 花园 (vườn hoa), 鲜花 (hoa tươi); 花 cũng là họ người.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2934,8 +3217,8 @@
 
 * **Chữ 草:**
   * Bộ 艹 (phía trên): **cỏ**, hai nhánh cây mọc lên.
-  * Phần 早 (phía dưới): sáu nét — **sớm**, đồng thời **biểu âm** (zǎo ~ cǎo).
-  * Mối liên hệ nội tại: Cỏ (艹) + âm "tảo" (早) = **cỏ mọc sớm**, loài cây mọc lên đầu tiên sau mưa. Cỏ là thứ **nhanh nhất, rẻ nhất, phổ biến nhất** trong thế giới thực vật — và điều đó giải thích mọi nghĩa mở rộng của nó.
+  * Phần 早 (phía dưới): **sớm**, đồng thời **biểu âm** (zǎo ~ cǎo).
+  * Ghép lại: Cỏ (艹) + âm "tảo" (早) = **cỏ mọc sớm**, loài cây mọc lên đầu tiên sau mưa. Cỏ là thứ **nhanh nhất, rẻ nhất, phổ biến nhất** trong thế giới thực vật — và điều đó giải thích mọi nghĩa mở rộng của nó.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2944,6 +3227,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Trong văn hoá Hán, 草 mang hai sắc thái đối lập: **sức sống** (野火烧不尽，春风吹又生 — lửa cháy không hết, gió xuân thổi lại mọc) và **sự thấp hèn** (草民 — thường dân, "dân cỏ"). Một chữ, hai mặt của cùng một sự thật: cỏ yếu ớt nhưng không thể diệt.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 草 là cỏ; 草书 (thảo thư) là lối viết chữ thảo, một trong các thể thư pháp.
+* 草 trong 草地 (bãi cỏ), 草帽 (mũ rơm); 草根 (rễ cỏ) chỉ tầng lớp bình dân.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -2979,8 +3267,8 @@
 
 * **Chữ 河:**
   * Bộ 氵 (bên trái): **nước**.
-  * Phần 可 (bên phải): năm nét — "có thể", đồng thời **biểu âm** (kě ~ hé).
-  * Mối liên hệ nội tại: Nước (氵) + âm "khả" (可) = **dòng nước lớn**. Chữ hình thanh thuần tuý: nửa nghĩa, nửa âm.
+  * Phần 可 (bên phải): "có thể", đồng thời **biểu âm** (kě ~ hé).
+  * Ghép lại: Nước (氵) + âm "khả" (可) = **dòng nước lớn**. Chữ hình thanh thuần tuý: nửa nghĩa, nửa âm.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -2989,6 +3277,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Trong văn minh Hán, 河 là **cái nôi**: các triều đại sớm nhất hình thành dọc Hoàng Hà; chữ 河 xuất hiện trong mọi áng văn cổ. Người Hán còn phân biệt 河 (sông nhỏ, miền bắc) và 江 (sông lớn, miền nam) — ranh giới này phản ánh địa lý hai miền.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 河 là sông; 黄河 (Hoàng Hà) là "sông mẹ" của văn minh Hán, nổi tiếng với phù sa vàng.
+* 河 trong 河边 (bờ sông), 河南/ 河北 là hai tỉnh hai bên Hoàng Hà.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3023,10 +3316,9 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 山:**
-  * Nét 1 — Thụ (sổ giữa): **đỉnh núi cao nhất**.
-  * Nét 2 — Móc dọc: **sườn núi bên trái**.
-  * Nét 3 — Thụ ngắn: **đỉnh phụ bên phải**.
-  * Mối liên hệ nội tại: Ba ngọn núi nhô lên từ một đường nền chung — ngọn giữa cao nhất, hai ngọn hai bên thấp hơn. Đây là một bức phác hoạ dãy núi, không phải một ngọn núi đơn lẻ.
+  * Ba ngọn núi nhô lên, ngọn giữa cao nhất.
+  * Ghép lại: dãy núi — "sơn".
+  * Chuyện thú vị: 山 trong 山水 (núi sông), 爬山 (leo núi). 山东, 山西 là hai tỉnh có tên ghép theo vị trí so với dãy Thái Hành Sơn.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3035,6 +3327,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. 山 là hình vị cực kỳ năng suất: 山水 (sơn thuỷ), 山区 (vùng núi), 爬山 (leo núi), 火山 (núi lửa), 山歌 (dân ca miền núi). Trong triết học và hội hoạ Hán, 山 tượng trưng cho **cái bất động, cái vĩnh cửu** — đối lập với 水 (nước), cái luôn chảy. 智者乐水，仁者乐山 (kẻ trí thích nước, người nhân thích núi).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 山 là núi; 五岳 (Ngũ Nhạc) là năm ngọn núi thiêng: Thái Sơn, Hoa Sơn, Hành Sơn, Hằng Sơn, Tung Sơn.
+* 山 trong 山水 (núi sông), 爬山 (leo núi); 山东/ 山西 nằm hai phía dãy Thái Hành Sơn.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3069,9 +3366,9 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 猫:**
-  * Bộ 犭 (bên trái): ba nét — **con thú bốn chân**, dạng đứng của 犬 (chó).
-  * Phần 苗 (bên phải): tám nét — "mầm cây", đồng thời **biểu âm** (miáo ~ māo).
-  * Mối liên hệ nội tại: Thú (犭) + âm "miêu" (苗) = **mèo**. Bộ 犭 xếp mèo vào **cùng loài với chó** — nhóm thú ăn thịt sống gần người. Đây là chữ hình thanh thuần tuý.
+  * Bộ 犭 (bên trái): **con thú bốn chân**, dạng đứng của 犬 (chó).
+  * Phần 苗 (bên phải): "mầm cây", đồng thời **biểu âm** (miáo ~ māo).
+  * Ghép lại: Thú (犭) + âm "miêu" (苗) = **mèo**. Bộ 犭 xếp mèo vào **cùng loài với chó** — nhóm thú ăn thịt sống gần người. Đây là chữ hình thanh thuần tuý.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3080,6 +3377,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Trong tiếng Hán, 猫 có thể dùng như **từ chỉ loài** (mèo) hoặc **từ láy âm thanh** (mèo kêu 喵 — miāo). Điều thú vị: âm 猫 (māo) gần với tiếng mèo kêu trong nhiều ngôn ngữ — một hiện tượng **tượng thanh phổ quát**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 猫 là mèo; người Hán coi mèo là vật nuôi bắt chuột, gắn với câu chuyện "mèo già hóa cáo".
+* 猫 trong 熊猫 (gấu trúc) — tên gọi ghép "mèo gấu" vì ngoại hình đặc biệt.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3115,8 +3417,8 @@
 
 * **Chữ 狗:**
   * Bộ 犭 (bên trái): **con thú bốn chân**.
-  * Phần 句 (bên phải): năm nét — "câu, câu nói", đồng thời **biểu âm** (jù ~ gǒu).
-  * Mối liên hệ nội tại: Thú (犭) + âm "cú" (句) = **con chó**. Cùng bộ với 猫, 猪, 狼, 猴 — cả một "gia đình" thú bốn chân được xếp dưới bộ 犭.
+  * Phần 句 (bên phải): "câu, câu nói", đồng thời **biểu âm** (jù ~ gǒu).
+  * Ghép lại: Thú (犭) + âm "cú" (句) = **con chó**. Cùng bộ với 猫, 猪, 狼, 猴 — cả một "gia đình" thú bốn chân được xếp dưới bộ 犭.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3125,6 +3427,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Chó là loài vật được thuần hoá **sớm nhất** (khoảng 15.000 năm trước), trước cả khi có chữ viết. Trong văn hoá Hán, 狗 mang hai mặt: **trung thành** (狗不嫌家贫 — chó không chê nhà nghèo) và **hèn mọn** (một loạt thành ngữ chửi). Một chữ, hai thái cực.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 狗 là chó; 犬 là dạng trang trọng/ cổ của chó.
+* Trong 12 con giáp, 狗 đứng thứ 11; người Hán có câu "狗急跳墙" — chó cùng rứt giậu.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3159,12 +3466,10 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 鸟:**
-  * Nét 1 — Phiệt: **mỏ chim**.
-  * Nét 2 — Móc ngang: **đầu và cổ**.
-  * Nét 3 — Điểm: **mắt chim**.
-  * Nét 4 — Móc dọc: **thân và cánh**.
-  * Nét 5 — Hoành: **đuôi**.
-  * Mối liên hệ nội tại: Chữ giản thể 鸟 là hình con chim nhìn nghiêng: mỏ, đầu, mắt, cánh, đuôi. Chữ phồn thể 鳥 còn rõ hơn với bốn chấm ở đuôi (lông đuôi).
+  * Phần trên: đầu, mắt và mỏ.
+  * Phần dưới: cánh, thân và chân.
+  * Ghép lại: hình con chim — "điểu". Phồn thể 鳥 rõ hơn.
+  * Chuyện thú vị: 鸟 trong 小鸟, 鸟巢. Người Hán dùng "鸟语" để chỉ tiếng nói lạ tai, đôi khi mang sắc thái đùa cợt.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3173,6 +3478,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Trong tiếng Hán, 鸟 mang nghĩa **loài chim nói chung**, không phân biệt loài — muốn cụ thể phải ghép thêm (小鸟 — chim nhỏ, 候鸟 — chim di cư). Điều thú vị: trong tiếng Hán thông tục, 鸟 (đọc *diǎo*) còn là một từ tục chỉ bộ phận sinh dục nam — một ví dụ về **kiêng kỵ ngôn ngữ** khiến người ta tránh dùng chữ này trong một số ngữ cảnh.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 鸟 là chim; 鸟语 là tiếng chim, cũng dùng để chỉ giọng nói lạ.
+* Chim hạc 鹤 và chim én 燕 là hai loài mang nhiều ý nghĩa trong thơ ca Hán.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3207,10 +3517,10 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 马:**
-  * Nét 1 — Móc ngang: **đầu, cổ và lưng ngựa**.
-  * Nét 2 — Móc dọc: **thân và chân trước**.
-  * Nét 3 — Hoành: **bụng ngựa**.
-  * Mối liên hệ nội tại: Chữ giản thể 马 đã lược gần hết, chỉ còn ba nét gợi dáng con ngựa nhìn nghiêng. Chữ phồn thể 馬 vẫn giữ bờm, bốn chân và đuôi — một bức vẽ hoàn chỉnh.
+  * Phần trên: bờm và đầu ngựa.
+  * Phần dưới: bốn chân và đuôi.
+  * Ghép lại: con ngựa đang phi — "mã". Phồn thể 馬 rõ hơn.
+  * Chuyện thú vị: 马 trong 马路 (đường), 马上 (ngay), 马虎 (cẩu thả). "马大哈" là người lơ đễnh, cẩu thả.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3219,6 +3529,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. 马 là hình vị năng suất bậc nhất: 马上 (ngay lập tức), 马路 (đường lớn), 马桶 (bồn cầu), 人马 (nhân mã). Trong tiếng Hán hiện đại, 马 còn là **bộ thủ** cho các chữ chỉ loài ngựa: 骑 (cưỡi), 驾 (lái xe), 驶 (chạy xe).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 马 là ngựa; 马 đứng thứ 7 trong 12 con giáp.
+* 马路 nghĩa đen là "đường ngựa", nay chỉ đường phố; 马上 là ngay lập tức.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3255,10 +3570,10 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 熊:**
-  * Phần 能 (phía trên): mười nét — **khả năng, sức mạnh**, đồng thời **biểu âm** (néng ~ xióng).
-  * Bộ 灬 (phía dưới): bốn nét — **lửa**.
-  * Mối liên hệ nội tại: Sức mạnh (能) + lửa (灬) = **con gấu** — loài vật to lớn, hung dữ. Bộ 灬 ở đây gợi **bốn chân** của con gấu (một số học giả cho rằng 灬 vốn là hình bàn chân).
-* **Chữ 猫:** Như mục 161 — mèo.
+  * Phần 能 (phía trên): **khả năng, sức mạnh**, đồng thời **biểu âm** (néng ~ xióng).
+  * Bộ 灬 (phía dưới): **lửa**.
+  * Ghép lại: Sức mạnh (能) + lửa (灬) = **con gấu** — loài vật to lớn, hung dữ. Bộ 灬 ở đây gợi **bốn chân** của con gấu (một số học giả cho rằng 灬 vốn là hình bàn chân).
+* **Chữ 猫:** mèo.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3268,6 +3583,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 熊猫 = **gấu mèo**. Đây là cách đặt tên bằng **so sánh hình dáng**: gấu trúc có thân hình to lớn như gấu (熊) nhưng mặt tròn, mắt đen như mèo (猫). Người phương Tây gọi nó là *panda* (từ tiếng Nepal); người Hán gọi nó bằng hai con vật quen thuộc nhất. Điều này phản ánh một nguyên tắc đặt tên rất Hán: **dùng cái đã biết để gọi cái chưa biết**. Gấu trúc còn có tên dân gian 大熊猫 (đại hùng miêu) để phân biệt với 小熊猫 (gấu trúc đỏ).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 熊猫 là gấu trúc; 熊 là gấu, 猫 là mèo.
+* Gấu trúc là 国宝 (quốc bảo) của Trung Quốc và là biểu tượng ngoại giao — "ngoại giao gấu trúc".
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3304,13 +3624,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 声:**
-  * Phần 士 (phía trên): **kẻ sĩ**, người có học.
-  * Phần 尸? + 丨 (phía dưới): khung và nét dọc.
-  * Mối liên hệ nội tại: Chữ phồn thể 聲 = 殸 (đàn đá) + 耳 (tai) — **tai nghe tiếng đàn đá**. Giản thể 声 giữ lại phần trên, làm mất bộ 耳 nhưng nghĩa vẫn là **âm thanh lọt vào tai**.
+  * Phần 士 (phía trên): kẻ sĩ, người có học.
+  * Phần phía dưới: khung và trục dọc.
+  * Ghép lại: phồn thể 聲 = 殸 (đàn đá) + 耳 (tai) — tai nghe tiếng đàn đá. Giản thể 声 giữ phần trên, nghĩa vẫn là âm thanh lọt vào tai.
 * **Chữ 音:**
-  * Phần 立 (phía trên): **đứng**.
-  * Phần 日 (phía dưới): **mặt trời**.
-  * Mối liên hệ nội tại: Chữ 音 vốn là 言 (lời nói) có thêm một nét trong miệng — **lời phát ra thành tiếng**. Nghĩa gốc: **âm thanh có nhạc tính**, khác với 声 là tiếng động nói chung.
+  * Phần 立 (phía trên): đứng.
+  * Phần 日 (phía dưới): mặt trời.
+  * Ghép lại: 音 vốn là 言 (lời nói) có thêm một đường nhỏ trong miệng — lời phát ra thành tiếng. Nghĩa gốc: âm thanh có nhạc tính, khác với 声 là tiếng động nói chung.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3320,6 +3640,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 声音 = **thanh + âm**. Hai chữ ghép lại thành một khái niệm bao trùm: mọi thứ nghe được. Sự phân biệt tinh tế giữa 声 và 音 trong tiếng Hán cổ (声 = tiếng động, 音 = âm có nhạc tính) đã bị nhoà trong tiếng hiện đại, nhưng dấu vết vẫn còn: 音乐 (âm nhạc) dùng 音, còn 大声 (to tiếng) dùng 声.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 声音 là âm thanh; 声 là tiếng, 音 là âm.
+* 声 trong 大声 (to tiếng), 声音 trong 声音很好听 (giọng hay).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3355,11 +3680,11 @@
 
 **Bóc tách thành phần từng chữ**
 
-* **Chữ 音:** Như mục 166 — âm thanh có nhạc tính.
+* **Chữ 音:** âm thanh có nhạc tính; gồm 立 (đứng) + 日 (mặt trời), gợi lời nói vang lên.
 * **Chữ 乐:**
-  * Phần 丿 (phía trên): nét phẩy — **dây đàn**.
-  * Phần 木 (phía dưới): **cái cây, tấm gỗ** — thân đàn.
-  * Mối liên hệ nội tại: Chữ phồn thể 樂 = 白 (dây/ngón) + 幺 (sợi tơ) + 木 (gỗ) — **cây đàn gỗ có dây tơ**. Nghĩa gốc: **nhạc cụ**, rồi **âm nhạc**, rồi **niềm vui** (vì nghe nhạc thì vui). Một chữ mang cả ba nghĩa: đàn — nhạc — vui.
+  * Phần 丿 (phía trên): đường xiên — dây đàn.
+  * Phần 木 (phía dưới): cái cây, tấm gỗ — thân đàn.
+  * Ghép lại: phồn thể 樂 = 白 (dây/ngón) + 幺 (sợi tơ) + 木 (gỗ) — cây đàn gỗ có dây tơ. Nghĩa gốc: nhạc cụ → âm nhạc → niềm vui.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3369,6 +3694,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 音乐 = **âm thanh làm nên niềm vui**. Đây là từ hiện đại (đầu thế kỷ XX) dịch từ *music*, nhưng vật liệu hoàn toàn cổ điển: 音 (âm) + 乐 (nhạc/vui). Trong triết học Hán, nhạc không chỉ để giải trí mà là **công cụ trị quốc**: 礼乐 (lễ nhạc) — nhạc làm hài hoà lòng người, lễ làm rõ trật tự xã hội. Khổng Tử nói: 兴于诗，立于礼，成于乐 — "khởi đầu từ thơ, đứng vững nhờ lễ, hoàn thiện bằng nhạc".
+
+**Kiến thức văn hóa & lịch sử**
+
+* 音乐 là âm nhạc; 音 là âm, 乐 là vui/ nhạc.
+* Ngũ âm 五音 (cung, thương, giốc, chủy, vũ) là hệ thống âm giai cổ của Trung Quốc.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3405,13 +3735,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 电:**
-  * Phần 田: **ruộng** — bốn ô đất.
-  * Nét 乚 (móc): **tia chớp** uốn lượn.
-  * Mối liên hệ nội tại: Chữ phồn thể 電 = 雨 (mưa) + 电 (tia chớp) — **chớp trong mưa**. Giản thể giữ lại 田 + 乚: tia chớp loé lên trên cánh đồng. Nghĩa gốc: **sét**, sau mở rộng thành **điện**.
+  * Phần trên 田: cánh đồng.
+  * Phần móc 乚: tia chớp uốn xuống.
+  * Ghép lại: tia chớp đánh xuống ruộng — "điện". Phồn thể 電 có thêm 雨 (mưa).
 * **Chữ 影:**
-  * Phần 景 (bên trái): **cảnh vật dưới nắng** (日 + 京).
-  * Bộ 彡 (bên phải): ba nét — **vệt sáng, lông mao**, gợi những đường mảnh.
-  * Mối liên hệ nội tại: Cảnh vật (景) + những vệt mảnh (彡) = **bóng đổ, hình ảnh in lại**. 影 vừa là "bóng" vừa là "hình ảnh".
+  * Phần trên 景: cảnh vật, ánh sáng.
+  * Bộ 彡: những vệt sáng/ lông tơ.
+  * Ghép lại: bóng của cảnh vật dưới ánh sáng — "bóng, ảnh".
+  * Chuyện thú vị: 电影 là phim; 影 trong 影子 (cái bóng), 摄影 (nhiếp ảnh). 电影 nghĩa đen là "bóng điện" — hình ảnh do ánh sáng tạo ra.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3421,6 +3752,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 电影 = **bóng của điện**. Chữ Hán dịch *movie* bằng một hình ảnh rất thơ: ánh sáng điện chiếu qua phim, in **những cái bóng** lên màn trắng. Người Hán không gọi đó là "phim" (vật liệu) mà là **bóng** (hiệu ứng thị giác). Cùng thời kỳ, 电视 (truyền hình) = "nhìn từ xa", 电话 = "lời nói bằng điện" — cả một tư duy **dịch nghĩa hình ảnh** cho công nghệ mới.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 电影 là phim; 电 là điện, 影 là bóng.
+* 中国电影 có lịch sử hơn 100 năm; 功夫片 (phim võ thuật) là thể loại nổi tiếng toàn cầu.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3457,14 +3793,15 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 故:**
-  * Phần 古 (bên trái): năm nét — **xưa, cũ** (十 + 口: mười đời truyền miệng).
-  * Bộ 攵 (bên phải): bốn nét — **tay cầm roi, hành động**.
-  * Mối liên hệ nội tại: Cái cũ (古) được tác động (攵) = **nguyên nhân, lý do**; cũng là **việc đã qua**. 故 mang hai nghĩa: "cũ" (故乡 — quê cũ) và "cho nên" (vì thế).
+  * Bên trái 古: cũ, xưa.
+  * Bên phải 攵: bàn tay cầm roi/ hành động.
+  * Ghép lại: việc cũ được nhắc lại — "cũ, nguyên nhân".
 * **Chữ 事:**
-  * Nét 1 — Hoành: đường ngang trên.
-  * Phần 口: **cái miệng**.
-  * Phần ⺕ + 亅: **bàn tay cầm vật** và **trục dọc**.
-  * Mối liên hệ nội tại: Chữ phồn thể 事 vẽ **tay cầm bút ghi chép sự việc** — nghĩa gốc: **công việc, sự việc**. Từ "việc" mở rộng thành mọi thứ xảy ra.
+  * Phần trên 一: điều/ sự việc.
+  * Phần giữa 口: lời nói.
+  * Phần dưới ヨ: tay cầm bút ghi chép.
+  * Ghép lại: ghi lại lời nói và việc làm — "sự việc".
+  * Chuyện thú vị: 故事 là câu chuyện; 故 trong 故乡 (quê hương), 故意 (cố ý). 事 trong 事情 (sự việc), 事业 (sự nghiệp).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3474,6 +3811,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 故事 = **việc cũ**. Trong tiếng Hán cổ, 故事 nghĩa là **điển cố, việc xưa** — những câu chuyện trong sách thánh hiền được dẫn ra để bàn việc nay. Đến đời Minh–Thanh, khi tiểu thuyết và truyện kể phát triển, 故事 mới mang nghĩa **câu chuyện kể** như hiện nay. Điều này cho thấy một sự thật: **mọi câu chuyện đều bắt đầu từ ký ức** — kể chuyện là kể lại việc đã qua.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 故事 là câu chuyện; 故 là cũ, 事 là việc.
+* 讲故事 là kể chuyện; 故事会 là buổi kể chuyện — hình thức sinh hoạt văn hóa phổ biến.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3510,13 +3852,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 新:**
-  * Phần 亲 (bên trái): chín nét — "thân, gần", gồm 立 + 木, đồng thời **biểu âm** (qīn ~ xīn).
-  * Bộ 斤 (bên phải): bốn nét — **cái rìu**.
-  * Mối liên hệ nội tại: Rìu (斤) chặt cây (木) cho ra **gỗ mới**. 新 là chữ của **cái vừa được làm ra** — gỗ vừa đốn, còn thơm mùi nhựa.
+  * Phần 亲 (bên trái): "thân, gần", gồm 立 + 木, đồng thời **biểu âm** (qīn ~ xīn).
+  * Bộ 斤 (bên phải): **cái rìu**.
+  * Ghép lại: Rìu (斤) chặt cây (木) cho ra **gỗ mới**. 新 là chữ của **cái vừa được làm ra** — gỗ vừa đốn, còn thơm mùi nhựa.
 * **Chữ 闻:**
   * Bộ 门 (khung ngoài): **cánh cửa**.
   * Bộ 耳 (bên trong): **cái tai**.
-  * Mối liên hệ nội tại: Tai (耳) áp vào cửa (门) để **nghe ngóng** = **nghe, biết tin**. Hình ảnh rất cụ thể: người xưa nghe tin qua cửa nhà, qua người đi đường.
+  * Ghép lại: Tai (耳) áp vào cửa (门) để **nghe ngóng** = **nghe, biết tin**. Hình ảnh rất cụ thể: người xưa nghe tin qua cửa nhà, qua người đi đường.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3526,6 +3868,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 新闻 = **tin mới nghe được**. Đây là từ du nhập, dịch từ *news* vào cuối đời Thanh. Người Hán chọn hai chữ: 新 (mới) + 闻 (nghe) — **cái mới vừa được nghe**. Cách dịch này rất tinh tế: tin tức không phải "sự thật khách quan", mà là **cái mới mà người ta vừa nghe được**. Cùng họ này có 报纸 (báo giấy), 记者 (phóng viên), 消息 (tin nhắn).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 新闻 là tin tức; 新 là mới, 闻 là nghe.
+* 新闻联播 là bản tin truyền hình quốc gia phát lúc 19 giờ hằng ngày.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3564,8 +3911,8 @@
 * **Chữ 满:**
   * Bộ 氵 (bên trái): **nước**.
   * Phần 艹 + 两 (bên phải): cỏ và "hai" — phần biểu âm/miêu tả.
-  * Mối liên hệ nội tại: Chữ phồn thể 滿 = 氵 + 㒼 — **nước dâng đầy đến miệng bình**. Nghĩa gốc: **đầy, tràn**. Từ "đầy" mở rộng thành "đủ đầy, mãn nguyện".
-* **Chữ 意:** Như mục 121 — lời phát ra từ trái tim, tức "ý".
+  * Ghép lại: Chữ phồn thể 滿 = 氵 + 㒼 — **nước dâng đầy đến miệng bình**. Nghĩa gốc: **đầy, tràn**. Từ "đầy" mở rộng thành "đủ đầy, mãn nguyện".
+* **Chữ 意:** lời phát ra từ trái tim, tức "ý".
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3575,6 +3922,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 满意 = **ý đã đầy**. Người Hán không nói "tôi thích" hay "tốt" mà nói: **cái ý trong lòng tôi đã được lấp đầy**. Đây là một khái niệm rất sâu: hài lòng không phải cảm xúc vui, mà là **trạng thái không còn thiếu gì**. Vì thế 满意 trang trọng hơn 高兴 (vui) — nó là sự đánh giá, không chỉ là cảm giác.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 满意 là hài lòng; 满 là đầy, 意 là ý.
+* 满意 thường dùng trong đánh giá dịch vụ: 我对这次服务很满意.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3611,14 +3963,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 放:**
-  * Phần 方 (bên trái): **phương hướng**, đồng thời **biểu âm** (fāng ~ fàng).
-  * Bộ 攵 (bên phải): **tay cầm roi, hành động tác động**.
-  * Mối liên hệ nội tại: Hướng (方) + tác động (攵) = **thả ra, đặt xuống, buông**. 放 là chữ của sự **giải phóng**: 放假 (nghỉ), 放学 (tan học), 放开 (buông ra).
+  * Bên trái 方: phương hướng, biểu âm (fāng ~ fàng).
+  * Bên phải 攵: bàn tay/ hành động.
+  * Ghép lại: buông ra theo một hướng — "thả, đặt".
 * **Chữ 心:**
-  * Nét 1 — Điểm: đỉnh tim.
-  * Nét 2 — Móc: thân tim.
-  * Ba điểm còn lại: **ba giọt máu** hoặc ba buồng tim.
-  * Mối liên hệ nội tại: Hình **trái tim** nhìn từ trên xuống, với các mạch máu. Đây là chữ tượng hình giải phẫu hiếm hoi.
+  * Hình trái tim: cong bao quanh, ba chấm máu bên trong.
+  * Ghép lại: trái tim — "tâm".
+  * Chuyện thú vị: 放心 là "buông trái tim" → yên tâm. 放 trong 放假 (nghỉ lễ), 放学 (tan học). 心 trong 小心 (cẩn thận), 开心 (vui).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3628,6 +3979,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 放心 = **đặt trái tim xuống**. Hình ảnh tuyệt đẹp: khi lo lắng, người ta **nâng tim lên cổ**; khi yên tâm, người ta **đặt nó xuống**. Đây là một ẩn dụ cơ thể học (embodied metaphor) rất phổ quát — tiếng Việt cũng nói "nhẹ cả lòng". 放心 là lời trấn an phổ biến nhất trong tiếng Hán: 放心吧 (yên tâm đi).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 放心 là yên tâm; 放 là buông, 心 là tim.
+* 放心 dùng khi trấn an: 你放心，我会处理好 (Bạn yên tâm, tôi sẽ xử lý ổn).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3666,11 +4022,11 @@
 * **Chữ 着:**
   * Phần 羊 (phía trên): **con dê** — bộ dương.
   * Phần 目 (phần giữa/dưới): **con mắt**.
-  * Mối liên hệ nội tại: Đây là chữ đa âm đa nghĩa: *zhe* (trợ từ tiếp diễn), *zháo* (chạm, bén lửa), *zhuó* (mặc). Trong 着急, đọc *zháo* — nghĩa **bén lửa, chạm phải**.
+  * Ghép lại: Đây là chữ đa âm đa nghĩa: *zhe* (trợ từ tiếp diễn), *zháo* (chạm, bén lửa), *zhuó* (mặc). Trong 着急, đọc *zháo* — nghĩa **bén lửa, chạm phải**.
 * **Chữ 急:**
   * Phần 刍 (phía trên): "cỏ khô, rơm".
   * Bộ 心 (phía dưới): **trái tim**.
-  * Mối liên hệ nội tại: Tim (心) bị lửa rơm (刍) đốt = **nóng ruột, gấp gáp**. Hình ảnh rất mạnh: trái tim bị cháy.
+  * Ghép lại: Tim (心) bị lửa rơm (刍) đốt = **nóng ruột, gấp gáp**. Hình ảnh rất mạnh: trái tim bị cháy.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3680,6 +4036,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 着急 = **bắt lửa vào tim**. Hai chữ ghép lại tạo nên một hình ảnh vật lý: có gì đó **chạm vào và bén lửa trong lồng ngực**, khiến người ta đứng ngồi không yên. Điều đáng chú ý: 着急 nhấn vào **cảm xúc bên trong**, khác với 忙 (bận rộn — trạng thái công việc) và 快 (nhanh — tốc độ).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 着急 là lo lắng/ sốt ruột; 着 là dính/ bốc cháy, 急 là gấp.
+* 着急 thường dùng trong tình huống gấp gáp: 别着急 (Đừng sốt ruột).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3718,11 +4079,11 @@
 * **Chữ 奇:**
   * Phần 大 (phía trên): **người to lớn**.
   * Phần 可 (phía dưới): "có thể", đồng thời **biểu âm** (kě ~ qí).
-  * Mối liên hệ nội tại: Một người **to lớn khác thường** (大) đứng trên một cái gì đó "có thể" (可) = **kỳ lạ, phi thường**. Cái gì vượt khỏi khuôn mẫu thường thấy đều là 奇.
+  * Ghép lại: Một người **to lớn khác thường** (大) đứng trên một cái gì đó "có thể" (可) = **kỳ lạ, phi thường**. Cái gì vượt khỏi khuôn mẫu thường thấy đều là 奇.
 * **Chữ 怪:**
   * Bộ 忄 (bên trái): **trái tim, cảm xúc**.
-  * Phần 圣 (bên phải): năm nét — "thánh", đồng thời **biểu âm** (shèng ~ guài).
-  * Mối liên hệ nội tại: Cảm xúc (忄) khi gặp điều không giải thích được = **lạ lùng, quái dị**. 怪 là cái lạ **gây ra phản ứng trong lòng người**.
+  * Phần 圣 (bên phải): "thánh", đồng thời **biểu âm** (shèng ~ guài).
+  * Ghép lại: Cảm xúc (忄) khi gặp điều không giải thích được = **lạ lùng, quái dị**. 怪 là cái lạ **gây ra phản ứng trong lòng người**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3732,6 +4093,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 奇怪 = **lạ và quái**. Hai chữ bổ sung nhau: 奇 là cái **khác thường về bản chất**, 怪 là cái **gây cảm giác lạ trong lòng**. Ghép lại, từ bao trùm mọi thứ khiến người ta phải dừng lại và tự hỏi: "Sao lại thế?" Trong khẩu ngữ, 奇怪 còn dùng như động từ: 我奇怪他为什么不来 (Tôi thấy lạ vì sao anh ấy không đến).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 奇怪 là kỳ lạ; 奇 là lạ, 怪 là quái.
+* 奇怪 có thể dùng như tính từ hoặc động từ: 我觉得很奇怪.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3768,10 +4134,12 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 小:**
-  * Nét 1 — Thụ (sổ giữa): **trục chính**.
-  * Nét 2–3 — Phiệt và điểm hai bên: **hai nhánh nhỏ**.
-  * Mối liên hệ nội tại: Ba nét nhỏ toả ra từ một tâm = **nhỏ bé**. Đối lập với 大 (to) — chỉ cần đổi hướng nét là đổi nghĩa.
-* **Chữ 心:** Hình trái tim — như mục 172.
+  * Ba chấm nhỏ toả ra: chấm giữa và hai chấm hai bên.
+  * Ghép lại: những hạt nhỏ — "nhỏ".
+* **Chữ 心:**
+  * Hình trái tim với ba chấm máu.
+  * Ghép lại: trái tim — "tâm".
+  * Chuyện thú vị: 小心 là "tim nhỏ" → cẩn thận. 小心眼 là người hẹp hòi. 心 còn là bộ thủ trong 忙, 怕, 想, 情.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3781,6 +4149,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 小心 = **lòng nhỏ lại**. Đây là một ẩn dụ rất đẹp: khi nguy hiểm, người ta **thu nhỏ cái tâm mình lại**, không dám nghĩ xa, chỉ tập trung vào từng bước chân. Vì thế 小心 vừa là "cẩn thận" vừa là lời cảnh báo: 小心！(Coi chừng!). Cùng logic, tiếng Việt có "thu mình lại", "dè chừng".
+
+**Kiến thức văn hóa & lịch sử**
+
+* 小心 là cẩn thận; 小 là nhỏ, 心 là tim.
+* 小心眼 là người hẹp hòi; 小心点 là "cẩn thận đấy" — lời nhắc quen thuộc.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3817,13 +4190,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 习:**
-  * Nét 1 — Móc ngang.
-  * Nét 2 — Điểm.
-  * Mối liên hệ nội tại: Chữ giản thể của 習 = 羽 (lông vũ) + 白 (trắng) — **chim non vỗ cánh tập bay**. Hình ảnh cánh chim non đập liên tục dưới nắng chính là **sự luyện tập**.
+  * Phần trên 羽: lông cánh chim non.
+  * Phần dưới 白: màu trắng — đôi cánh non còn nhợt nhạt.
+  * Ghép lại: chim non vỗ đôi cánh trắng — "luyện tập". Phồn thể 習 rõ hơn.
 * **Chữ 惯:**
-  * Bộ 忄 (bên trái): **trái tim, thói quen của lòng**.
-  * Phần 贯 (bên phải): tám nét — "xâu chuỗi, suốt", đồng thời **biểu âm** (guàn).
-  * Mối liên hệ nội tại: Lòng (忄) bị **xâu thành chuỗi** (贯) = **thói quen**. Thói quen là những hành vi được xâu lại thành một chuỗi lặp đi lặp lại.
+  * Bên trái 忄: trái tim.
+  * Bên phải 贯: xuyên qua, nối liền.
+  * Ghép lại: điều đã ăn sâu, xuyên suốt trong tim — "thói quen".
+  * Chuyện thú vị: 习惯 là thói quen; 习 trong 学习, 练习. Người Hán nói "习惯成自然" — quen rồi thành tự nhiên.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3833,6 +4207,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 习惯 = **luyện tập thành nếp**. Hai chữ ghép lại thành một định nghĩa hoàn chỉnh về thói quen: nó bắt đầu bằng **hành động lặp lại** (习) và kết thúc bằng **sự quen thuộc trong lòng** (惯). Điều này cho thấy người Hán hiểu rất rõ cơ chế hình thành thói quen: **không có thói quen nào tự sinh, tất cả đều do luyện**. Vì thế 习惯 vừa là danh từ (thói quen) vừa là động từ (quen).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 习惯 là thói quen; 习 là luyện, 惯 là quen.
+* "习惯成自然" — quen rồi thành tự nhiên; 习惯 còn là động từ "quen với".
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3869,10 +4248,10 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 愿:**
-  * Phần 原 (phía trên): mười nét — "nguồn gốc, cánh đồng", đồng thời **biểu âm** (yuán ~ yuàn).
+  * Phần 原 (phía trên): "nguồn gốc, cánh đồng", đồng thời **biểu âm** (yuán ~ yuàn).
   * Bộ 心 (phía dưới): **trái tim**.
-  * Mối liên hệ nội tại: Cái gì xuất phát từ **nguồn gốc của lòng** (原 + 心) = **nguyện vọng**. Chữ phồn thể 願 = 頁 (đầu) + 原 — cúi đầu cầu nguyện.
-* **Chữ 意:** Như mục 121.
+  * Ghép lại: Cái gì xuất phát từ **nguồn gốc của lòng** (原 + 心) = **nguyện vọng**. Chữ phồn thể 願 = 頁 (đầu) + 原 — cúi đầu cầu nguyện.
+* **Chữ 意:** Chữ 意 gồm 音 (âm) + 心 (tim) — điều phát ra từ lòng, tức "ý".
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3882,6 +4261,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 愿意 = **nguyện + ý**: điều tôi mong ở trong lòng. Điều tinh tế: 愿意 khác 想 (muốn) ở chỗ **có sự tự nguyện, không bị ép**. 我想去 (tôi muốn đi — nói về ý thích); 我愿意去 (tôi sẵn lòng đi — nói về sự đồng ý, có thể mang tính trách nhiệm). Trong hôn lễ phương Tây, câu "I do" được dịch là 我愿意 — đúng với sắc thái **tự nguyện, cam kết**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 愿意 là sẵn lòng/ muốn; 愿 là mong muốn, 意 là ý.
+* 愿意 thường dùng để hỏi ý kiến: 你愿意吗？(Bạn có sẵn lòng không?).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3920,11 +4304,11 @@
 * **Chữ 相:**
   * Phần 木 (bên trái): **cái cây**.
   * Bộ 目 (bên phải): **con mắt**.
-  * Mối liên hệ nội tại: Mắt (目) nhìn vào cây (木) = **quan sát, nhìn kỹ**. Từ "nhìn" mở rộng thành "lẫn nhau" (互相) — vì nhìn là hành vi hai chiều.
+  * Ghép lại: Mắt (目) nhìn vào cây (木) = **quan sát, nhìn kỹ**. Từ "nhìn" mở rộng thành "lẫn nhau" (互相) — vì nhìn là hành vi hai chiều.
 * **Chữ 信:**
   * Bộ 亻 (bên trái): **người**.
   * Bộ 言 (bên phải): **lời nói**.
-  * Mối liên hệ nội tại: Người (亻) + lời nói (言) = **lời nói của người là thật**. Đây là định nghĩa đẹp nhất của "tin": niềm tin là khi **lời nói và con người không tách rời nhau**.
+  * Ghép lại: Người (亻) + lời nói (言) = **lời nói của người là thật**. Đây là định nghĩa đẹp nhất của "tin": niềm tin là khi **lời nói và con người không tách rời nhau**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3934,6 +4318,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 相信 = **cùng nhìn và thấy đúng**. Không phải tin mù quáng, mà là **quan sát kỹ (相) rồi mới tin (信)**. Đây là điểm rất Hán: niềm tin phải dựa trên **sự quan sát**. 相信 vì thế trang trọng hơn 觉得 (cảm thấy) — nó là kết luận của cả con mắt và trái tim.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 相信 là tin tưởng; 相 là lẫn nhau, 信 là tin.
+* 相信 và 信任 khác nhau: 相信 là tin điều gì, 信任 là tin con người.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -3970,13 +4359,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 明:**
-  * Bộ 日 (bên trái): **mặt trời**.
-  * Bộ 月 (bên phải): **mặt trăng**.
-  * Mối liên hệ nội tại: Mặt trời + mặt trăng = **hai nguồn sáng duy nhất của bầu trời** → **sáng**. Đây là một trong những chữ ghép hội ý đẹp nhất của chữ Hán: chỉ cần hai thiên thể ấy là đủ để định nghĩa "sáng".
+  * Bên trái 日: mặt trời.
+  * Bên phải 月: mặt trăng.
+  * Ghép lại: hai nguồn sáng lớn nhất đứng cạnh nhau — "sáng, rõ".
 * **Chữ 白:**
-  * Nét 1 — Phiệt: **tia sáng** từ trên chiếu xuống.
-  * Phần 日 (bên trong): mặt trời.
-  * Mối liên hệ nội tại: Mặt trời (日) với tia sáng đầu tiên (丿) = **ánh sáng trắng của bình minh**. 白 là **trắng**, cũng là **rõ ràng** (明白, 真相大白).
+  * Phần trên: mặt trời/ tia sáng.
+  * Phần dưới: đường bao và đường ngang — ánh sáng chiếu xuống.
+  * Ghép lại: màu trắng, sự rõ ràng — "bạch".
+  * Chuyện thú vị: 明白 là hiểu rõ; 明 trong 明天 (ngày mai), 聪明 (thông minh). 白 trong 白色 (màu trắng), 白天 (ban ngày).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -3986,6 +4376,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 明白 = **sáng và trắng**. Người Hán định nghĩa sự hiểu biết bằng **ánh sáng**: hiểu là khi trong đầu **không còn vùng tối**. Hai chữ bổ sung nhau: 明 là **có ánh sáng**, 白 là **không còn gì che khuất**. Vì thế 明白 vừa là "hiểu" (động từ) vừa là "rõ ràng" (tính từ) — cùng một trạng thái: **không còn mờ**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 明白 là hiểu rõ; 明 là sáng, 白 là trắng — sáng tỏ.
+* 明白 còn dùng như "biết rồi": 我明白了 (Tôi hiểu rồi).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4023,12 +4418,12 @@
 
 * **Chữ 记:**
   * Bộ 讠 (bên trái): **lời nói**.
-  * Phần 己 (bên phải): ba nét — "mình, tự mình", đồng thời **biểu âm** (jǐ ~ jì).
-  * Mối liên hệ nội tại: Lời nói (讠) + "tự mình" (己) = **ghi lại để mình nhớ**. Chữ phồn thể 記 có 己 rõ ràng hơn. Nghĩa gốc: **ghi chép**.
+  * Phần 己 (bên phải): "mình, tự mình", đồng thời **biểu âm** (jǐ ~ jì).
+  * Ghép lại: Lời nói (讠) + "tự mình" (己) = **ghi lại để mình nhớ**. Chữ phồn thể 記 có 己 rõ ràng hơn. Nghĩa gốc: **ghi chép**.
 * **Chữ 得:**
   * Bộ 彳 (bên trái): **bước chân**.
   * Phần 旦 + 寸 (bên phải): mặt trời mọc và bàn tay.
-  * Mối liên hệ nội tại: Bước chân (彳) + có được trong tay (寸) = **đạt được**. 得 là chữ của **kết quả có được**.
+  * Ghép lại: Bước chân (彳) + có được trong tay (寸) = **đạt được**. 得 là chữ của **kết quả có được**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4038,6 +4433,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 记得 = **ghi nhớ và còn giữ được**. Điều tinh tế nằm ở chữ 得: nó biến "nhớ" từ một trạng thái thành **một thứ có thể giữ được hay mất đi**. 记得 là "còn nhớ"; 不记得 là "không nhớ nữa". Người Hán hình dung ký ức như **một vật được nắm trong tay** — có thể tuột mất bất cứ lúc nào.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 记得 là nhớ; 记 là ghi nhớ, 得 là được.
+* 记得 thường đi với mệnh đề: 我记得他说过 (Tôi nhớ anh ấy đã nói).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4074,13 +4474,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 环:**
-  * Bộ 王 (bên trái): **ngọc** — ba nét ngang và một nét dọc, viên ngọc xâu thành chuỗi.
-  * Phần 不 (bên phải): bốn nét — "không", đồng thời **biểu âm** (bù ~ huán).
-  * Mối liên hệ nội tại: Ngọc (王) + âm "bất" = **vòng ngọc** (chữ phồn thể 環 = 王 + 睘 vòng tròn). Nghĩa gốc: **cái vòng**, mở rộng thành **bao quanh**.
+  * Bộ 王 (bên trái): **ngọc** — ngang và dọc, viên ngọc xâu thành chuỗi.
+  * Phần 不 (bên phải): "không", đồng thời **biểu âm** (bù ~ huán).
+  * Ghép lại: Ngọc (王) + âm "bất" = **vòng ngọc** (chữ phồn thể 環 = 王 + 睘 vòng tròn). Nghĩa gốc: **cái vòng**, mở rộng thành **bao quanh**.
 * **Chữ 境:**
   * Bộ 土 (bên trái): **đất**.
-  * Phần 竟 (bên phải): mười một nét — "cuối cùng, trọn", đồng thời **biểu âm** (jìng).
-  * Mối liên hệ nội tại: Đất (土) đến chỗ tận cùng (竟) = **biên giới, cõi**. Từ đó 境 mang nghĩa **vùng, cảnh, hoàn cảnh**.
+  * Phần 竟 (bên phải): mười "cuối cùng, trọn", đồng thời **biểu âm** (jìng).
+  * Ghép lại: Đất (土) đến chỗ tận cùng (竟) = **biên giới, cõi**. Từ đó 境 mang nghĩa **vùng, cảnh, hoàn cảnh**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4090,6 +4490,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 环境 = **vòng bao quanh cõi đất** — tức là **cái bao quanh ta**. Đây là từ hiện đại dịch *environment*, nhưng vật liệu bản địa rất chính xác: 环 (vòng) + 境 (cõi). Người Hán hình dung môi trường như **một vòng tròn bao lấy con người** — không phải phông nền vô hình, mà là cái có ranh giới và tác động trực tiếp. Vì thế 环境保护 (bảo vệ môi trường) mang nghĩa **giữ gìn cái vòng bao quanh mình**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 环境 là môi trường; 环 là vòng quanh, 境 là cảnh/ cõi.
+* 环境保护 là bảo vệ môi trường; 环境 còn chỉ hoàn cảnh sống.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4126,13 +4531,13 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 联:**
-  * Bộ 耳 (bên trái): **cái tai**.
-  * Phần 关 (bên phải): sáu nét — "đóng, quan", đồng thời **biểu âm** (guān ~ lián).
-  * Mối liên hệ nội tại: Chữ phồn thể 聯 = 耳 + 絲 (tơ) — **tai được nối bằng sợi tơ**. Nghĩa gốc: **nối liền, kết nối**. Giản thể 联 đã làm mất hình sợi tơ.
+  * Bộ 耳 (bên trái): cái tai.
+  * Phần 关 (bên phải): "đóng, quan", đồng thời biểu âm (guān ~ lián).
+  * Ghép lại: phồn thể 聯 = 耳 + 絲 (tơ) — tai được nối bằng sợi tơ. Nghĩa gốc: nối liền, kết nối. Giản thể 联 làm mất hình sợi tơ.
 * **Chữ 系:**
-  * Bộ 糸 (phía dưới): **sợi tơ**, hình những vòng xoắn của tơ.
-  * Phần 丿 (phía trên): nét phẩy, gợi sợi tơ buông xuống.
-  * Mối liên hệ nội tại: Sợi tơ (糸) = **dây buộc, hệ thống**. 系 là chữ của **sự ràng buộc**.
+  * Bộ 糸 (phía dưới): sợi tơ, hình những vòng xoắn của tơ.
+  * Phần 丿 (phía trên): đường xiên, gợi sợi tơ buông xuống.
+  * Ghép lại: sợi tơ = dây buộc, hệ thống. 系 là chữ của sự ràng buộc.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4142,6 +4547,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 联系 = **nối bằng sợi dây**. Điều đẹp ở đây: người Hán không nói "giao tiếp" mà nói **buộc lại với nhau**. Hai chữ đều mang hình ảnh sợi dây (tơ, dây nối tai) — cho thấy một quan niệm: **quan hệ là thứ phải được duy trì bằng một sợi dây hữu hình**. Khi sợi dây ấy đứt, người ta gọi là 失去联系 (mất liên lạc).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 联系 là liên hệ; 联 là nối, 系 là buộc.
+* 联系方式 là thông tin liên lạc; 联系 còn dùng trong 联系实际 (gắn với thực tế).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4179,12 +4589,12 @@
 
 * **Chữ 检:**
   * Bộ 木 (bên trái): **gỗ**.
-  * Phần 佥 (bên phải): bảy nét — "tất cả, đều", đồng thời **biểu âm** (qiān ~ jiǎn).
-  * Mối liên hệ nội tại: Chữ phồn thể 檢 = 木 + 僉 — **tấm thẻ gỗ ghi điều luật để xem xét**. Nghĩa gốc: **kiểm soát, xem xét theo chuẩn**.
+  * Phần 佥 (bên phải): "tất cả, đều", đồng thời **biểu âm** (qiān ~ jiǎn).
+  * Ghép lại: Chữ phồn thể 檢 = 木 + 僉 — **tấm thẻ gỗ ghi điều luật để xem xét**. Nghĩa gốc: **kiểm soát, xem xét theo chuẩn**.
 * **Chữ 查:**
   * Phần 木 (phía trên): **cây gỗ**.
   * Phần 旦 (phía dưới): "sáng sớm, mặt trời mọc".
-  * Mối liên hệ nội tại: Cây (木) và mặt trời mọc (旦) = **nhìn rõ dưới ánh sáng**. 查 là hành động **tra xét cho rõ**.
+  * Ghép lại: Cây (木) và mặt trời mọc (旦) = **nhìn rõ dưới ánh sáng**. 查 là hành động **tra xét cho rõ**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4194,6 +4604,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 检查 = **xem xét + tra soát**. Hai chữ bổ sung nhau: 检 là **đối chiếu với chuẩn**, 查 là **tra tìm cho rõ**. Ghép lại thành nghĩa: rà soát một cách có hệ thống. Trong y tế, 检查 còn là **khám bệnh** — vì khám bệnh chính là **đối chiếu cơ thể với trạng thái bình thường**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 检查 là kiểm tra; 检 là kiểm, 查 là tra.
+* 检查 thường dùng trong y tế: 检查身体 (khám sức khỏe), 检查作业 (kiểm tra bài tập).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4233,8 +4648,8 @@
   * Bộ 角 (bên trái): **sừng** — cặp sừng của con vật.
   * Phần 刀 (phía trên phải): **con dao**.
   * Phần 牛 (phía dưới phải): **con trâu**.
-  * Mối liên hệ nội tại: Dùng **dao** (刀) tách **sừng** (角) khỏi **trâu** (牛) = **mổ, tháo rời**. Đây là một trong những chữ có hình ảnh ghê gớm nhất nhưng nghĩa lại rất trừu tượng: 解 = **cởi ra, tháo gỡ**.
-* **Chữ 决:** Như mục 120 — nước vỡ bờ, nghĩa **dứt khoát**.
+  * Ghép lại: Dùng **dao** (刀) tách **sừng** (角) khỏi **trâu** (牛) = **mổ, tháo rời**. Đây là một trong những chữ có hình ảnh ghê gớm nhất nhưng nghĩa lại rất trừu tượng: 解 = **cởi ra, tháo gỡ**.
+* **Chữ 决:** nước vỡ bờ, nghĩa **dứt khoát**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4244,6 +4659,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 解决 = **cởi ra rồi dứt điểm**. Hai bước rất rõ: 解 là **gỡ rối** (tháo từng nút), 决 là **chốt lại** (không để dây dưa). Một vấn đề chỉ được gọi là 解决 khi cả hai việc đã xong. Điều này cho thấy tư duy Hán về vấn đề: **vấn đề là một nút thắt, và giải quyết là mở nút ấy ra chứ không phải cắt bỏ**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 解决 là giải quyết; 解 là cởi/ giải, 决 là quyết.
+* 解决问题 là giải quyết vấn đề; 解决 còn dùng trong 解决办法 (cách giải quyết).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4279,11 +4699,11 @@
 
 **Bóc tách thành phần từng chữ**
 
-* **Chữ 影:** Như mục 168 — **bóng**.
+* **Chữ 影:** **bóng**.
 * **Chữ 响:**
   * Bộ 口 (bên trái): **cái miệng** — nguồn phát âm.
-  * Phần 乡 (bên phải): ba nét — "làng quê", đồng thời **biểu âm** (xiāng ~ xiǎng).
-  * Mối liên hệ nội tại: Miệng (口) + âm "hương" (乡) = **tiếng vang**. Chữ phồn thể 響 = 鄉 (làng) + 音 (âm) — **âm thanh lan ra khắp làng**.
+  * Phần 乡 (bên phải): "làng quê", đồng thời **biểu âm** (xiāng ~ xiǎng).
+  * Ghép lại: Miệng (口) + âm "hương" (乡) = **tiếng vang**. Chữ phồn thể 響 = 鄉 (làng) + 音 (âm) — **âm thanh lan ra khắp làng**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4293,6 +4713,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 影响 = **bóng + vang**. Đây là một trong những từ triết học sâu sắc nhất trong tiếng Hán hiện đại: ảnh hưởng là cái **để lại bóng** và **để lại tiếng vang** — hai thứ vô hình, không thể nắm bắt, nhưng lan xa và tồn tại lâu. Người Hán không định nghĩa ảnh hưởng bằng tác động cơ học, mà bằng **hai dấu vết mà một vật để lại sau khi nó đã đi qua**. Đây là từ dịch *influence*, và cách dịch này hay hơn nguyên bản.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 影响 là ảnh hưởng; 影 là bóng, 响 là vang.
+* 影响 có thể là danh từ hoặc động từ: 受到影响 (bị ảnh hưởng).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4330,9 +4755,9 @@
 
 * **Chữ 注:**
   * Bộ 氵 (bên trái): **nước**.
-  * Phần 主 (bên phải): năm nét — "chủ, chính", đồng thời **biểu âm** (zhǔ ~ zhù).
-  * Mối liên hệ nội tại: Nước (氵) + "chủ" (主) = **rót nước vào một chỗ**. Nghĩa gốc: **rót, dồn**. Từ đó 注 mở rộng thành **dồn sự chú ý vào một điểm** — như rót nước vào đúng một cái chén.
-* **Chữ 意:** Như mục 121.
+  * Phần 主 (bên phải): "chủ, chính", đồng thời **biểu âm** (zhǔ ~ zhù).
+  * Ghép lại: Nước (氵) + "chủ" (主) = **rót nước vào một chỗ**. Nghĩa gốc: **rót, dồn**. Từ đó 注 mở rộng thành **dồn sự chú ý vào một điểm** — như rót nước vào đúng một cái chén.
+* **Chữ 意:** Chữ 意 gồm 音 (âm) + 心 (tim) — điều phát ra từ lòng, tức "ý".
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4342,6 +4767,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 注意 = **dồn ý vào một điểm**. Đây là một định nghĩa rất vật lý về sự chú ý: không phải "nhìn", mà là **rót toàn bộ ý của mình vào một chỗ**. Khi nói 注意, người Hán đang bảo bạn **dồn hết tâm trí lại**, không để nó tràn ra xung quanh. Vì thế 注意 thường dùng như lời cảnh báo: 注意安全 (chú ý an toàn).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 注意 là chú ý; 注 là đổ vào/ tập trung, 意 là ý.
+* 注意 thường dùng như lời nhắc: 注意安全 (chú ý an toàn).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4380,11 +4810,11 @@
 * **Chữ 选:**
   * Bộ 辶 (bao quanh dưới–trái): **bước chân**.
   * Phần 先 (bên trong): "trước", đồng thời **biểu âm** (xiān ~ xuǎn).
-  * Mối liên hệ nội tại: Bước chân (辶) + "trước" (先) = **tiến lên phía trước để chọn**. Chữ phồn thể 選 = 辶 + 巽 (khiêm nhường, chọn) — nghĩa gốc: **tuyển chọn người**.
+  * Ghép lại: Bước chân (辶) + "trước" (先) = **tiến lên phía trước để chọn**. Chữ phồn thể 選 = 辶 + 巽 (khiêm nhường, chọn) — nghĩa gốc: **tuyển chọn người**.
 * **Chữ 择:**
   * Bộ 扌 (bên trái): **bàn tay**.
   * Phần 睪 (giản thể còn 又 + 二): **biểu âm** (zé) và gợi sự **lựa ra**.
-  * Mối liên hệ nội tại: Tay (扌) + "chọn" = **dùng tay nhặt ra**. 择 là hành động **tách một vật khỏi đám đông**.
+  * Ghép lại: Tay (扌) + "chọn" = **dùng tay nhặt ra**. 择 là hành động **tách một vật khỏi đám đông**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4394,6 +4824,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 选择 = **tuyển + trạch**: hai chữ đều là "chọn", ghép lại thành **sự lựa chọn có cân nhắc**. Sự lặp nghĩa này (đồng nghĩa ghép) là đặc trưng của tiếng Hán hiện đại: nó nhấn mạnh **tính trọng đại** của hành động. Người Hán phân biệt 挑 (chọn nhanh, khẩu ngữ) với 选择 (chọn có suy nghĩ, trang trọng).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 选择 là lựa chọn; 选 là chọn, 择 là chọn lựa.
+* 选择 còn là danh từ: 这是一个艰难的选择 (Đây là một lựa chọn khó khăn).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4432,12 +4867,12 @@
 * **Chữ 参:**
   * Phần 厶 (phía trên): **cái riêng**.
   * Phần 大 (giữa): **người lớn**.
-  * Phần 彡 (phía dưới): ba nét — **tia sáng, lông**.
-  * Mối liên hệ nội tại: Chữ phồn thể 參 vẽ **ba ngôi sao** (Tam Tinh) — nghĩa gốc: **xen vào, dự phần**. Từ "có mặt trong một nhóm" mới sinh nghĩa "tham gia".
+  * Phần 彡 (phía dưới): **tia sáng, lông**.
+  * Ghép lại: Chữ phồn thể 參 vẽ **ba ngôi sao** (Tam Tinh) — nghĩa gốc: **xen vào, dự phần**. Từ "có mặt trong một nhóm" mới sinh nghĩa "tham gia".
 * **Chữ 加:**
   * Bộ 力 (bên phải): **sức lực**.
   * Phần 口 (bên trái): **cái miệng**.
-  * Mối liên hệ nội tại: Nói (口) thêm (加) sức (力) = **thêm vào**. 加 là chữ của **sự gia tăng**.
+  * Ghép lại: Nói (口) thêm (加) sức (力) = **thêm vào**. 加 là chữ của **sự gia tăng**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4447,6 +4882,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 参加 = **xen vào và thêm sức**. Đây là một định nghĩa rất hay về tinh thần tập thể: tham gia không phải **đứng trong phòng**, mà là **đóng góp thêm sức lực** (力). Người Hán phân biệt 参加 (tham gia thực sự) với 出席 (có mặt) — 出席 chỉ là hiện diện, còn 参加 là **dự phần**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 参加 là tham gia; 参 là tham dự, 加 là thêm vào.
+* 参加 thường đi với 活动, 比赛, 会议: 参加会议 (tham dự hội nghị).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4485,11 +4925,11 @@
 * **Chữ 发:**
   * Phần 癶 (phía trên): **hai bàn chân dang ra**, gợi sự mở rộng.
   * Phần 又 (phía dưới): **bàn tay**.
-  * Mối liên hệ nội tại: Chữ giản thể gộp hai chữ cổ: 發 (phát ra, bắn đi) và 髮 (tóc). Trong 发现, 发 mang nghĩa **làm cho lộ ra**.
+  * Ghép lại: Chữ giản thể gộp hai chữ cổ: 發 (phát ra, bắn đi) và 髮 (tóc). Trong 发现, 发 mang nghĩa **làm cho lộ ra**.
 * **Chữ 现:**
   * Bộ 王 (bên trái): **ngọc**.
   * Phần 见 (bên phải): **nhìn thấy**.
-  * Mối liên hệ nội tại: Ngọc (王) **hiện ra** (见) = **xuất hiện, lộ ra**. Chữ phồn thể 現 = 玉 + 見 — viên ngọc lấp lánh trong đá, khi nhìn kỹ mới thấy.
+  * Ghép lại: Ngọc (王) **hiện ra** (见) = **xuất hiện, lộ ra**. Chữ phồn thể 現 = 玉 + 見 — viên ngọc lấp lánh trong đá, khi nhìn kỹ mới thấy.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4499,6 +4939,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 发现 = **làm cho lộ ra và nhìn thấy**. Đây là từ đẹp và chính xác hơn nhiều so với "phát hiện" thông thường: phát hiện không phải **tạo ra cái mới**, mà là **làm cho cái đã có hiện ra**. Người Hán quan niệm: mọi phát minh vĩ đại đều là **thứ vốn đã tồn tại**, chỉ chờ được nhìn thấy. Vì thế 发现 (phát hiện cái có sẵn) khác 发明 (phát minh ra cái chưa có).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 发现 là phát hiện; 发 là phát ra, 现 là hiện ra.
+* 发现 còn dùng trong khoa học: 发现新物种 (phát hiện loài mới).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4535,11 +4980,11 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 复:**
-  * Phần 𠂉 (phía trên): nét nghiêng và ngang.
-  * Phần 日 (giữa): **mặt trời**.
-  * Bộ 攵 (phía dưới): **bàn tay hành động**.
-  * Mối liên hệ nội tại: Chữ phồn thể 復 = 彳 (bước chân) + 复 — **đi rồi quay lại**. Nghĩa gốc: **trở lại, lặp lại**.
-* **Chữ 习:** Như mục 176 — chim non vỗ cánh tập bay.
+  * Phần 𠂉 (phía trên): đường xiên và đường ngang.
+  * Phần 日 (giữa): mặt trời.
+  * Bộ 攵 (phía dưới): bàn tay hành động.
+  * Ghép lại: phồn thể 復 = 彳 (bước chân) + 复 — đi rồi quay lại. Nghĩa gốc: trở lại, lặp lại.
+* **Chữ 习:** chim non vỗ cánh tập bay; gồm 羽 (lông cánh) + 白 (màu trắng).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4549,6 +4994,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 复习 = **lặp lại việc luyện tập**. Định nghĩa này chính xác đến mức gần như là một phương pháp sư phạm: ôn tập không phải "đọc lại", mà là **luyện lại nhiều lần** cho đến khi thành phản xạ. Người Hán phân biệt rõ: 学习 (học mới), 复习 (ôn lại), 预习 (chuẩn bị trước).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 复习 là ôn tập; 复 là lặp lại, 习 là luyện.
+* 复习 và 温习 đều là ôn bài; 复习 phổ biến trong trường học hiện đại.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4588,7 +5038,7 @@
   * Phần 自 (phía trên): **"tự" — cái mũi** (chữ 自 vốn là hình cái mũi).
   * Phần 田 (giữa): **cánh mũi**, hai lỗ mũi.
   * Phần 廾 (phía dưới): **hai tay** nâng đỡ.
-  * Mối liên hệ nội tại: Cái mũi (自) với hai lỗ (田) và hai tay (廾) đỡ = **bộ phận nhô ra giữa mặt**. Chữ 鼻 là một trong những chữ tượng hình giải phẫu chi tiết nhất.
+  * Ghép lại: Cái mũi (自) với hai lỗ (田) và hai tay (廾) đỡ = **bộ phận nhô ra giữa mặt**. Chữ 鼻 là một trong những chữ tượng hình giải phẫu chi tiết nhất.
 * **Chữ 子:** Hậu tố danh từ hoá — như trong 桌子, 椅子, 筷子.
 
 **Nguồn gốc & Bản chất từng chữ**
@@ -4599,6 +5049,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 鼻子 = **cái mũi**. Trong tiếng Hán, từ chỉ bộ phận cơ thể thường đi kèm 子 (脖子 — cổ, 肚子 — bụng, 鞋子 — giày). Đây là **hậu tố khẩu ngữ** giúp từ nghe tự nhiên hơn; bỏ 子 vẫn hiểu nhưng nghe "lạnh" và trang trọng hơn.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 鼻子 là cái mũi; 鼻 là mũi, 子 là hậu tố.
+* 鼻祖 (tổ mũi) nghĩa là ông tổ của một nghề/ một môn — người đầu tiên sáng lập.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4635,14 +5090,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 耳:**
-  * Nét 1 — Hoành: vành tai trên.
-  * Nét 2–3 — Thụ và hoành: khung tai.
-  * Nét 4–6 — Hoành và nét móc: vành tai dưới.
-  * Mối liên hệ nội tại: Hình **vành tai** nhìn thẳng, với các đường sụn bên trong. Gần như không thay đổi từ giáp cốt văn đến nay.
+  * Khung ngoài: vành tai.
+  * Bên trong: các nếp gấp của tai.
+  * Ghép lại: cái tai — "nhĩ".
 * **Chữ 朵:**
-  * Phần 几 (phía trên): **cái vành, cái cong**.
-  * Phần 木 (phía dưới): **cái cây**.
-  * Mối liên hệ nội tại: Hoa rủ xuống từ cành cây (木) = **đóa hoa**. 朵 là lượng từ cho hoa: 一朵花 (một đóa hoa). Trong 耳朵, 朵 gợi **vành tai cong như cánh hoa**.
+  * Phần trên 几: cành/ cuống.
+  * Phần dưới 木: cây.
+  * Ghép lại: chùm hoa trên cành — "đoá". Trong 耳朵, 朵 chỉ còn là hậu tố.
+  * Chuyện thú vị: 耳朵 là tai; 耳 trong 耳机 (tai nghe), 木耳 (mộc nhĩ). 朵 trong 花朵 (đoá hoa).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4652,6 +5107,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 耳朵 = **vành tai**. Chữ 耳 một mình đã là "tai", nhưng trong khẩu ngữ người Hán thêm 朵 để từ nghe **mềm và tròn** hơn — giống như 鼻子, 脖子. Điều này cho thấy tiếng Hán khẩu ngữ có xu hướng **song tiết hoá**: từ một âm tiết được mở rộng thành hai để dễ nghe, dễ phân biệt.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 耳朵 là tai; 耳 là tai, 朵 là hậu tố/ đoá.
+* 耳 trong 耳机 (tai nghe), 木耳 (mộc nhĩ); 耳 còn là bộ thủ trong 听, 聊.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4687,8 +5147,8 @@
 
 * **Chữ 嘴:**
   * Bộ 口 (bên trái): **cái miệng**.
-  * Phần 觜 (bên phải): mười hai nét — 此 (này) + 角 (sừng/mỏ), đồng thời **biểu âm** (zī ~ zuǐ).
-  * Mối liên hệ nội tại: Miệng (口) + "mỏ, sừng" (觜) = **cái miệng nhô ra như mỏ chim**. Nghĩa gốc: **mỏ chim**, sau mở rộng thành miệng người (khẩu ngữ).
+  * Phần 觜 (bên phải): mười 此 (này) + 角 (sừng/mỏ), đồng thời **biểu âm** (zī ~ zuǐ).
+  * Ghép lại: Miệng (口) + "mỏ, sừng" (觜) = **cái miệng nhô ra như mỏ chim**. Nghĩa gốc: **mỏ chim**, sau mở rộng thành miệng người (khẩu ngữ).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4697,6 +5157,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Trong tiếng Hán hiện đại, 嘴 xuất hiện trong nhiều từ mang sắc thái **khẩu ngữ, thân mật hoặc châm biếm**: 嘴巴 (miệng), 多嘴 (nhiều chuyện), 嘴甜 (khéo miệng), 亲嘴 (hôn). Điều này cho thấy 嘴 gắn với **lời nói đời thường** hơn là bộ phận giải phẫu.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 嘴 là miệng; 嘴 gồm 口 (miệng) + 此 (biểu âm).
+* 嘴 trong 嘴巴 (miệng), 嘴馋 (ham ăn); 嘴 còn dùng trong 吵嘴 (cãi nhau).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4733,11 +5198,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 头:**
-  * Phần 丷 (phía trên): hai nét như hai sợi tóc.
-  * Phần 大 (giữa): **người**.
-  * Nét 丶 (dưới): điểm nhấn.
-  * Mối liên hệ nội tại: Chữ phồn thể 頭 = 豆 (bình) + 頁 (đầu) — **cái đầu**. Giản thể 头 gợi hình **cái đầu với hai sợi tóc**.
-* **Chữ 发:** Trong 头发, đây là chữ **髮 (phát — tóc)**, bị gộp vào 发 khi giản thể hoá. 髮 = 髟 (tóc dài) + 拔 (nhổ) — **sợi tóc**.
+  * Phần dưới 大: thân người.
+  * Chấm trên 丶: cái đầu.
+  * Ghép lại: phần trên cùng của thân — "đầu".
+* **Chữ 发:**
+  * Phần trên 癶: hai chân/ tóc xoè ra.
+  * Phần dưới 弓 + 殳: cung và tay cầm — dáng tóc dài.
+  * Ghép lại: mái tóc dài buông xuống — "tóc". Phồn thể 髮.
+  * Chuyện thú vị: 头发 là mái tóc; 发 trong 理发 (cắt tóc), 发现 (phát hiện). 发 còn đọc "fā" là phát ra, "fà" là tóc.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4747,6 +5215,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 头发 = **tóc trên đầu**. Điều đáng chú ý: tiếng Hán nói rõ **vị trí** (头) trước khi nói **vật** (发), vì 发 một mình đã mang nghĩa "phát ra" — cần 头 để xác định. Trong văn hoá Hán, tóc mang ý nghĩa đặc biệt: 身体发肤，受之父母 (thân thể, tóc da đều do cha mẹ ban cho) — nên thời cổ, cắt tóc là một hành vi hệ trọng.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 头发 là mái tóc; 头 là đầu, 发 là tóc.
+* Người Hán cổ coi tóc là phần của cơ thể do cha mẹ ban cho, nên ít cắt tóc — "身体发肤，受之父母".
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4782,8 +5255,8 @@
 
 * **Chữ 腿:**
   * Bộ 月 (bên trái): **thịt, bộ phận cơ thể** (bộ nhục — hình dạng giống chữ 月).
-  * Phần 退 (bên phải): chín nét — "lùi lại", đồng thời **biểu âm** (tuì ~ tuǐ).
-  * Mối liên hệ nội tại: Thịt (月) + "lùi" (退) = **bộ phận dùng để lùi bước**. Đây là một chữ hình thanh, nhưng phần biểu âm lại gợi đúng chức năng của bộ phận: chân là thứ giúp ta **di chuyển tới hoặc lui**.
+  * Phần 退 (bên phải): "lùi lại", đồng thời **biểu âm** (tuì ~ tuǐ).
+  * Ghép lại: Thịt (月) + "lùi" (退) = **bộ phận dùng để lùi bước**. Đây là một chữ hình thanh, nhưng phần biểu âm lại gợi đúng chức năng của bộ phận: chân là thứ giúp ta **di chuyển tới hoặc lui**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4792,6 +5265,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. Điều thú vị: bộ 月 (nhục) là dấu hiệu nhận biết **chữ chỉ bộ phận cơ thể** — 脸 (mặt), 脚 (chân), 胳膊 (cánh tay), 肚子 (bụng), 脖子 (cổ). Chỉ cần thấy bộ 月 bên trái, ta biết ngay chữ đó nói về thân thể.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 腿 là chân/ đùi; 腿 gồm 月 (thịt) + 退 (biểu âm).
+* 火腿 là giăm bông — "chân lửa"; 腿 còn trong 大腿 (đùi), 小腿 (bắp chân).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4827,8 +5305,8 @@
 
 * **Chữ 脚:**
   * Bộ 月 (bên trái): **thịt, bộ phận cơ thể**.
-  * Phần 却 (bên phải): bảy nét — "lùi lại, từ chối", đồng thời **biểu âm** (què ~ jiǎo).
-  * Mối liên hệ nội tại: Thịt (月) + "khước" (却) = **bàn chân**. Chữ phồn thể 腳 = 肉 + 卻 — cùng cấu trúc.
+  * Phần 却 (bên phải): "lùi lại, từ chối", đồng thời **biểu âm** (què ~ jiǎo).
+  * Ghép lại: Thịt (月) + "khước" (却) = **bàn chân**. Chữ phồn thể 腳 = 肉 + 卻 — cùng cấu trúc.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4837,6 +5315,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * Vì là từ đơn, bản chất từ chính là bản chất chữ. 脚 mở rộng sang đồ vật: 山脚 (chân núi), 墙角 (góc tường), 桌脚 (chân bàn) — mọi thứ **ở dưới cùng** đều có "chân". Điều này phản ánh một ẩn dụ phổ quát: **cái đỡ lấy vật là chân**.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 脚 là bàn chân; 脚 gồm 月 (thịt) + 却 (biểu âm).
+* 脚 trong 脚步 (bước chân), 山脚 (chân núi); 脚本 là kịch bản.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4874,12 +5357,12 @@
 
 * **Chữ 药:**
   * Bộ 艹 (phía trên): **cỏ, cây**.
-  * Phần 约 (phía dưới): sáu nét — "ước, hẹn", đồng thời **biểu âm** (yuē ~ yào).
-  * Mối liên hệ nội tại: Cây cỏ (艹) + âm "ước" = **thuốc**. Chữ phồn thể 藥 = 艹 + 樂 (nhạc) — **cây cỏ mang lại sự hài hoà cho cơ thể**. Điều này phản ánh nền y học cổ: thuốc phần lớn là **thảo mộc**.
+  * Phần 约 (phía dưới): "ước, hẹn", đồng thời **biểu âm** (yuē ~ yào).
+  * Ghép lại: Cây cỏ (艹) + âm "ước" = **thuốc**. Chữ phồn thể 藥 = 艹 + 樂 (nhạc) — **cây cỏ mang lại sự hài hoà cho cơ thể**. Điều này phản ánh nền y học cổ: thuốc phần lớn là **thảo mộc**.
 * **Chữ 店:**
   * Bộ 广 (phía trên trái): **mái nhà, hiên**.
   * Phần 占 (bên trong): **chiếm chỗ, đánh dấu**.
-  * Mối liên hệ nội tại: Mái nhà (广) có người **chiếm chỗ** (占) để buôn bán = **cửa hàng**.
+  * Ghép lại: Mái nhà (广) có người **chiếm chỗ** (占) để buôn bán = **cửa hàng**.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4889,6 +5372,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 药店 = **cửa hàng thuốc**. Cấu trúc "vật bán + cửa hàng" là khuôn mẫu mở rộng vô hạn của tiếng Hán: chỉ cần biết 店, bạn có thể tự tạo tên cửa hàng. Điều này cho thấy tính **năng sản** (productivity) của chữ Hán: một hình vị cố định + một hình vị thay đổi = vô số từ mới.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 药店 là hiệu thuốc; 药 là thuốc, 店 là cửa hàng.
+* 中药 là thuốc Bắc/ y học cổ truyền; 西药 là thuốc Tây.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4925,11 +5413,14 @@
 **Bóc tách thành phần từng chữ**
 
 * **Chữ 水:**
-  * Nét 1 — Thụ móc: **dòng chảy giữa**.
-  * Nét 2 — Móc: **dòng bên trái**.
-  * Nét 3–4 — Phiệt và nét móc: **hai dòng hai bên**.
-  * Mối liên hệ nội tại: Hình **dòng nước chảy** với các nhánh toả ra hai bên. 水 là chữ tượng hình của dòng sông.
-* **Chữ 平:** Như mục 147 — mặt phẳng cân bằng.
+  * Trục dọc giữa: dòng nước.
+  * Bốn chấm hai bên: giọt nước bắn ra.
+  * Ghép lại: dòng nước chảy — "thủy".
+* **Chữ 平:**
+  * Phần trên 干: cột/ thanh ngang.
+  * Phần dưới 八: hai vật đỡ cân bằng.
+  * Ghép lại: mặt phẳng — "bằng".
+  * Chuyện thú vị: 水平 là "mặt nước" → trình độ. 平 trong 公平 (công bằng), 平安 (bình an).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4939,6 +5430,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 水平 = **mặt nước phẳng**. Đây là từ mang **ẩn dụ đo lường** rất đẹp: người xưa dùng **mặt nước** làm chuẩn để đo độ cao, độ nghiêng. Từ "mặt nước" → "đường chuẩn" → "trình độ". Khi nói 他的汉语水平很高 (trình độ tiếng Trung của anh ấy rất cao), người Hán đang hình dung: **mực nước trong anh ta đã dâng cao đến đâu**. Trình độ là **chiều cao của mặt nước** trong mỗi người.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 水平 là trình độ/ mặt nước; 水 là nước, 平 là bằng phẳng.
+* 水平 nghĩa bóng là "mức nước" của năng lực: 中文水平 (trình độ tiếng Trung).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -4976,15 +5472,15 @@
 
 **Bóc tách thành phần từng chữ**
 
-* **Chữ 行:** Như mục 104 — ngã tư đường, nghĩa **đi**.
+* **Chữ 行:** ngã tư đường, nghĩa **đi**.
 * **Chữ 李:**
   * Phần 木 (phía trên): **cây**.
   * Phần 子 (phía dưới): **quả, đứa con**.
-  * Mối liên hệ nội tại: Cây (木) sinh quả (子) = **quả mận**. Trong 行李, 李 chỉ góp âm (lǐ), không mang nghĩa.
+  * Ghép lại: Cây (木) sinh quả (子) = **quả mận**. Trong 行李, 李 chỉ góp âm (lǐ), không mang nghĩa.
 * **Chữ 箱:**
   * Bộ 竹 (phía trên): **tre** — vật liệu làm hòm thời cổ.
-  * Phần 相 (phía dưới): chín nét — "nhìn nhau", đồng thời **biểu âm** (xiāng ~ xiāng).
-  * Mối liên hệ nội tại: Tre (竹) + âm "tương" = **hòm tre, rương**. Người Hán cổ đựng đồ trong hòm tre đan.
+  * Phần 相 (phía dưới): "nhìn nhau", đồng thời **biểu âm** (xiāng ~ xiāng).
+  * Ghép lại: Tre (竹) + âm "tương" = **hòm tre, rương**. Người Hán cổ đựng đồ trong hòm tre đan.
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -4995,6 +5491,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 行李箱 = **hòm đựng hành lý**. Cấu trúc ba chữ rất rõ: 行李 (cái được mang đi) + 箱 (vật chứa). Điều này cho thấy tiếng Hán hiện đại có xu hướng **ghép nhiều tầng**: một từ hai âm tiết (行李) + một hình vị loại biệt (箱) = từ ba âm tiết. Đây là cách tạo từ chính xác và dễ hiểu, dù dài.
+
+**Kiến thức văn hóa & lịch sử**
+
+* 行李箱 là vali; 行李 là hành lý, 箱 là hộp.
+* 行李 còn dùng trong 行李架 (giá để hành lý), 托运行李 (ký gửi hành lý).
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 
@@ -5032,9 +5533,9 @@
 
 * **Chữ 护:**
   * Bộ 扌 (bên trái): **bàn tay, che chở**.
-  * Phần 户 (bên phải): bốn nét — "cửa nhà, hộ gia đình", đồng thời **biểu âm** (hù ~ hù).
-  * Mối liên hệ nội tại: Tay (扌) che **cửa nhà** (户) = **bảo vệ**. Đây là hình ảnh rất cụ thể: giơ tay chắn trước cửa để che chở người trong nhà.
-* **Chữ 照:** Như mục 122 — soi chiếu, và (nghĩa mở rộng) **giấy chứng nhận, ảnh thẻ** (护照, 驾照 — bằng lái xe).
+  * Phần 户 (bên phải): "cửa nhà, hộ gia đình", đồng thời **biểu âm** (hù ~ hù).
+  * Ghép lại: Tay (扌) che **cửa nhà** (户) = **bảo vệ**. Đây là hình ảnh rất cụ thể: giơ tay chắn trước cửa để che chở người trong nhà.
+* **Chữ 照:** soi chiếu, và (nghĩa mở rộng) **giấy chứng nhận, ảnh thẻ** (护照, 驾照 — bằng lái xe).
 
 **Nguồn gốc & Bản chất từng chữ**
 
@@ -5044,6 +5545,11 @@
 **Nguồn gốc & Bản chất của từ / cụm từ**
 
 * 护照 = **giấy tờ bảo vệ**. Đây là cách dịch rất hay: hộ chiếu không chỉ là giấy thông hành, mà là **thứ che chở bạn khi ở nước ngoài** — bạn được nhận diện, được bảo hộ bởi quốc gia mình. Chữ 护 (bảo vệ) đứng trước, 照 (chứng nhận) đứng sau: **bảo vệ bằng chứng nhận**. Cùng họ này có 签证 (thị thực), 身份证 (chứng minh thư).
+
+**Kiến thức văn hóa & lịch sử**
+
+* 护照 là hộ chiếu; 护 là bảo vệ, 照 là giấy tờ/ ảnh.
+* 签证 là visa; 办护照 là làm hộ chiếu. Hộ chiếu Trung Quốc có màu đỏ tương tự nhiều nước châu Á.
 
 **Hình ảnh liên tưởng & Câu chuyện ghi nhớ**
 

@@ -9,7 +9,7 @@ for ($k = 0; $k -lt $idx.Count; $k++) {
   $start = $idx[$k]
   $end = if ($k + 1 -lt $idx.Count) { $idx[$k + 1] - 1 } else { $lines.Count - 1 }
   $block = $lines[$start..$end]
-  $need = @('**Nét vẽ chữ', '**Bóc tách thành phần từng chữ**', '**Nguồn gốc & Bản chất từng chữ**', '**Nguồn gốc & Bản chất của từ / cụm từ**', '**Hình ảnh liên tưởng', '**Ngữ cảnh sử dụng')
+  $need = @('**Nét vẽ chữ', '**Bóc tách thành phần từng chữ**', '**Nguồn gốc & Bản chất từng chữ**', '**Nguồn gốc & Bản chất của từ / cụm từ**', '**Kiến thức văn hóa & lịch sử**', '**Hình ảnh liên tưởng', '**Ngữ cảnh sử dụng')
   $miss = @()
   foreach ($n in $need) {
     $found = $false

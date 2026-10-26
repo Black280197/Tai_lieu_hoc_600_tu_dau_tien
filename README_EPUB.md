@@ -27,6 +27,8 @@
 * **Ảnh nhúng offline**: toàn bộ ảnh thứ tự nét được tải về và đóng gói trong ebook, không cần Internet khi đọc.
 * **CSS tối ưu E-ink**: chữ đen nền trắng, tương phản cao, không phụ thuộc màu, ảnh giới hạn 60% bề rộng, blockquote đóng khung, chống ngắt khối giữa trang.
 * **Mục lục đầu sách**: trang bìa phụ + danh sách 100 từ liên kết trực tiếp.
+* **Bóc tách theo thành phần**: mỗi chữ được phân tích theo bộ thủ, chữ con, phần biểu âm/biểu nghĩa và "Ghép lại" — không liệt kê từng nét.
+* **Kiến thức văn hóa & lịch sử**: mỗi từ có thêm 1–3 gạch đầu dòng về phong tục, thành ngữ, địa danh, lịch sử hoặc khác biệt Bắc – Nam.
 
 ## Cách dựng lại / dựng phần tiếp theo
 
